@@ -1,0 +1,3373 @@
+---
+- !ruby/struct:Card
+  id: '1'
+  title: lapanadería
+  text: "l a p a n a d e r i a  es un estudio de arquitectura inicialmente formado
+    por Eva Morales Soler, David Cañavate Cazorla y Rubén Alonso Mallén que se forman
+    en la Escuela de Arquitectura de Sevilla. Tras pasar varios años en Barcelona,
+    Berlín y Torino trabajando, estudiando y haciendo otras cosas mas cercanas al
+    arte que a la arquitectura, en 2003 vuelven a Sevilla y deciden empezar a trabajar
+    juntos, compartiendo los primeros años espacio y proyectos con el grupo de artistas
+    c a l c.\r\n\r\nUbicados en un barrio popular cercano al centro de Sevilla, el
+    lugar idóneo para amasar y ofrecer pan. El pan, como la arquitectura que habla
+    de lo básico, doméstico y esencial, aquella moldeable, inacabada y adaptable...
+    \r\n\r\nTrabajan en la experimentación y acción en torno a la vivienda y su adecuación
+    al medio social y ambiental.  “casa más o menos:  la vivienda como proceso”. El
+    proceso de intercambio entre colectivos y agentes intervinientes en el diseño,
+    construcción y gestión de la vivienda.  El proceso de ir transformando el espacio,
+    adaptándolo a nuestros cambiantes modos de vida; el proceso de construcción colectiva
+    del hábitat.\r\n\r\nLapanadería está elaborando una plataforma web de creación
+    y difusión de contenidos (www.masqueunacasa.org) que apuesten por una cultura
+    de la vivienda como proceso, fomente otros modos de hacer vivienda y genere una
+    herramienta que nos ayuden a hacer realidad la vivienda de “código abierto”.\r\n\r\n\r\n"
+  properties: "l a p a n a d e r i a  \r\nactualmente somos:\r\neva morales soler\r\nruben
+    alonso mallén\r\n\r\ndiseño web:\r\nconcepto <a href=\"http://www.calcaxy.com\"
+    target=_blank>c a l c</a> + lapanaderia \r\nprogramado por dani matas"
+  main_image_id: '379'
+  vposition: 
+  start: ''
+  finish: ''
+  color_id: '5'
+  visible: false
+  main_slide_id: 
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2013-06-11 17:17:40.227765'
+  url: l-a-p-a-n-a-d-e-r-i-a
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: lapanaderia
+- !ruby/struct:Card
+  id: '5'
+  title: cOntenedOr
+  text: "Proyecto para desarrollar un concepto y la primera aplicación de una serie
+    de tiendas de productos gastronómicos y culturales de diferentes paises del mundo.\r\n
+    \r\nLa propuesta parte de la imagen del baul de viajes para generar un espacio
+    neutro donde cada pais aparece como una unidad cultural, un baul abierto donde
+    se muestra su especificidad.\r\n\r\nPor otro lado, el cliente necesitaba un espacio
+    flexible que permitiera diferentes configuraciones ya que además de la venta de
+    productos pretendía realizar diferentes eventos relacionados con la gastronomía
+    y cultura de cada país. Los contenedores al ser móviles, permiten variar la disposición
+    de la tienda y adaptarla a los diferentes eventos de un maner rápida. \r\n\r\nEl
+    concepto que se propone para las tiendas abarca desde la identidad corporativa
+    hasta el diseño espacial de las tiendas.\r\n\r\nElementos del proyecto:\r\n\r\n-
+    identidad (nombre y logotipo)\r\n- proyecto de arquitectura \r\n- diseño de papeleria
+    y elementos auxiliares\r\n- diseño de mobiliario y decoración\r\n- diseño de vestuario\r\n\r\n"
+  properties: "uso: comercial\r\nlugar: sevilla\r\nsuperficie: 72 m2\r\npromotor:
+    mm ingenia ideas s.l.\r\nconstructora: gadyc s.l.\r\nen colaboración con: c a
+    l c\r\n"
+  main_image_id: '71'
+  vposition: '32'
+  start: 30/07/2005
+  finish: 1/1/2006
+  color_id: '16'
+  visible: true
+  main_slide_id: '435'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-01-18 17:43:55'
+  url: contenedor
+  slides_count: '11'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: contenedor
+- !ruby/struct:Card
+  id: '7'
+  title: stand interoliva
+  text: "El proyecto consiste en la realización de un stand para una feria internacional
+    de productos relacionados con la aceituna.\r\n\r\nFrente a los stands que suelen
+    plantearse en este tipo de eventos, diseñados especificamentes para cada feria,
+    la propuesta plantea un conjunto de módulos independientes que permiten distintas
+    composiciones de montaje para adaptarse a distintas ferias, o usarlo como mueble
+    expositor para las instalaciones de la empresa.\r\nLos módulos tienen conexiones
+    electricas en los laterales para conectarlos los unos a los otros, lo que permite
+    además de diferentes configuraciones, que las instalaciones ubicadas en cada uno
+    de ellos funcionen con cualquier configuración.\r\n\r\nA nivel espacial, la configuración
+    planteada para esta feria es un elemento que delimita un espacio interior de reunion,
+    definiendo un limite que sirve como expositor y que genera  distintos niveles
+    de transparencia.\r\n"
+  properties: "uso: comercial\r\nlugar: alimentaria fira barcelona\r\nsuperficie:
+    35 m2\r\npromotor: interoliva s.l.\r\nconstructora: duna decoración"
+  main_image_id: '119'
+  vposition: '11'
+  start: 10/10/2005
+  finish: 20/03/2006
+  color_id: '16'
+  visible: true
+  main_slide_id: '80'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-01-21 16:12:51'
+  url: stand-interoliva
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: stand-interoliva
+- !ruby/struct:Card
+  id: '8'
+  title: ampliación ceip juan de mairena
+  text: "La propuesta para la nueva construcción de una sala de usos multiples para
+    este pequeño colegio, se basa en la necesidad por parte del profesorado de un
+    espacio de reunión y trabajo para el profesorado. Dicha propuesta se plantea como
+    crecimiento del colegio hacia el patio de juego.\r\n\r\nDesde el proyecto, nos
+    imaginamos la nueva construccion como una posibiliodad para mejorar el patio de
+    juegos, además de dotar al colegio con la sala de usos múltiples requerida.\r\n\r\nEl
+    nuevo cerramiento que da espacio de intimidad a los profesores, da al mismo tiempo
+    un soporte al juego y recreo de los niños en el patio. Así el nuevo cerramiento
+    se va adaptando a las necesidades internas y externas, formando sitios para sentarse,
+    pintandose exteriormente con pintura de pizarra para dibujar con tiza, generando
+    lineas y sombras que se convierten al final del patio en un columpio, una porteria...."
+  properties: "uso: docente\r\nlugar: castilleja del campo, sevilla\r\nsuperficie:
+    37 m2\r\npromotor: ente público de infraestructuras y servicios educativos\r\nconstructora:
+    letran universal de servicios s.l.\r\ncolaboradores: manuel carrasco, beatriz
+    gerena\r\narquitecto tecnico: manuel carrasco"
+  main_image_id: '129'
+  vposition: '3'
+  start: 15/05/2006
+  finish: 10/12/2006
+  color_id: '3'
+  visible: true
+  main_slide_id: '84'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-02-15 17:09:53'
+  url: ampliacion-ceip-juan-de-mairena
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ampliacion-ceip-juan-de-mairena
+- !ruby/struct:Card
+  id: '9'
+  title: ceip guadalquivir
+  text: "La propuesta para la construcción de varios comedores en diferentes colegios
+    de Sevilla parte de dos condicionantes. Por un lado un bajo presupuesto de ejecución
+    material, por otro la necesidad de que sean ejecutados rápidamente ya que en muchos
+    casos la necesidad de utilización de estos espacios es inminente. \r\n\r\nPor
+    ello se decide plantear un “tipo” que se va adaptando al contexto especifico de
+    cada colegio, planteando un espacio semiabierto de transición para los niños,
+    que va tomando forma de patio o galeria según donde se situa.\r\n\r\nSe parte
+    de la forma y estructura de una “nave industrial”, lo que nos permite cubrir un
+    espacio de grandes luces con un bajo costo.\r\n\r\nEl exterior del comedor se
+    plantea de forma sencilla y resistente, mientras que el interior es mas calido
+    y acogedor, mediante lucernarios cenitales que se adaptan y varian con las cerchas
+    metalicas, recubiertas de tableros de madera de fibras orientadas (OSB) con aislamiento
+    \ incorporado.\r\n\r\nEl suelo y el zocalo interior se resuelven con un pavimento
+    de vinilo. El exterior blanco se mantiene y el interior va cambiendo de color
+    según la situación del comedor.\r\n\r\nEn el comedor ubicado en el CEIP Guadalquivir,
+    la ubicación propuesta era una zona residual triangular, con el lindero de la
+    parcela en un lateral, y una construcción de escasa calidad en el otro. Por ello,
+    se decide que el comedor se encierre en si mismo y se plantea un patio central
+    a los que se abren los espacios interiores."
+  properties: "uso: docente\r\nlugar: mairena del aljarafe, sevilla\r\nsuperficie:
+    250 m2\r\npromotor: ente público de infraestructuras y servicios educativos\r\nconstructora:
+    cogari s.l.\r\ncolaboradores: beatriz gerena muñoz\r\narquitecto técnico: jesus
+    miguel villa"
+  main_image_id: '155'
+  vposition: '13'
+  start: 06/06/2006
+  finish: 15/09/2007
+  color_id: '3'
+  visible: true
+  main_slide_id: '90'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-02-15 17:09:28'
+  url: ceip-guadalquivir
+  slides_count: '10'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ceip-guadalquivir
+- !ruby/struct:Card
+  id: '10'
+  title: ceip hispalis
+  text: "La propuesta para la construcción de varios comedores en diferentes colegios
+    de Sevilla parte de dos condicionantes. Por un lado un bajo presupuesto de ejecución
+    material, por otro la necesidad de que sean ejecutados rápidamente ya que en muchos
+    casos la necesidad de utilización de estos espacios es inminente. \r\n\r\nPor
+    ello se decide plantear un “tipo” que se va adaptando al contexto especifico de
+    cada colegio, planteando un espacio semiabierto de transición para los niños,
+    que va tomando forma de patio o galeria según donde se situa.\r\n\r\nSe parte
+    de la forma y estructura de una “nave industrial”, lo que nos permite cubrir un
+    espacio de grandes luces con un bajo costo.\r\n\r\nEl exterior del comedor se
+    plantea de forma sencilla y resistente, mientras que el interior es mas calido
+    y acogedor, mediante lucernarios cenitales que se adaptan y varian con las cerchas
+    metalicas, recubiertas de tableros de madera de fibras orientadas (OSB) con aislamiento
+    \ incorporado.\r\n\r\nEl suelo y el zocalo interior se resuelven con un pavimento
+    de vinilo. El exterior blanco se mantiene y el interior va cambiendo de color
+    según la situación del comedor.\r\n\r\nEn el comedor ubicado en el CEIP Hispalis,
+    el comedor se sitúa junto a la zona de juegos del colegio, con uno de sus laterales
+    abriendose a este. Por ello se plantea en este lateral del edificio una galería
+    cubierta que sirve de espacio de transición entre la zona de juegos y el comedor."
+  properties: "uso: docente\r\nlugar: sevilla\r\nsuperficie: 250 m2\r\npromotor: ente
+    público de infraestructuras y servicios educativos\r\nconstructora: cogari s.l.\r\ncolaboradores:
+    beatriz gerena muñoz\r\nestructura: duarte asociados s.l.\r\narquitecto técnico:
+    jesus miguel villa"
+  main_image_id: '209'
+  vposition: '15'
+  start: 06/06/2006
+  finish: 05/05/2008
+  color_id: '3'
+  visible: true
+  main_slide_id: '181'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2011-03-11 12:56:59'
+  url: ceip-hispalis
+  slides_count: '15'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ceip-hispalis
+- !ruby/struct:Card
+  id: '11'
+  title: colegio jaén
+  text: "Este proyecto fue el ganador del concurso para la creación de un nuevo centro
+    docente tipo c3 en la zona Boulevard de Jaén convocado por el Ente Público de
+    Infraestructuras y Servicios Educativos de la Junta de Andalucía. \r\n\r\nEl solar
+    objeto del proyecto se encuentra situado en un borde de la ciudad y presenta la
+    singularidad de encontrarse en gran parte de su superficie por debajo de la cota
+    de la calle. Esto, junto con la visión de las montañas de Sierra Morena al fondo,
+    genera cuando se está en el solar una sensación de aislamiento con respecto al
+    entorno urbano.\r\n\r\nEl edificio propuesto, intenta aprovecharse de esta situación,
+    adaptándose a la topografía del solar, y generando espacios exteriores y de juego
+    desde los cuales las visiones predominantes son las del propio edificio o las
+    del paisaje montañoso. \r\n\r\nDesde el punto de vista de implantación, el edificio
+    se forma por 3 piezas en “U” (la zona de Infantil, la de Primaria y la zona de
+    Equipamientos y Servicios Comunes) que se sitúan en el Suroeste de la parcela,
+    configurando la zona más urbana de la misma e intentando alejarse de la vía rápida
+    situada al Norte y de la zona industrial cercana. \r\n\r\nLa decisión de ubicar
+    la zona de Infantil y de Primaria en piezas independientes y no en un único bloque
+    de tres plantas se debe a dos razones. Por un lado la disposición propuesta permite
+    separar los espacios exteriores y de juego de infantil y primaria. Por otro, esta
+    disposición permite más fácilmente la construcción del edificio en dos fases,
+    pudiéndose construir la pieza de primaria mientras la de infantil sigue funcionando
+    independientemente. \r\n\r\nPor otro lado la separación entre aularios (Infantil
+    y Primaria) y equipamientos permite, por un lado, el acceso directo desde la calle
+    a dichos equipamientos (Biblioteca, Comedor, etc.) sin tener que atravesar el
+    resto del edificio. Por otro lado, la separación de espacios docentes sin instalaciones
+    fijas (aulas) de los que si las tienen (talleres, etc.) permite con mayor facilidad
+    la posible remodelación de los primeros.\r\n\r\nLa solución estructural a base
+    de placas alveolares reduce aproximadamente a la mitad el número de vigas y pilares
+    con respecto a un forjado unidireccional tradicional y por tanto permite más fácilmente
+    una redistribución de los espacios del edificio en caso de que sea necesario.\r\n\r\n"
+  properties: "uso: docente\r\nlugar: jaén\r\nsuperficie: 3998 m2\r\npromotor: ente
+    público de infraestructuras y servicios educativos\r\nconstructora: san josé s.l.\r\ncolaboradores:
+    beatriz gerena, esperanza moreno, joaquin moral\r\nestructura: duarte asociados
+    s.l.\r\ninstalaciones: aster consultores s.l.\r\narquitecto técnico: jesus miguel
+    villa"
+  main_image_id: '229'
+  vposition: '32'
+  start: 15/11/2006
+  finish: 15/02/2008
+  color_id: '3'
+  visible: true
+  main_slide_id: '429'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-02-15 17:09:41'
+  url: colegio-jaen
+  slides_count: '25'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: colegio-jaen
+- !ruby/struct:Card
+  id: '12'
+  title: ceip maria zambrano
+  text: "La propuesta para la construcción de varios comedores en diferentes colegios
+    de Sevilla parte de dos condicionantes. Por un lado un bajo presupuesto de ejecución
+    material, por otro la necesidad de que sean ejecutados rápidamente ya que en muchos
+    casos la necesidad de utilización de estos espacios es inminente. \r\n\r\nPor
+    ello se decide plantear un “tipo” que se va adaptando al contexto especifico de
+    cada colegio, planteando un espacio semiabierto de transición para los niños,
+    que va tomando forma de patio o galeria según donde se situa.\r\n\r\nSe parte
+    de la forma y estructura de una “nave industrial”, lo que nos permite cubrir un
+    espacio de grandes luces con un bajo costo.\r\n\r\nEl exterior del comedor se
+    plantea de forma sencilla y resistente, mientras que el interior es mas calido
+    y acogedor, mediante lucernarios cenitales que se adaptan y varian con las cerchas
+    metalicas, recubiertas de tableros de madera de fibras orientadas (OSB) con aislamiento
+    \ incorporado.\r\n\r\nEl suelo y el zocalo interior se resuelven con un pavimento
+    de vinilo. El exterior blanco se mantiene y el interior va cambiendo de color
+    según la situación del comedor.\r\n\r\nEn el comedor ubicado en el CEIP María
+    Zambrano, el edificio se sitúa en la zona de aparcamientos del colegio, que está
+    separada de la zona de juegos por una grada de fábrica de ladrillo. El proyecto
+    propone la demolición de parte de la grada para aumentar la relación del edificio
+    con la zona de juegos, y su reconstrucción como parte de una galería que sirve
+    de transición entre la zona de juegos y el comedor."
+  properties: "uso: docente\r\nlugar: sevilla\r\nsuperficie: 280 m2\r\npromotor: ente
+    público de infraestructuras y servicios educativos\r\ncolaboradores: esperanza
+    moreno cruz\r\nestructura: duarte asociados s.l.\r\narquitecto tecnico: jesus
+    miguel villa"
+  main_image_id: '231'
+  vposition: '9'
+  start: 05/06/2007
+  finish: 20/02/2009
+  color_id: '3'
+  visible: true
+  main_slide_id: '93'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2011-03-11 12:58:38'
+  url: ceip-maria-zambrano
+  slides_count: '10'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ceip-maria-zambrano
+- !ruby/struct:Card
+  id: '13'
+  title: ceip juan XXIII
+  text: "La propuesta para la construcción de varios comedores en diferentes colegios
+    de Sevilla parte de dos condicionantes. Por un lado un bajo presupuesto de ejecución
+    material, por otro la necesidad de que sean ejecutados rápidamente ya que en muchos
+    casos la necesidad de utilización de estos espacios es inminente. \r\n\r\nPor
+    ello se decide plantear un “tipo” que se va adaptando al contexto especifico de
+    cada colegio, planteando un espacio semiabierto de transición para los niños,
+    que va tomando forma de patio o galeria según donde se situa.\r\n\r\nSe parte
+    de la forma y estructura de una “nave industrial”, lo que nos permite cubrir un
+    espacio de grandes luces con un bajo costo.\r\n\r\nEl exterior del comedor se
+    plantea de forma sencilla y resistente, mientras que el interior es mas calido
+    y acogedor, mediante lucernarios cenitales que se adaptan y varian con las cerchas
+    metalicas, recubiertas de tableros de madera de fibras orientadas (OSB) con aislamiento
+    \ incorporado.\r\n\r\nEl suelo y el zocalo interior se resuelven con un pavimento
+    de vinilo. El exterior blanco se mantiene y el interior va cambiendo de color
+    según la situación del comedor.\r\n\r\nEn el comedor ubicado en el CEIP Juan XXIII,
+    el edificio se sitúa en la parte trasera de la zona de espacios libres de la parcela.
+    Se plantea el edificio “tipo” con una tercera crujía añadida. Esta tercera crujía
+    nos permite generar un porche delantero vinculado con el acceso desde el interior
+    del colegio y una zona trasera con un acceso de servicio para cátering."
+  properties: "uso: docente\r\nlugar: sevilla\r\nsuperficie: 280 m2\r\npromotor: ente
+    público de infraestructuras y servicios educativos\r\ncolaboradores: esperanza
+    moreno cruz\r\nestructura: duarte asociados s.l.\r\narquitecto tecnico: jesus
+    miguel villa"
+  main_image_id: '243'
+  vposition: '11'
+  start: 05/06/2007
+  finish: 20/02/2009
+  color_id: '3'
+  visible: true
+  main_slide_id: '179'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2011-03-11 12:55:44'
+  url: ceip-juan-xxiii
+  slides_count: '11'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ceip-juan-xxiii
+- !ruby/struct:Card
+  id: '14'
+  title: vivero
+  text: "El proyecto es una transformación de un edificio de principios de siglo (el
+    antiguo ayuntamiento del pueblo) en la sede de empresa dedicada a la producción
+    de plantas forestales autóctonas, un vivero.\r\n\r\nEn el vivero se da una superposición
+    entre lo nátural y lo industrial, es una “fábrica” de plantas. La propuesta para
+    la intervención en el edificio pretende conjugar esos dos aspectos. Se potencia
+    el suelo como soporte físico y visual, mediante un nuevo pavimento de baldosas
+    hidráulicas, diseñadas para este proyecto, que mediante una combinación aleatoria
+    de 2 piezas con motivos geométricos generan un nuevo “estrato orgánico” que unifica
+    los espacios de trabajo.\r\n\r\nEl edificio se “limpia” de elementos superficiales,
+    (instalaciones existentes...etc) para mantener el techo y las paredes en blanco,
+    potenciando asi, el caracter masivo de los muros de carga y la estructura clara
+    del edificio, convirtiendolo en un contenedor neutro.\r\n\r\nSe eliminan los tabiques
+    existentes y se amplian los huecos de puertas, para conseguir vistas longitudinales
+    que abarquen toda la crujia,  y para generar una sensación de transparencia y
+    claridad en el trabajo.\r\n\r\nLas nuevas particiones verticales, de madera y
+    vidrio, se relacionan con las ventanas preexistentes adoptando una geometria que
+    marca la diferencia entre lo viejo y lo nuevo y que dan continuidad a la luz proveniente
+    de las ventanas.\r\n\r\n"
+  properties: "uso: oficinas\r\nlugar: villanueva de rio y minas, sevilla\r\nsuperficie:
+    486 m2\r\npromotor: turbepal s.l.\r\ncolaboradores: beatriz gerena, maite jaraba\r\nfotografía:
+    jorge yeregui - lapanaderia"
+  main_image_id: '285'
+  vposition: '21'
+  start: 06/06/2005
+  finish: 15/06/2007
+  color_id: '13'
+  visible: true
+  main_slide_id: '97'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2010-01-18 17:52:02'
+  url: vivero
+  slides_count: '15'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vivero
+- !ruby/struct:Card
+  id: '15'
+  title: alcalá 01
+  text: "El concepto casa + o - se propone como una plataforma para formular estrategias
+    alternativas en materia de vivienda. Un sistema para abrir los procesos de definición
+    de la vivienda, tanto en lo formal como en lo constructivo, lo que se traduce
+    en interacción y participación del usuario. \r\n\r\nLa primera aplicación de este
+    concepto es ALCALA01, un edificio de 8 apartamentos en el que el usuario es partícipe
+    del proceso diseño y finalización de la vivienda. Una vez que ha seleccionado
+    cual es la casa que más le interesa, le planteamos una serie de opciones sobre
+    diferentes aspectos de la vivienda. A partir de una opción base puede añadir (opción
+    +) o quitar elementos (opción -) para cada uno de estos aspectos, lo que supondrá
+    aumentar o disminuir respectivamente el precio final de la vivienda. \r\n\r\nDesde
+    el punto de la tipología de la vivienda, gracias al buen clima que se da en Alcalá
+    de Guadaira los espacios exteriores de la casa pueden utilizarse como una zona
+    más de la vivienda gran parte del año, con la ventaja de que el precio por m2
+    de construcción de estos espacios es sustancialmente inferior al de los espacios
+    interiores. Por ello, aprovechando la pendiente de la parcela, planteamos las
+    viviendas escalonadas, intercalándose con espacios exteriores, de forma que todas
+    las viviendas tienen al menos un patio o terraza de uso propio.\r\n\r\n"
+  properties: "uso: vivienda plurifamiliar\r\nlugar: alcala de guadaira, sevilla\r\nsuperficie:
+    984 m2\r\npromotor: m.v.s.m. s.l.\r\nconstructora: gadyc, s.l.\r\ncolaboradores:
+    c a l c, beatriz gerena, maite jaraba, inés alvarez-ossorio\r\nfotografía: jorge
+    yeregui - lapanaderia\r\n\r\n"
+  main_image_id: '291'
+  vposition: '5'
+  start: 06/12/2004
+  finish: 15/10/2007
+  color_id: '7'
+  visible: true
+  main_slide_id: '445'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2012-02-29 10:06:25'
+  url: casa-mas-o-menos-alcalá01
+  slides_count: '18'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: alcala-01
+- !ruby/struct:Card
+  id: '16'
+  title: casa-local
+  text: "Se nos proponía transformar un local comercial en una pequeña vivienda. Esta
+    situación se da cada vez con mas frecuencia en muchas ciudades. Durante muchos
+    años los bajos de los bloques de viviendas eran destinados automáticamente a uso
+    comercial, incluso en zonas en las que el uso comercial no era claramente rentable.
+    Esto ha hecho que muchos de esos locales estén cerrados o abandonados.\r\n\r\nDebido
+    al aumento del coste del suelo en zonas céntricas se empieza a considerar la posibilidad
+    de habitar estos espacios, cuya carácterística principal es el gran volumen que
+    tienen en relación a su pequeña superficie. Esto es debido a que por normativa
+    tienen una altura superior a la de una vivienda convencional (3.60 m). Sin embargo,
+    esta altura no es suficiente para plantear entreplantas habitables. Para aprovechar
+    este potencial planteamos el proyecto desde tres estrategias:\r\n\r\n1. Decidimos
+    que el proyecto no se configure desde la planta si no desde la sección. En una
+    vivienda no todas las actividades necesitan la misma altura para realizarse, así
+    que apilamos usos que sumen 3.60 metros y planteamos una entreplanta en zig-zag
+    que se va adaptando a estos usos.\r\n\r\n2. Integramos espacios de almacenamiento
+    .Para optimizar el volumen disponible, y dada la escasa superficie del local integramos
+    en el diseño armarios, alacenas, estanterias, etc, de manera que la superficie
+    útil sea realmente “útil”. Tanto para acceder a algunos de estos espacios de almacenamiento
+    como a las entreplantas se plantea una escalera móvil.\r\n\r\n3. Introducimos
+    una especie de “patios horizontales”, que permiten disfrutar del exterior desde
+    el interior de la vivienda, y que eliminen en parte la sensación de “vivir en
+    un bajo”.\r\n\r\nEstas tres estrategias se integran formalmente en un único “mueble”
+    que se va adaptando  a las diferentes necesidades."
+  properties: "uso: vivienda unifamiliar\r\nlugar: sevilla\r\nsuperficie: 60 m2\r\npromotor:
+    gadyc s.l.\r\ncolaboradores: beatriz gerena\r\nfotografía: jorge yeregui - lapanaderia"
+  main_image_id: '617'
+  vposition: '35'
+  start: 10/02/2004
+  finish: 23/09/2006
+  color_id: '7'
+  visible: true
+  main_slide_id: '111'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2012-02-29 15:39:09'
+  url: casa-local
+  slides_count: '15'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-local
+- !ruby/struct:Card
+  id: '17'
+  title: casa cuberta
+  text: "El padre de un amigo compró un solar en un pueblo cercano a Sevilla para
+    vivir allí y nos encargó el proyecto. la pregunta que nos hicimos fue ¿Cómo hacer
+    una casa “de pueblo” hoy? \r\n\r\nA nivel de implantación, la vivienda se dispone
+    en zigzag a lo largo de la parcela creando patios y jardines vinculados a los
+    espacios vivideros. esta disposición permite una mayor relación entre los espacios
+    interiores y exteriores, y una sensación de mayor amplitud.\r\n\r\nFormalmente
+    el proyecto parte de su entorno inmediato, una zona “trasera” del pueblo donde
+    se mezclan viviendas unifamiliares con talleres y pequeños edificios industriales
+    y agrícolas. \r\nEl bloque de hormigón, el panel ondulado de fibrocemento, la
+    chapa galvanizada, etc. se toman como materiales básicos con los que construir
+    una vivienda integrada en su entorno, pero actual. \r\n\r\nDesde el punto de vista
+    constructivo se plantean muros de carga de Termoarcilla buscando el aumento de
+    la inercia térmica de la vivienda así como la reducción del coste económico eliminando
+    la duplicidad cerramiento–estructura.\r\nPara evitar la radiación solar directa
+    la cubiertas se plantean ventiladas con planchas de fibrocemento pintadas de blanco
+    sobre tabiques palomeros; y en las fachadas de planta primera se colocan las mismas
+    planchas atornilladas sobre la Termoarcilla para formar una cámara ventilada que
+    impide el recalentamiento del cerramiento. \r\nSe confía en 4 ventiladores de
+    techo y dos toldos para el frescor de la casa en verano y los colectores solares
+    se colocan sobre la cubierta inclinada del lavadero.\r\n"
+  properties: "uso: vivienda unifamiliar\r\nlugar: gerena, sevilla\r\nsuperficie:
+    125 m2\r\npromotor: daniel cuberta touzon\r\ncolaboradores: beatriz gerena\r\narquitecto
+    técnico: jesús miguel villa\r\nfotografía: jorge yeregui - lapanaderia"
+  main_image_id: '1301'
+  vposition: '23'
+  start: 10/10/2005
+  finish: 15/06/2007
+  color_id: '7'
+  visible: true
+  main_slide_id: '224'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2012-02-29 15:39:32'
+  url: casa-cuberta
+  slides_count: '19'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-cuberta
+- !ruby/struct:Card
+  id: '18'
+  title: mrgnt 01
+  text: "Este trabajo se planteó como propuesta para una exposición sobre arquitectura,
+    en la que participaban 5 grupos de jóvenes arquitectos de Sevilla y que fue organizada
+    por la Caja San Fernando. \r\n\r\nEl planteamiento consistía en la colocación
+    de unas \"señales urbanas\", en 12 localizaciones situadas en la manzana donde
+    se encontraba la sala de exposiciones. \r\n\r\nEstas señales eran puntos de señalización
+    tomados de los planos turísticos y de orientación (\"Usted está aquí\"), que sacados
+    de su contexto funcional y de representación se adherían a las superficies de
+    la ciudad. Gracias a la manipulación de los textos que aparecían en estos puntos,
+    y a su colocación espacial, se hacían manifiestas otras lecturas del lugar donde
+    se insertaban, tanto a nivel espacial, como simbólico y significativo.\r\n\r\nEn
+    la sala de exposiciones se encontraba uno de los 12 puntos, donde se podía recoger
+    un plano, que con apariencia de guía turística, marcaba la situación de todos
+    los puntos, proponiendo un paseo por el barrio.\r\n\r\nSe planteaba la posibilidad
+    de dos lecturas paralelas, una por medio del plano-guía (exposición), que daba
+    una lectura unitaria de la actuación y la contextualizaba, y otra que surgía en
+    el encuentro fortuito de los habitantes en sus deplazamientos cotidianos."
+  properties: |-
+    uso: arte
+    lugar: sevilla
+    promotor: caja san fernando
+  main_image_id: '381'
+  vposition: '4'
+  start: 05/05/2001
+  finish: 05/05/2001
+  color_id: '9'
+  visible: true
+  main_slide_id: '113'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-06-30 15:47:16'
+  url: mrgnt-01
+  slides_count: '13'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: mrgnt-01
+- !ruby/struct:Card
+  id: '19'
+  title: piazza verticale
+  text: "Piazza Verticale es uno de los seis proyectos seleccionados para su ejecución,
+    dentro de la convocatoria AIM Project (Attreverso I Muri - A través de los Muros)
+    organizada por la Fundación Pistoletto-Cittadellarte (Biella, Italia) y la Unión
+    Industrial de Biella. \r\n\r\nEl proyecto se plantea para ser ubicado en espacios
+    industriales que, por diversas razones han quedado englobados en un tejido claramente
+    residencial y urbano. A uno de los muros existentes se le superpone una estructura
+    que en sus  diferentes pliegues y cavidades va conformando espacios accesibles
+    sin un uso predeterminado. Un espacio público vertical."
+  properties: |-
+    uso: arte
+    lugar: biella, italia
+    promotor: fondazione pistoletto
+  main_image_id: '409'
+  vposition: '14'
+  start: 09/09/2002
+  finish: 12/12/2004
+  color_id: '9'
+  visible: true
+  main_slide_id: '160'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-06-30 15:45:57'
+  url: piazza-verticale
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: piazza-verticale
+- !ruby/struct:Card
+  id: '20'
+  title: todas direcciones
+  text: "Esta propuesta recibió uno de los tres PREMIOS que se otorgaron en el Concurso
+    de Intervenciones Artísticas en el Entorno de la Autovía Minera, convocado por
+    la Consejería de Cultura del Principado de Asturias. \r\n\r\nPlanteamos un muro,
+    una señal donde escribir, una valla imagen. Un limite espaciado que se situa entre
+    la autovía y los lugares que va atravesando, entre dos velocidades. Un objeto
+    que aparece y desaparece a lo largo del viaje, un lugar donde la quietud del paisaje
+    y la velocidad de la autovía pueden ser observados desde otro punto de vista,
+    desde su propio limite.\r\n\r\nEl esquema constructivo se basaba en cerchas verticales
+    metálicas que a modo de costillas variables, van conformando los pliegues del
+    muro. Las cerchas se colocaban cada 2 metros y en sentido longitudinal, se iban
+    colocando paneles nervados en las zonas transitables, y para los planos verticales
+    segun las zonas y el uso, paneles de chapa perforada, policarbonatos traslucidos,..."
+  properties: "uso: arte\r\nlugar: autovia minera asturias\r\npromotor: consejeria
+    de cultura del principado de asturias\r\nen colaboración con: jaime gastalver"
+  main_image_id: '455'
+  vposition: '4'
+  start: 01/01/2003
+  finish: 01/01/2003
+  color_id: '9'
+  visible: true
+  main_slide_id: '130'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-07-01 11:12:28'
+  url: todas-direcciones
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: todas-direcciones
+- !ruby/struct:Card
+  id: '21'
+  title: camouflage
+  text: "Esta propuesta recibió uno de los tres PREMIOS que se otorgaron en el Concurso
+    de Intervenciones Artísticas en el Entorno de la Autovía Minera, convocado por
+    la Consejería de Cultura del Principado de Asturias. \r\n\r\nEl impacto en el
+    territorio de las infraestructuras de comunicación es indudable. Mediante nuestra
+    actuación no pretendemos suavizar  materialmente este impacto, para eso la misma
+    técnica, ya posee sus metodos, pantallas acústicas, repoblaciones, areas de descanso...telefonos
+    de socorro.\r\n\r\nDe hecho, incluso se podría decir que nuestro objetivo con
+    esta actuación es ampliarlo, desplazarlo hasta nuestra mirada, nuestro campo de
+    visión, como un impacto mental donde se nos aparece extrañamente camuflado...\r\nPretendemos
+    DES-figurar el paisaje, difuminar los contornos, las delimitaciones de discursos,
+    observamos el resultado inquietante de un paisaje cuyos contornos son borrosos.
+    Mirada extrañada y placer de un terreno indeterminado a partir del cual repensar
+    el paisaje y el territorio.\r\n\r\nNo se camufla el viaducto para ocultarlo, sino
+    para mostrarlo en toda su amplitud. "
+  properties: "uso: arte\r\nlugar: autovia minera asturias\r\npromotor: consejeria
+    de cultura del principado de asturias\r\nen colaboración con: jaime gastalver"
+  main_image_id: '473'
+  vposition: '6'
+  start: 01/01/2003
+  finish: 01/01/2003
+  color_id: '9'
+  visible: true
+  main_slide_id: '135'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-07-01 11:12:07'
+  url: camouflage
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: camouflage
+- !ruby/struct:Card
+  id: '22'
+  title: plaza "el muro"
+  text: "Esta propuesta recibió el SEGUNDO PREMIO en el concurso para el diseño de
+    una nueva plaza en el espacio urbano conocido como “El Muro” en Utrera, convocado
+    por el ayuntamiento de la ciudad.\r\n\r\n“El Muro” de Utrera no está construido,
+    ni es lineal, ni es un límite, puede decirse que “El Muro” donde se plantea la
+    intervención, irónicamente, no es un muro. Se trata, por el contrario, de un solar,
+    un espacio, un lugar de paso.\r\n\r\nLa propuesta pretende “llenar” el vacío existente
+    en el nombre de la plaza, introduciendo un nuevo elemento que le de carácter,
+    que responda a las nuevas necesidades generadas por la apertura creada en el parcelario,
+    y a la necesidad de vincularlo con su propia memoria difusa.\r\n\r\nConstruimos
+    un nuevo “muro” que ya no es frontera y clausura, sino camino y apertura, un  elemento
+    lineal que funciona como:\r\n- Eje-bisagra de las actividades del parque.\r\n-
+    Soporte de las infraestructuras: quioscos, paneles informativos, red de electricidad,
+    \ \r\n     agua, saneamiento...\r\n- Espina dorsal en la que se soporta el paso
+    principal y las distintas ramificaciones.\r\n- Desarrollo de los distintos elementos
+    y suelos del parque.\r\n- Organizador de los cambios de cota, generando una subida
+    con pendiente  \r\n     accesible (8%).\r\n- Camino simbólico de entrada al casco
+    histórico de Utrera."
+  properties: "uso: concursos\r\nlugar: utrera, sevilla\r\nsuperficie: 7600 m2\r\npromotor:
+    ayuntamiento de utrera\r\nen colaboración con: diego brieva, marta reina, cristina
+    goberna"
+  main_image_id: '507'
+  vposition: '29'
+  start: 30/11/2004
+  finish: 30/11/2004
+  color_id: '11'
+  visible: true
+  main_slide_id: '169'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-06-30 15:25:52'
+  url: plaza-el-muro
+  slides_count: '5'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: plaza-el-muro
+- !ruby/struct:Card
+  id: '23'
+  title: alquife
+  text: "Esta propuesta fue presentada al Concurso de Ideas para la rehabilitación
+    del antiguo Cargadero de Mineral “El Alquife” en el puerto de Almería, convocado
+    por el Ayuntamiento de Almería y la Junta de Andalucía.\r\n\r\nEl objetivo era
+    conservar el concepto de edificio-máquina que siempre tuvo el cargadero, pero
+    reinterpretandolo desde la actualidad, una máquina que pasa de transformar el
+    paisaje almeriense extrayendo mineral, a ser en si misma paisaje. El cargadero
+    se convierte en un nuevo jardín-oasis artificial, una máquina verde sobre el agua.\r\n\r\nSe
+    plantean varias estrategias. Introduccion de un parque y un jardín. Un parque
+    con vegetación ornamental (artificial) en el nivel superior del cargadero, generando
+    una nueva topografía mediante el relleno variable de los antiguos depositos de
+    mineral con tierra vegetal y aligerantes, y un jardín botánico con especies acuáticas
+    autóctonas en el nivel inferior colocando módulos de jardineras sobre la estructura
+    existente.\r\n\r\nPara que la generación y el mantenimiento de estas “naturalezas”
+    sea viable (dada la escasez de agua en esta ciudad), introducimos en la estructura
+    del cargadero una pequeña instalación de desalación de agua de mar por medio de
+    energía solar. Esta instalación proporciona el agua necesaria para el riego diario
+    de los parques y el consumo del edificio.\r\n\r\nEntre los niveles del parque
+    y el jardín se colocan todos los espacios expositivos, culturales y de servicio.
+    Además se introducen varios núcleos de comunicación vertical que relacionan todos
+    los niveles, posibilitando en todo momento un recorrido personalizado por el edificio."
+  properties: "uso: concursos\r\nlugar: almeria\r\nsuperficie: 6350 m2\r\npromotor:
+    consejeria de cultura\r\ncolaboradores: eva meisinger, calc\r\nasesoramiento jardinería:
+    javier diaz roldan\r\nasesoramiento energía solar: valerio fernandez quero"
+  main_image_id: '509'
+  vposition: '23'
+  start: 10/10/2004
+  finish: 10/10/2004
+  color_id: '11'
+  visible: true
+  main_slide_id: '142'
+  main_file_id: 
+  link: ''
+  created_at: 
+  updated_at: '2008-06-30 15:24:31'
+  url: alquife
+  slides_count: '15'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: alquife
+- !ruby/struct:Card
+  id: '24'
+  title: vp mollina
+  text: "Esta propuesta quedó en segundo lugar en el concurso organizado por la Empresa
+    Pública del Suelo de Andalucía para el desarrollo de 14 viviendas unifamiliares
+    de protección pública en Mollina, Málaga.\r\n\r\nEl solar objeto de la propuesta
+    se componía de 14 parcelas de iguales dimensiones y geometría, pero con distintas
+    orientaciones, 8 al norte y 6 al sur. Esta configuración fue determinante a la
+    hora de establecer los criterios de diseño.\r\n\r\nPor un lado, la repetición
+    de geometría y dimensiones de las parcelas apuntaba a la generación de un módulo
+    que pudiera repetirse, y que optimizara por tanto los tiempos y costes de ejecución
+    del conjunto. Sin embargo, el hecho de que algunas parcelas estén orientadas al
+    norte y otras al sur, obligaba a que dicho módulo funcionara óptimamente para
+    ambas orientaciones.\r\n\r\nPor ello se propone un módulo de dos viviendas casi
+    simétricas, que se repite cada dos parcelas. La adopción de este módulo aporta
+    las siguientes ventajas:\r\n\r\nLas dos viviendas que forman el módulo tienen
+    las plantas bajas totalmente simétricas. En esta planta baja, el principal espacio
+    vividero de la casa, el estar-comedor, tiene doble orientación norte-sur, con
+    aperturas al patio trasero y a la zona de aparcamiento. Esta doble orientación
+    permite que las viviendas orientadas al norte funcionen de manera similar a las
+    orientadas al sur, permitiendo el soleamiento en ambos casos y la ventilación
+    cruzada.\r\n\r\nDado que una de las aperturas del estar-comedor se realiza a la
+    zona de aparcamiento, se matiza esta apertura por medio de una celosía horizontal
+    cerámica, que sirve de filtro frente a la visión del aparcamiento. \r\n\r\nLa
+    cocina se plantea como un elemento longitudinal, que gracias a dos puertas correderas
+    puede abrirse al estar-comedor generando visualmente un único espacio. Desde dicha
+    cocina, también se tiene acceso directo al espacio exterior para el tendido de
+    la ropa.\r\n\r\nLa distribución de dormitorios se realiza de forma que los tres
+    dormitorios principales quedan agrupados en planta alta, y el cuarto dormitorio,
+    más pequeño, en planta baja. Esta agrupación permite que el cuarto dormitorio
+    pueda funcionar como dormitorio de invitados, separado de la zona más íntima de
+    la casa, o como pequeño despacho o estudio junto a la entrada.\r\n"
+  properties: "uso: concursos\r\nlugar: mollina, málaga\r\nsuperficie: 1300 m2\r\npromotor:
+    epsa\r\narquitecto técnico: jesús miguel villa"
+  main_image_id: '621'
+  vposition: '7'
+  start: 08/01/2007
+  finish: 12/02/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '188'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-18 12:29:58'
+  updated_at: '2008-10-08 12:55:50'
+  url: vp-mollina
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-mollina
+- !ruby/struct:Card
+  id: '25'
+  title: hacienda los rosales
+  text: "Este proyecto se presentó al concurso convocado por el Ayuntamiento de Mairena
+    del Aljarafe (Sevilla) para desarrollar una serie de edificios administrativos
+    y culturales en la parcela denominada Hacienda Rosales.\r\n\r\nDesde las bases
+    del concurso se planteaba crear una nueva centralidad de referencia para Mairena
+    del Aljarafe en una parcela que se sitúa a caballo entre el casco histórico y
+    las zonas de crecimiento urbano posterior, un reducto del paisaje rural del aljarafe
+    casi desaparecido por el crecimiento urbano.\r\n\r\nLa propuesta pretende proteger
+    y potenciar el caracter de este paisaje y de los elementos propios de la zona
+    y actualizarlos al momento presente, crear un nuevo centro neuralgico de servicios
+    para Mairena y el Aljarafe que de una manera contemporanea defina un espacio nuevo
+    para los ciudadanos dotado de una identidad propia.\r\n\r\nPor ello la propuesta
+    que planteamos toma como base de trabajo la actualización de la tipología y la
+    organizacion espacial de la hacienda como germen de los nuevos edificios, de forma
+    que estos definan un orden propio en medio del entorno urbano que los rodea. \r\n\r\nLa
+    organizacion de usos entorno a un espacio central abierto típica de la hacienda
+    es perfecta para la combinacion de usos nuevos que se plantea. Así se proyectan
+    patios y galerias abiertas a los jardines que sirven de distribuidores por los
+    que el ciudadano puede moverse, esperar y disfrutar del clima. \r\n\r\nVisualmente,
+    las características formales de las haciendas - edificios blancos de una o dos
+    crujías y cubiertas inclinadas - son reinterpretadas en la propuesta generando
+    una imagen nueva pero reconocible al mismo tiempo, proponiendo por tanto una arquitectura
+    que no necesita negar su tradición para ser contemporanea.\r\n"
+  properties: |-
+    uso: concurso
+    lugar: mairena, sevilla
+    superficie: 36.585 m2
+    promotor: ayuntamiento mairena del aljarafe
+    colaboradores: esperanza moreno cruz, angela de la serna fernandez
+    asesoramiento estructura: duarte asociados s.l.
+    asesoramiento instalaciones: aster s.l.
+  main_image_id: '629'
+  vposition: '18'
+  start: 10/03/2007
+  finish: 10/03/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '195'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-18 12:49:14'
+  updated_at: '2008-06-30 15:07:26'
+  url: hacienda-los-rosales
+  slides_count: '13'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: hacienda-los-rosales
+- !ruby/struct:Card
+  id: '26'
+  title: linares de la sierra
+  text: "El proyecto, ubicado en Linares de la Sierra (Huelva), se sitúa en lo que
+    tradicionalmente se denomina “ruedo agrícola”,  zona de interés paisajístico con
+    elementos singulares asociados a las huertas como sistemas de riego, redes de
+    acequias, lievas y muros de piedra, en dos parcelas  (Huerto del Llano y Huerto
+    de la Encina) que a su vez se dividen en dos partes, una edificable y otra no
+    edificable  En las zonas edificables se ubican 12 viviendas y en las no edificables
+    zonas de huerta asociadas a las viviendas.\r\n\r\nCada vivienda consta de planta
+    baja más doblao con superficies en torno a 100 m2.  \r\n\r\nLa implantación de
+    las viviendas se organiza en torno a un jardín-patio semiabierto, que funciona
+    como filtro entre la huerta y el interior de la casa. Las casas buscan las vistas
+    y el disfrute del huerto-jardin manteniendo la intimidad de sus espacios; El Doblao
+    se orienta al sur mediante solanas móviles que abren la casa al paisaje de la
+    sierra.\r\n\r\nEl proyecto pretende situarse entre lo turístico y lo productivo,
+    con unas viviendas que disfrutan del privilegiado entorno pero que además, dada
+    su infraestructura de huertas permiten funcionar como espacios volcados a un sistema
+    productivo."
+  properties: "uso: vivienda plurifamiliar\r\nlugar: linares de la sierra\r\nsuperficie:
+    1100 m2\r\npromotor: casas de linares de la sierra s.l.\r\nen colaboración con:
+    valentin montaño, la plasita y ana león\r\ncolaboradores:  beatriz gerena"
+  main_image_id: '737'
+  vposition: '18'
+  start: 06/06/2003
+  finish: 03/03/2005
+  color_id: '7'
+  visible: true
+  main_slide_id: '202'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-18 13:32:26'
+  updated_at: '2008-06-30 14:26:28'
+  url: linares-de-la-sierra
+  slides_count: '2'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: linares-de-la-sierra
+- !ruby/struct:Card
+  id: '27'
+  title: nerja
+  text: "Los clientes son una pareja que quieren construir tres viviendas para sus
+    tres hijos. Se plantean 3 casas “independientes” que comparten la misma parcela.
+    Cada casa disfruta de independencia e intimidad tanto en los espacios interiores
+    como en los jardines exteriores manteniendo la posibilidad de cierta “vecindad
+    familiar”.\r\n\r\nLas casas buscan la apertura hacia el sudeste y se van escalonando
+    adaptándose al terreno y buscando minimizar la alteración del terreno.\r\n\r\nConstructivamente
+    las casas se plantean con sistemas de pantallas y pilares de hormigón armado con
+    forjados reticulares dando respuesta de esta manera a los requerimientos producidos
+    por el grado de sísmico de la zona, así como aumentando la inercia térmica del
+    conjunto.\r\n"
+  properties: "uso: vivienda plurifamiliar\r\nlugar: nerja, málaga\r\nsuperficie:
+    470 m2\r\npromotor: maria victoria ariza luque\r\ncolaboradores: beatriz gerena\r\narquitecto
+    técnico: ramón álvarez"
+  main_image_id: '743'
+  vposition: '28'
+  start: 10/06/2005
+  finish: 01/08/2007
+  color_id: '7'
+  visible: true
+  main_slide_id: '203'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-18 13:52:45'
+  updated_at: '2009-07-28 13:48:48'
+  url: nerja
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: nerja
+- !ruby/struct:Card
+  id: '28'
+  title: 3 en uno
+  text: "Proyecto de reforma de un piso situado en un bloque de viviendas de principios
+    siglo. El principal potencial de este piso era una altura libre interior superior
+    a lo habitual, que sin embargo no era suficiente para plantear estreplantas. \r\n\r\nNormalmente
+    una vivienda se compone de tres elementos materiales:\r\n\r\n1.- Divisiones: \r\n\r\nParedes,
+    muros, cristales, etc.\r\n\r\n2.- Máquinas: \r\n\r\nInstalaciones, electrodomésticos,
+    aparatos sanitarios, etc.\r\n\r\n3.- Almacenamiento: \r\n\r\nArmarios, altillos,
+    despensas, etc.\r\n\r\ny el resto son los espacios habitables.\r\n\r\nSe proponía
+    unir estos tres elementos (divisiones, máquinas y almacenamiento) en una especie
+    de mueble, que es el que ordenará todos los espacios sin compartimentarlos excesivamente,
+    y aprovenchando al máximo todo el volumen disponible y consiguiendo la máxima
+    iluminación natural...un mueble 3en1"
+  properties: "uso: vivienda unifamiliar\r\nlugar: sevilla\r\nsuperficie: 110 m2\r\npromotor:
+    david bioque"
+  main_image_id: '749'
+  vposition: '2'
+  start: 03/03/2002
+  finish: 11/11/2002
+  color_id: '7'
+  visible: true
+  main_slide_id: '204'
+  main_file_id: '53'
+  link: ''
+  created_at: '2007-12-18 14:16:39'
+  updated_at: '2012-02-29 15:43:41'
+  url: 3-en-uno
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: 3-en-uno
+- !ruby/struct:Card
+  id: '29'
+  title: casa manolo
+  text: "Tras una obligada revisión técnica de la casa (ITE) para detectar y subsanar
+    posibles problemas estructurales, el propietario de la casa nos propuso realizar
+    un proyecto de reforma.\r\n\r\nEl proyecto debía transformar una vivienda unifamiliar
+    (una casa-patio de dos plantas mas ático en el centro histórico de Sevilla) en
+    una vivienda múltiple, que debía absorber diferentes usuarios y modos de ocupación:
+    un apartamento independiente para el propietario, espacios compartidos para sus
+    hijos y otras zonas para posible alquiler por temporadas."
+  properties: "uso: vivienda unifamiliar\r\nlugar: sevilla\r\nsuperficie: 120 m2\r\npromotor:
+    manolo clavero"
+  main_image_id: '761'
+  vposition: '20'
+  start: 05/05/2003
+  finish: 09/09/2004
+  color_id: '7'
+  visible: true
+  main_slide_id: '237'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 10:26:29'
+  updated_at: '2012-02-29 15:39:49'
+  url: casa-manolo
+  slides_count: '5'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-manolo
+- !ruby/struct:Card
+  id: '30'
+  title: marseille
+  text: "Los propietarios de la casa Sylvie y Yannick, nos plantearon la ampliación
+    de una parte de su vivienda que ellos utilizan fundamentalmente como comedor,
+    y la posible relación de este comedor con los diferentes niveles de jardin que
+    tienen.\r\n\r\nPlanteamos una estructura de barras diagonales liberando de pilares
+    la zona de jardín bajo la ampliación. Además la estructura abraza el arbol existente,
+    conectando los diferentes niveles aterrazados. La estructura se cierra con un
+    sistema de vidrios y contraventanas de listones de madera que permite abrir o
+    cerrar completamente la ampliación."
+  properties: "uso: vivienda unifamiliar\r\nlugar: marseille, francia\r\nsuperficie:
+    50 m2\r\npromotor: sylvie amar, yanik gonzalez\r\ncolaboradores: c a l c"
+  main_image_id: '773'
+  vposition: '16'
+  start: 02/02/2005
+  finish: 10/10/2005
+  color_id: '7'
+  visible: true
+  main_slide_id: '205'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 10:47:55'
+  updated_at: '2012-02-29 15:39:41'
+  url: marseille
+  slides_count: '8'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: marseille
+- !ruby/struct:Card
+  id: '31'
+  title: mrgnt 02
+  text: "Este trabajo se planteó como propuesta para una exposición sobre arquitectura,
+    en la que participaban 5 grupos de jóvenes arquitectos de Sevilla y que fue organizada
+    por la Caja San Fernando.\r\n\r\nReconstruir la ciudad con lugares y situaciones
+    existentes. \r\nManipular la realidad para construir otra, que habla de ésta,
+    la actual, la de la ciudad, de nosotros, de la manera que tenemos de vivir, de
+    percibir, de mirar, de entender.\r\n\r\nUna mirada que parte de una situación
+    de extrañamiento y de duda. \r\nUna crítica a la manera de hacer ciudad, de vivir
+    en ella, de planearla y de especularla. \r\nUna búsqueda de nuevos lugares, aquellos
+    que evocan otras maneras de percibir y vivir la ciudad. \r\n\r\nEl objetivo es
+    construir una maqueta de ciudad imaginaria con paisajes urbanos.\r\nLos montajes
+    de fotos son elementos que en su puesta en escena en la sala de exposiciones pretenden
+    trabajar con el espacio, construyendo nuevas fugas, conexiones, desvíos, otras
+    ciudades.\r\nDeconstruyendo la ciudad que cada uno tiene en su mente."
+  properties: |
+    uso: arte
+    lugar: sevilla
+    promotor: caja san fernando sevilla
+  main_image_id: '805'
+  vposition: '6'
+  start: 05/05/2001
+  finish: 05/05/2001
+  color_id: '9'
+  visible: true
+  main_slide_id: '246'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 11:15:04'
+  updated_at: '2008-06-30 14:00:11'
+  url: mrgnt-02
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: mrgnt-02
+- !ruby/struct:Card
+  id: '32'
+  title: patterns
+  text: "“Patterns” (”Patrones”) es un proyecto desarrollado durante una residencia
+    de 4 meses en Biella (Italia) gracias a una beca de HANGAR (Centro de Producción
+    de Artes Visuales, Barcelona, España) y la Fundación Pistoletto-Cittadellarte
+    (Biella, Italia).\r\n\r\nEl proyecto analizó el espacio público en la ciudad de
+    Biella. En esta ciudad, dentro del centro histórico, existen actualmente 15 plazas
+    de uso público. Once de ellas son utilizadas para aparcamiento, dos combinan combinan
+    este uso con zonas verdes y otras dos son utilizadas exclusivamente como zonas
+    verdes. Si calculamos el area ocupada por los aparcamientos tenemos 20.000 m2
+    (1473 plazas de aparcamiento).\r\n\r\nEl proyecto, lejos de proponer evitar el
+    uso de aparcamiento en estos espacios públicos, propone tomar la plaza de aparcamiento
+    como un espacio-unidad que puede cambiar su uso temporalmente, redefiniendo las
+    actividades que se dan en cada plaza y provocando situaciones inesperadas.\r\n\r\nTras
+    el análisis y la propuesta teórica, hicimos intervenciones reales en algunas plazas,
+    invitando a la gente a utilizar temporalmente estos espacios-unidad, a los que
+    llamamos “zona líbera” (”zona libre”)."
+  properties: |-
+    uso: arte
+    lugar: biella, italia
+    promotor: fondazione pistoletto
+  main_image_id: '839'
+  vposition: '11'
+  start: 09/08/2002
+  finish: 09/08/2002
+  color_id: '9'
+  visible: true
+  main_slide_id: '206'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 11:33:46'
+  updated_at: '2008-06-30 13:57:52'
+  url: patterns
+  slides_count: '15'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: patterns
+- !ruby/struct:Card
+  id: '33'
+  title: web-cam-ping
+  text: "Llevabamos tiempo queriendo organizar algo en nuestro taller. Tras algunos
+    meses ya instalados, surgió una invitación desde la galeria lisi hämmerle en bregenz
+    en la que se invitaba a 10 grupos de artistas a participar en el proyecto web-cam-ping.
+    \r\n\r\n10 intervenciones realizadas simultaneamente,  registradas con webcam
+    y proyectadas en la galería. \r\n"
+  properties: "uso: arte\r\nlugar: el fontanal, sevilla - galerie lisi hämmerle, bregenz,
+    austria\r\npromotor: galerie lisi hämmerle, bregenz, austria\r\nen colaboración
+    con: c a l c"
+  main_image_id: '843'
+  vposition: '3'
+  start: 08/08/2004
+  finish: 08/08/2004
+  color_id: '9'
+  visible: true
+  main_slide_id: '207'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 11:54:09'
+  updated_at: '2008-06-30 13:56:55'
+  url: web-cam-ping
+  slides_count: '10'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: web-cam-ping
+- !ruby/struct:Card
+  id: '34'
+  title: fabula alienigena
+  text: "el encargo fué hacer una escenografía para la obra de danza contemporánea
+    “fábula alienigena”, se planteó trabajando sobre la base del guión de la pieza,
+    se buscó trabajar con elementos geometricos que marcaran la elipse como forma
+    principal, generando un fondo escénico que transmitiera sensualidad a la vez que
+    hacía referencia a una construcción geométrica muy marcada.\r\nla construcción
+    se baso en un casi escaso presupuesto, y se diseño para que puediera ser llevado
+    en el maletero de un coche.\r\nla tela era tensada por una estructura de varillas
+    de fibra de vidrio tensadas con cuerda como un arco que iban arriostradas por
+    unas varillas perimetrales.\r\nse montaba y desmontaba como una gran tienda de
+    campaña."
+  properties: "uso: escenografía_danza contemporánea\r\nlugar: sevilla y otras ciudades\r\npromotor:
+    mopa producciones s.l.\r\narquitecto: rubén alonso"
+  main_image_id: '859'
+  vposition: '20'
+  start: 15/02/2006
+  finish: 15/02/2006
+  color_id: '9'
+  visible: true
+  main_slide_id: '273'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-19 12:14:57'
+  updated_at: '2009-07-28 13:07:18'
+  url: fabula-alienigena
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: fabula-alienigena
+- !ruby/struct:Card
+  id: '35'
+  title: convento
+  text: "Esta propuesta se presentó al concurso para la reforma y ampliación del Convento
+    de Nuestra Señora de los Reyes (Sevilla) para futura sede del Centro de Documentación
+    y Difusión de Arquitectura e Ingeniería de Andalucía convocado por la Junta de
+    andalucía. \r\n\r\nNuestro proyecto intenta girar el gesto de clausura al que
+    historicamente a estado asociado el convento.Esta apertura la entendemos por un
+    lado como una apertura física (introducir la ciudad en el interior del antiguo
+    convento) y por otro lado una apertura en el sentido de  “conexión” con otros
+    lugares, de incorporación del lugar-institución a redes de intercambio de conocimiento,
+    donde la información ya no está aquí o allí, si no en continuo movimiento, y a
+    la vez accesible a todos.\r\n\r\nDividimos lo edificado (edificable) en infraestructura
+    urbana-soporte por un lado, y contenedores de usos por otro.\r\nLa infraestructura
+    urbana-soporte consistiría en una red de arterias que conectarían todo el centro
+    y posibilitarían la circulación de personas, datos, energía, fluidos, etc. \r\n\r\nLos
+    contenedores de usos son elementos modulares de rápida construcción que pueden
+    situarse sobre la infraestructura-soporte, de manera aislada o acoplándose en
+    elementos complejos."
+  properties: "uso: concursos\r\nlugar: sevilla\r\npromotor: consejeria de obras publicas
+    y transportes\r\nen colaboración con: c a l c"
+  main_image_id: '877'
+  vposition: '11'
+  start: 15/09/2004
+  finish: 15/09/2004
+  color_id: '11'
+  visible: true
+  main_slide_id: '280'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 11:34:08'
+  updated_at: '2008-06-30 13:53:14'
+  url: convento
+  slides_count: '8'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: convento
+- !ruby/struct:Card
+  id: '36'
+  title: colegio aguadulce
+  text: "La parcela donde se encuentra el actual colegio presenta como singularidad
+    más relevante la existencia de una vegetación muy frondosa, con arbolado de gran
+    porte y sombra. Por ello se propone mantener dicha vegetación en su actual ubicación
+    y desarrollar el programa propuesto en una organización de planta en la que la
+    arboleda preexistente determine los ámbitos construidos y organice los espacios
+    exteriores de estancia y juego.\r\n\r\nLa organización de la planta baja gira
+    en torno a un espacio de acceso y recepción que es marcado desde el cerramiento
+    \ exterior del centro por una doble hilera de castaños de indias de gran porte,
+    por la que actualmente acceden los coches al centro escolar, y que se convertiría
+    así en el paseo principal de acceso peatonal. Este camino arbolado nos introduce
+    literalmente en la edificación propuesta accediendo a un amplio espacio de recepción
+    y distribución.\r\n\r\nVinculados a esta zona de recepción y distribución se encuentran
+    los locales comunes (biblioteca, aula de informática, taller polivalente y música,
+    recursos). La intención de ubicar estas dependencias cerca de la zona de acceso
+    es permitir que puedan ser utilizadas de forma independiente de los aularios como
+    equipamiento de cercanía para los vecinos del pueblo, siempre que así se requiera."
+  properties: |-
+    uso: concursos
+    lugar: aguadulce, sevilla
+    superficie: 2529 m2
+    promotor: ise sevilla
+    colaboradores: joaquin moral garcia
+  main_image_id: '913'
+  vposition: '18'
+  start: 10/06/2006
+  finish: 10/06/2006
+  color_id: '11'
+  visible: true
+  main_slide_id: '289'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 11:54:06'
+  updated_at: '2008-06-30 13:52:03'
+  url: colegio-aguadulce
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: colegio-aguadulce
+- !ruby/struct:Card
+  id: '37'
+  title: vp montoro
+  text: "El solar objeto de la propuesta tiene dos condicionantes de partida. Por
+    un lado, la geometría irregular que lo divide en dos zonas con profundidad de
+    parcela diferente. Por otro, la acusada topografía, que crea desniveles de hasta
+    dos metros entre un extremo y otro de la parcela.\r\n\r\nLa propuesta que se presenta
+    responde a ambos condicionantes con diferentes estrategias. Por un lado, ante
+    la desigual profundidad de parcela entre la zona norte y la sur de la parcela
+    (aproximadamente 14,5 metros en el sur y 8 metros en el norte) se responde con
+    dos tipologías de vivienda diferentes aunque emparentadas.\r\n\r\nPor otro lado,
+    ante el problema de la topografía se propone establecer dos cotas de implantación
+    diferente, una para cada grupo tipológico, llevando cada una de estas cotas al
+    máximo permitido por la ordenanza con respecto a la rasante. Esta solución nos
+    aporta principalmente dos ventajas: Reducir al mínimo el movimiento de tierras
+    necesario y la homogeneización de la cota de implantación de las viviendas a sólo
+    dos, no teniendo múltiples escalonamientos, lo qu permite la ejecución de los
+    forjados de una manera más rápida y eficaz."
+  properties: "uso: concursos\r\nlugar: montoro cordoba\r\nsuperficie: 1300 m2\r\npromotor:
+    empresa pública del suelo de andalucia\r\ncolaboradores: angela de la serna\r\narquitecto
+    técnico: jesús miguel villa"
+  main_image_id: '939'
+  vposition: '20'
+  start: 04/04/2007
+  finish: 04/04/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '298'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 12:54:26'
+  updated_at: '2009-08-05 11:26:30'
+  url: vp-montoro
+  slides_count: '5'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-montoro
+- !ruby/struct:Card
+  id: '38'
+  title: vp almeria
+  text: "El solar objeto de la propuesta tiene como característica principal el desnivel
+    entre dos de sus lados principales, ya que entre la Calle Platón y su paralela
+    (de nueva creación) existen 2,90 metros de diferencia.\r\n\r\nEn la propuesta
+    que presentamos se utiliza este desnivel de dos maneras diferentes. Por un lado
+    lo que sería planta sótano en la Calle Platón, es planta baja en la paralela a
+    dicha calle. Por ello planteamos el aparcamiento en dicha cota, y su acceso desde
+    la calle paralela a C/ Platón. Además esto nos permite dividir los accesos peatonales
+    y rodados al edificio. El acceso en coche por la calle paralela a C/Platón y el
+    acceso peatonal por esta última.\r\n\r\nPor otro lado, se dispone un patio longitudinal,
+    paralelo a la C/Platón y que llega hasta la zona de aparcamientos. Este patio
+    sirve de filtro de separación entre la zona aparcamientos y la zona de viviendas,
+    definiendo así en esta cota que es planta baja y que es planta sótano.\r\n\r\nLas
+    viviendas se distribuyen alrededor del patio. Aprovechando su introducción, y
+    el hecho de que la parcela conste de cuatro fachadas se plantean viviendas de
+    “doble crujía”, donde los espacios principales se abren a fachada y los de servicio
+    a la galería del patio."
+  properties: "uso: concursos\r\nlugar: almeria\r\nsuperficie: 1200 m2\r\npromotor:
+    empresa pública del suelo de andalucia\r\ncolaboradores: angela de la serna\r\narquitecto
+    técnico: jesús miguel villa"
+  main_image_id: '953'
+  vposition: '27'
+  start: 15/04/2007
+  finish: 15/04/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '213'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 13:15:33'
+  updated_at: '2010-01-08 18:26:59'
+  url: vp-almeria
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-almeria
+- !ruby/struct:Card
+  id: '39'
+  title: oficinas osuna
+  text: "Se propone este concurso para la construcción de un edificio en Osuna que
+    albergue las sedes comarcales de los colegios profesionales y descentralizar así
+    la oficina principal situada en la capital de provincia. \r\n\r\nEl edificio se
+    ubica en una zona de crecimiento, fuera del Centro Histórico de Osuna pero limítrofe
+    de éste. Se trata de una zona bisagra entre dos arquitecturas, la local propia
+    de un bello pueblo de Andalucía Occidental y la de las zonas periféricas de cualquier
+    pueblo de España, sin identidad bien definida.\r\n\r\nEn planta baja la entrada
+    es un gran espacio de distribución entre el salón de actos y la pieza de dos plantas
+    de las oficinas. Un espacio de transición entre estas dos arquitecturas y escalas.
+    Por un lado lo menudo de las oficinas y el movimiento diario de personas y por
+    otro un gran salón de actos que puede funcionar con horario independiente que
+    el resto del edificio.\r\nHacia el exterior, la fachada también habla de la conjunción
+    de dos edificios en uno, por un lado con la rotundidez de un edificio público
+    y por otro enseñando la pequeña arquitectura, una secuencia de aperturas que podría
+    ser tanto de unas viviendas como de unas oficinas. \r\nEn esta pieza, estas aperturas
+    a su vez recuerdan a los cierros del casco antiguo de Osuna, elevado un metro
+    de la cota de la calle para guardar mejor la intimidad y controlar las vistas
+    del viandante al interior.\r\n"
+  properties: "uso: concursos\r\nlugar: osuna, sevilla\r\nsuperficie: 848 m2\r\npromotor:
+    ayuntamiento de osuna\r\ncolaboradores: angela de la serna\r\narquitecto técnico:
+    jesús miguel villa"
+  main_image_id: '1149'
+  vposition: '4'
+  start: 10/07/2007
+  finish: 10/07/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '371'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 13:28:46'
+  updated_at: '2008-10-08 12:54:01'
+  url: oficinas-osuna
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: oficinas-osuna
+- !ruby/struct:Card
+  id: '40'
+  title: vp almargen
+  text: "Este proyecto fue el adjudicatario del concurso convocado por la Empresa
+    Pública del Suelo de Andalucía (EPSA) para la construcción de 14 viviendas unifamiliares
+    Protegidas de Régimen General.\r\n\r\nEl solar objeto de la propuesta se compone
+    de 7 parcelas en pendiente con diferentes dimensiones y geometrías, y con orientaciones
+    norte- sur. Esta configuración ha sido determinante a la hora de establecer los
+    criterios de diseño.\r\n\r\nSe plantea la ejecución de un sótano mancomunado donde
+    albergar los aparcamientos de las viviendas junto con trasteros. Al ubicar la
+    superficie de aparcamiento en el sótano liberamos las parcelas lo que nos permite
+    obtener con más facilidad una mayor superficie útil.\r\n\r\nDesde el punto de
+    vista de implantación se ha intentado “esponjar” el centro de las parcelas situando
+    en esta ubicación los patios y accesos comunes. De esta forma, y gracias a la
+    doble orientación de las zonas de estar conseguimos el acceso al soleamiento (además
+    de ventilación cruzada) de las viviendas con fachada norte."
+  properties: "uso: vivienda plurifamiliar\r\nlugar: almargen, malaga\r\nsuperficie:
+    1600 m2\r\npromotor: empresa publica del suelo de andalucia\r\ncolaboradores:
+    angela de la serna"
+  main_image_id: '955'
+  vposition: '7'
+  start: 10/08/2007
+  finish: 01/11/2008
+  color_id: '7'
+  visible: true
+  main_slide_id: '214'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-20 14:28:03'
+  updated_at: '2012-02-16 12:15:00'
+  url: vp-almargen
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-almargen
+- !ruby/struct:Card
+  id: '41'
+  title: casa marta e isra
+  text: "Los clientes habían comprado una parcela de 35x23 m llena de olivos en una
+    urbanización junto a Sevilla y querían construirse su primera vivienda. \r\n\r\nTenían
+    pocos recursos, por lo que la obra habría que hacerla en varias fases. Una primera
+    empresa constructora se haría cargo de la estructura, los cerramientos, las particiones
+    interiores y las preinstalaciones, para más adelante y poco a poco ir haciendo
+    el resto en la medida que se fuera pudiendo.\r\n\r\nQuerían vivir de cara al jardín
+    manteniendo el máximo número de olivos. Por ello se pensó en una distribución
+    que se fuera abriendo, asomando al exterior y permitiendo el mayor disfrute del
+    jardín a través de terrazas y porches.\r\n\r\nEn planta baja un gran espacio alberga
+    el salón-comedor-cocina y dos piezas más la complementan con un estudio para ella
+    y un taller para él, junto con un aseo. Unas y otras estancias tienen su propio
+    patio particular …patio para tender la ropa, patio para hacer bricolaje, patio
+    para estudiar, patio para comer y encontrarse…\r\n\r\nEn planta alta están las
+    estancias más íntimas, habitaciones y cuartos de baño, previstas para el futuro
+    de la joven familia, abiertos todas ellas a terrazas desde las cuales salirse
+    en cualquier momento a leer o jugar.\r\nUna propuesta para una pareja que buscaba
+    un arquitecto que les pusiera de acuerdo a uno y a otro en qué casa querían para
+    ambos …\r\n"
+  properties: "uso: vivienda unifamiliar\r\nlugar: dos hermanas, sevilla\r\nsuperficie:
+    167 m2\r\npromotor: marta león iribarren e jose israel moreno campos\r\ncontructora:
+    construcciones pacifico\r\ncolaboradores: beatriz gerena, manolo carrasco "
+  main_image_id: '695'
+  vposition: '30'
+  start: 09/12/2005
+  finish: 15/09/2008
+  color_id: '7'
+  visible: true
+  main_slide_id: '218'
+  main_file_id: 
+  link: ''
+  created_at: '2007-12-21 11:11:47'
+  updated_at: '2012-02-29 15:38:44'
+  url: casa-marta-e-isra
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-marta-e-isra
+- !ruby/struct:Card
+  id: '42'
+  title: J5 cuevas
+  text: "En las Ordenanzas urbanísticas del PGOU se define la vivienda unifamiliar
+    como ”la que tiene acceso independiente, desde la calle o espacio comunitario”
+    siendo la vivienda plurifamiliar “aquel edificio constituido por viviendas con
+    accesos comunes”.\r\n\r\nEn el imaginario colectivo sin embargo, una vivienda
+    unifamiliar es aquella que dispone de un jardín privado, un espacio exterior propio
+    al que se vuelca el interior de la vivienda, mientras que el edificio plurifamiliar
+    sería aquel en el que las viviendas se agrupan verticalmente y donde el jardín
+    o espacio exterior, de existir sería colectivo.\r\n\r\nNuestra propuesta pretende
+    mezclar estas dos visiones acerca de lo privado y lo colectivo en un único objeto
+    arquitectónico y para ello planteamos un edificio compuesto de 37 viviendas unifamiliares
+    (es decir, viviendas con acceso independiente y con espacio exterior propio) pero
+    agrupadas verticalmente. Para ello se propone como tipología fundamental el duplex,
+    al que se accedería siempre independientemente desde un espacio semipúblico.\r\n\r\nExteriormente
+    el edificio, sin renunciar a “construir la manzana”, presenta cierta fragmentación
+    en la que se puede “leer” claramente la agrupación de elementos antes mencionada.
+    Creemos que visualmente esta “estética de la agrupación” dialoga mejor con un
+    entorno en el que predomina la heterogeneidad de elementos.\r\n\r\nInteriormente,
+    esta agrupación se traduce en la aparición de dos tipos de espacios exteriores
+    a las viviendas. El espacio exterior privado, ya sea patio o terraza. Creemos
+    que tanto por las condiciones climatológicas como culturales que se dan en Andalucía
+    este tipo de espacios deberían formar parte del programa de la vivienda social,
+    suponiendo una expansión en la superficie de la vivienda durante gran parte del
+    año a un coste muy bajo."
+  properties: "uso: concursos\r\nlugar: cuevas del almanzora, almeria\r\nsuperficie:
+    3000 m2\r\npromotor: empresa publica del suelo de andalucia\r\narquitecto técnico:
+    jesús miguel villa"
+  main_image_id: '915'
+  vposition: '11'
+  start: 30/10/2006
+  finish: 30/10/2006
+  color_id: '11'
+  visible: true
+  main_slide_id: '296'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-15 13:21:27'
+  updated_at: '2008-10-08 12:53:34'
+  url: j5-cuevas
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: j5-cuevas
+- !ruby/struct:Card
+  id: '48'
+  title: vp la florida
+  text: "Este concurso propone realizar una reflexión sobre el futuro de la vivienda
+    social en Andalucía, con objeto de replantear la actual normativa en este sector,
+    que se considera obsoleta. \r\n\r\nEn este contexto planteamos una actualización
+    del concepto de autoconstrucción. \r\n\r\nEsta ha sido una estrategia frecuentemente
+    utilizada en zonas deprimidas y areas rurales como mecanismo de obtención de viviendas
+    de bajo coste. Sin embargo en la actualidad, los problemas de acceso a la vivienda
+    en nuestra región se dan fundamentalmente en las ciudades, donde se ha producido
+    un mayor encarecimiento del precio del suelo. Y es en estas ciudades por tanto
+    donde es más necesario el desarrollo de la vivienda social para paliar esta situación.
+    \r\n\r\nPlanteamos una linea de investigación que reflexione sobre la autoconstrucción
+    parcial de viviendas sociales en areas urbanas como complemento a la vivienda
+    tradicional por diversos motivos:\r\n\r\nPermite diferir las inversiones económicas
+    relativas al acceso a la vivienda a lo largo del tiempo adecuándolas a las posibilidades
+    económicas de los usuarios.\r\n\r\nDota a la vivienda de capacidad de adaptación
+    a las necesidades reales del usuario a lo largo del tiempo.\r\n\r\nPermite reducir
+    la inversión inicial de las promociones de viviendas, pudiendo destinar este sobrante
+    a aquellos aspectos que hasta ahora no eran incluidos en los programas de vivienda
+    social por falta de recursos (zonas y servicios comunes, espacios de relación,
+    urbanizacion y ajardinamiento, tecnologías destinadas a mejorar la eficiencia
+    energética del edificio, etc.)\r\n\r\nObtenemos por tanto una vivienda:\r\nMás
+    barata.\r\nMás adaptable.\r\nCon mas servicios y más ecológica.\r\n"
+  properties: "uso: concursos\r\nlugar: puerto de santa maría, cádiz\r\nsuperficie:
+    7824 m2\r\npromotor: empresa pública del suelo de andalucia\r\nen colaboración
+    con: oskar leo kaufmann y zaida muxí\r\ncolaboradores: angela de la serna, esperanza
+    moreno\r\narquitecto técnico: jesús miguel villa\r\nasesoria instalaciones: aster
+    consultores sl\r\nFINALISTA en el concurso"
+  main_image_id: '967'
+  vposition: '36'
+  start: 01/11/2007
+  finish: 01/11/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '312'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-16 13:09:42'
+  updated_at: '2010-01-13 17:28:33'
+  url: vp-la-florida
+  slides_count: '9'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-la-florida
+- !ruby/struct:Card
+  id: '49'
+  title: porche mairena
+  text: "Se nos plantea la construcción de un porche de unos 300 m2 para un colegio
+    que no dispone de espacio de juego en dias de lluvia. Como siempre el presupuesto
+    es muy ajustado. Este tipo de elementos se suelen resolver con una estructura
+    de viguetas metálicas a la que se superponen paneles de chapa grecada o losas
+    de hormigón.\r\n\r\nEn nuestro caso planteamos unas crujías de diferentes dimensiones
+    cubiertas con paneles de chapa curva. Esto nos permite ahorrarnos las viguetas
+    metálicas por lo que el conjunto queda más limpio, sólo las vigas que forman las
+    crujías y la chapa curva.\r\n\r\nLas diversas crujías se adaptan a la vegetación
+    existente, evitando la tala de los pocos arboles que hay en la zona y generando
+    zonas de iluminación natural junto con bancos para sentarse. También se introducen
+    planchas de policarbonato compacto coloreado para introducir puntos de luz natural
+    bajo el porche.\r\n"
+  properties: "uso: docente\r\nlugar: mairena del alcor, sevilla\r\nsuperficie: 270
+    m2\r\npromotor: ente público de infraestructuras y servicios educativos\r\ncolaboradores:
+    esperanza moreno cruz\r\narquitecto tecnico: jesus miguel villa"
+  main_image_id: '997'
+  vposition: '1'
+  start: 05/05/2007
+  finish: 25/09/2008
+  color_id: '3'
+  visible: true
+  main_slide_id: '316'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-16 13:53:37'
+  updated_at: '2010-02-15 17:08:58'
+  url: porche-mairena
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: porche-mairena
+- !ruby/struct:Card
+  id: '50'
+  title: casa javier
+  text: "La parcela esta situada en la zona más alta de una urbanización privada de
+    chalets, en una parcela triangular con un desnivel de 3 m.\r\n\r\nLos clientes
+    querían algo que estuviera integrado con la urbanización, les propusimos utilizar
+    los mismos “ingredientes” de su chalet pero intentar combinarlos de una manera
+    mas contemporánea, les gustó la idea.\r\n\r\nLa implantación aprovecha el desnivel
+    de la parcela para hacer un semisótano donde se plantea un estar-cocina  de uso
+    en verano, vinculado a la piscina,  dejando en planta baja el salón y la cocina
+    principales, de esta manera la piscina se sitúa a medio nivel entre los dos espacios
+    de estar, provocando una relación más fluida con el jardín. "
+  properties: "uso: vivienda unifamiliar\r\nlugar: mairena del alcor, sevilla\r\nsuperficie:
+    235 m2\r\ncontructora: construcciones marsan\r\ncolaboradores: angela de la serna,
+    manuel carrasco\r\narquitecto técnico: manuel carrasco"
+  main_image_id: '999'
+  vposition: '25'
+  start: 09/10/2006
+  finish: 30/07/2008
+  color_id: '7'
+  visible: true
+  main_slide_id: '317'
+  main_file_id: '97'
+  link: ''
+  created_at: '2008-01-16 15:21:14'
+  updated_at: '2012-02-29 15:38:09'
+  url: casa-javier
+  slides_count: '11'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-javier
+- !ruby/struct:Card
+  id: '51'
+  title: vp aracena
+  text: "La situación de las parcelas, con una gran presencia desde el Sur y en relación
+    visual directa con el Castillo de Aracena indican que la intervención debe basarse
+    en la agregación de elementos singulares que doten de carácter al conjunto así
+    como de una correcta integración con el entorno, evitando las soluciones basadas
+    en la repetición de un mismo elemento.\r\n\r\nSin embargo, el hecho de que la
+    promoción consista fundamentalmente en viviendas protegidas obliga a economizar
+    lo máximo posible, lo que se traduce en homogenización de dimensiones y soluciones
+    constructivas.\r\n\r\nLa solución propuesta pretende establecer un compromiso
+    entre los dos requerimientos anteriormente expresados. Así por un lado, se plantean
+    dos tipos de viviendas diferentes que se repiten homogeneizando en lo posible
+    los parámetros constructivos.\r\n\r\nSin embargo, esta homogenización dimensional,
+    se diluye visualmente con el uso de diversas estrategias: Uso de simetrías en
+    las plantas de las viviendas, introducción de patios y terrazas, utilización de
+    diferentes direcciones de cubiertas y adaptación de los tipos a las condiciones
+    de contorno de la parcela.\r\n\r\nEl resultado es un conjunto que si bien se concibe
+    a partir de pocos elementos, se percibe con una gran variedad de los mismos.\r\n\r\nLa
+    propuesta también trata de generar una conexión visual con el entorno utilizando
+    materiales y técnicas constructivas tradicionales (cubiertas inclinadas, hastiales
+    y lienzos medianeros recubiertos de teja curva dispuesta en vertical, celosías,
+    etc.) pero interpretados en clave contemporánea.\r\n"
+  properties: "uso: concursos\r\nlugar: aracena, huelva\r\nsuperficie: 2000 m2\r\npromotor:
+    ayuntamiento de aracena\r\ncolaboradores: angela de la serna\r\narquitecto técnico:
+    jesús miguel villa"
+  main_image_id: '1049'
+  vposition: '3'
+  start: 01/12/2007
+  finish: 01/12/2007
+  color_id: '11'
+  visible: true
+  main_slide_id: '333'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-17 14:05:48'
+  updated_at: '2009-08-05 11:25:39'
+  url: vp-aracena
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-aracena
+- !ruby/struct:Card
+  id: '52'
+  title: feSt
+  text: "diseño de la identidad corporativa y de la campaña de comunicación del festival
+    de teatro y artes escénicas de sevilla\r\n\r\n“ t e a t r o ”, el término en si
+    nos transmite una imagen muy viva pero a la vez muy ambigua:\r\npor un lado el
+    teatro entendido literalmente como arte escénica, tiene una connotación positiva,
+    por otro lado, el término “teatro”, expresado en un contexto cotidiano se asocia
+    a lo falso, lo artificial, la mentira  (“montar un teatro”, “tener mucho teatro”…).\r\n\r\nCreemos
+    que esta dualidad “mentira-verdad”, “ficción-realidad” es algo inherente al teatro
+    y a cualquier tipo de re-presentación escénica. Pero además pensamos que puede
+    ser también un rasgo asociado a la ciudad de Sevilla.\r\nUna ciudad donde la realidad
+    (sus gentes, sus espacios públicos) y la ficción (sus tradiciones, sus ritos)
+    están en constante intercambio. En Sevilla esta ambigüedad vibra mucho. Esa doble
+    cara nos parece el fondo perfecto para caracterizar el feStival.\r\n\r\nelementos
+    de la campaña:\r\nnombre del festival y logotipo\r\neslogan\r\nelementos de papeleria\r\ncarteleria,
+    programas, pegatinas, triptico, señaletica para las salas\r\ncamisetas, emtradas,
+    abonos, pases, anuncios para prensa\r\npizarras tablon festival"
+  properties: "uso: diseño\r\nlugar: sevilla\r\npromotor: escenarios de sevilla\r\nen
+    colaboración con: c a l c, daniel alonso"
+  main_image_id: '1081'
+  vposition: '7'
+  start: 07/07/2005
+  finish: 03/03/2006
+  color_id: '17'
+  visible: true
+  main_slide_id: '340'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-17 15:12:58'
+  updated_at: '2008-06-30 13:21:06'
+  url: fest
+  slides_count: '4'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: fest
+- !ruby/struct:Card
+  id: '53'
+  title: geografia affettiva
+  text: "La herramienta “geografia affettiva” (gea.net), es un proyecto artístico
+    que desarrolla un interfaz web que permite generar una cartografía transpersonal.
+    El proyecto de gea.net trata de cartografiar la ínterconectividad de la vida y
+    de proporcionar a cada miembro de una comunidad el instrumento para in-formar
+    (poner en forma) su mapa personal como parte de toda una red visualizada. \r\n\r\nEl
+    concepto de gea.net se ha ido desarrollando espacial y temporalmente a partir
+    del 2003 por medio de talleres con artistas, arquitectos, diseñadores, sociólogos,
+    programadores, etc. sobre temas claves que configuran la geografia affettiva.
+    \r\n\r\nActualmente el prototipo de geografia affettiva – \"sevilla_scan\":http://geografiaffettiva.net/sevillascan
+    \ se puede visitar online\r\n\r\n"
+  properties: "uso: arte\r\nlugar: internet\r\npromotor: c a l c\r\nen colaboración
+    con: c a l c\r\nfotografía: c a l c - lapanaderia\r\nweb : <a href=\"http://www.geografiaffettiva.net\"
+    target=_blank>www.geografiaffettiva.net</a>"
+  main_image_id: '1117'
+  vposition: '9'
+  start: 07/07/2003
+  finish: 07/08/2006
+  color_id: '9'
+  visible: true
+  main_slide_id: '344'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-18 14:00:22'
+  updated_at: '2012-02-16 12:16:43'
+  url: geografia-affettiva
+  slides_count: '19'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: geografia-affettiva
+- !ruby/struct:Card
+  id: '54'
+  title: la pañoleta
+  text: "Los clientes querían hacerse una casa con un presupuesto muy limitado, habían
+    intentado comprar una casa mas cerca del centro de la ciudad pero los precios
+    son desorbitados.\r\n\r\nLa zona donde se encuentra la parcela es una barriada
+    cercana a la salida de sevilla hacia huelva, es una parcela rectangular de 5x20
+    metros entre medianeras. Es una zona algo degradada donde están empezando a aparecer
+    nuevas promociones de vivienda.\r\n\r\nPlanteamos cubrir el patio y aprovecharlo
+    como espacio de estar para minimizar los metros cuadrados construidos; Al tener
+    que construir dos plantas en fachada se colocó una terraza con un espacio para
+    invitados al fondo de la parcela tras el patio para recibir el sol en invierno,
+    ya que la orientación de la fachada es sur.\r\n\r\nLa sección espacial hace que
+    toda la casa tenga una continuidad visual a lo largo de la parcela.\r\n\r\nNos
+    gustó la idea de recuperar el tratamiento de la fachada con alicatado, como algunas
+    de las casas de la zona.\r\nLa fachada se configura con el garaje en planta baja
+    a modo de recibidor y el baño en planta alta abriendo un hueco que se ajusta en
+    altura a cada uso, bañera, ducha e inodoro."
+  properties: "autores: lapanaderia + esperanza moreno\r\nuso: vivienda unifamiliar\r\nlugar:
+    la pañoleta, sevilla\r\nsuperficie: 118 m2\r\npromotor: jorge paredes bernabe
+    + manuel mesa\r\nestructura: duarte asociados s.l.\r\narquitecto técnico: jesús
+    miguel villa"
+  main_image_id: '1129'
+  vposition: '34'
+  start: 09/09/2007
+  finish: 01/08/2011
+  color_id: '7'
+  visible: true
+  main_slide_id: '364'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-21 10:56:34'
+  updated_at: '2012-11-13 11:59:26.966735'
+  url: la-panoleta
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: la-panoleta
+- !ruby/struct:Card
+  id: '55'
+  title: jesus del gran poder
+  text: "El precio del suelo y los cambios familiares están provocando en el centro
+    de las ciudades grandes transformaciones tipológicas; lo que antes eran viviendas
+    unifamiliares se están transformando en viviendas plurifamiliares y lo que antes
+    eran grandes casas se están convirtiendo en muchos pequeños apartamentos. Este
+    es un caso de ello y el promotor prefirió dividir la casa en una vivienda por
+    planta más un pequeño estudio en planta baja. \r\n\r\nSe trata de la rehabilitación
+    de la planta baja y primera y la construcción de una nueva planta retranqueada
+    permitiendo la existencia de un ático con terraza.\r\n\r\nAparte de la división
+    horizontal, la tipología y la estructura antigua se conserva lo máximo posible.
+    La espacialidad de estos espacios es hoy día una cualidad a poner en valor. La
+    operación trata por ello de sacar partido a lo existente, limpiando estructural
+    y espacialmente los espacios, incorporándoles cuando ha sido necesario nuevos
+    materiales que en contraste con los antiguos nos permiten disfrutarlos de otra
+    manera.\r\n\r\n"
+  properties: "uso: vivienda plurifamiliar\r\nlugar: sevilla\r\nsuperficie: 205 m2\r\npromotor:
+    pedro barbadillo rank\r\ncontructora: gadyc s.l.\r\ncolaboradores: beatriz gerena,
+    manolo carrasco\r\nasesoramiento: duarte asociados s.l."
+  main_image_id: '1195'
+  vposition: '37'
+  start: 30/08/2006
+  finish: 30/06/2009
+  color_id: '7'
+  visible: true
+  main_slide_id: '671'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-22 11:49:17'
+  updated_at: '2011-09-12 17:06:21'
+  url: jesus-del-gran-poder
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: jesus-del-gran-poder
+- !ruby/struct:Card
+  id: '56'
+  title: textos de arquitectura
+  text: durante algunos meses nos ocupamos de la sección de arquitectura de la revista
+    "mu".  realizamos varios artículos que giraban entorno a la problemática de la
+    vivienda. intentamos  enseñar proyectos e iniciativas poco conocidas que intentan
+    plantear una vivienda actual, asequible y que se adapte a las necesidades del
+    usuario.
+  properties: "uso: articulos\r\nlugar: revista mu\r\npromotor: revista mu\r\nen colaboración
+    con: c a l c"
+  main_image_id: '1275'
+  vposition: '26'
+  start: 07/07/2005
+  finish: 10/11/2005
+  color_id: '20'
+  visible: true
+  main_slide_id: '404'
+  main_file_id: 
+  link: ''
+  created_at: '2008-01-24 12:50:13'
+  updated_at: '2012-02-16 12:17:50'
+  url: textos-de-arquitectura
+  slides_count: '5'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: textos-de-arquitectura
+- !ruby/struct:Card
+  id: '57'
+  title: vp luque
+  text: "Respondiendo a las necesidades definidas en las bases del concurso se plantea
+    la construcción de 13 alojamientos con 13 trasteros y 13 plazas de aparcamiento.
+    También se plantea la construcción de un local comercial para completar la edificabilidad,
+    y una zona común de usos múltiples que se sitúa en semisótano.\r\n\r\nLa edificación
+    se escalona en 2 niveles adecuándola a la pendiente de la calle Fuente El Espino.
+    El escalonamiento permite situar la zona común vinculada a los alojamientos en
+    semisótano, lo que les dota de una perfecta iluminación y ventilación natural
+    sin que compute en términos de edificabilidad del conjunto. Gracias a esta operación,
+    la propuesta se acerca a la máxima edificabilidad permitida sin densificar en
+    exceso la parcela y aumentando por tanto el espacio libre interior (patio común).
+    \ \r\n\r\nLa entrada a los aparcamientos se sitúa en la parte más baja de la calle
+    Fuente El Espino. Esto permite minimizar la rampa de acceso reduciendo la superficie
+    de sótano necesaria para aparcamientos.\r\n\r\nDado que la fachada del edificio
+    tiene orientación Norte, se plantea una fachada interior con orientación Sur abierta
+    al patio común, de manera que todas las viviendas tengan un optimo soleamiento
+    e iluminación. La estrategia principal de esta propuesta es por tanto aumentar
+    en lo posible dicho patio común sin que por ello se reduzca la edificabilidad
+    del conjunto.\r\n\r\n Dado que los alojamientos se plantean para mayores de 65
+    años pero también para jóvenes, parece razonable que no todas las viviendas sean
+    accesibles para personas discapacitadas, pero si una parte de  ellas. \r\nPor
+    esto, se plantea que 7 de las 13 viviendas sean accesibles, 4 en planta baja,
+    gracias a la rampa de acceso al edificio y 3 en planta primera gracias al ascensor
+    situado junto a la entrada. Desde estas viviendas también se puede acceder sin
+    obstáculos a las zonas comunitarias: zona de usos múltiples en semisótano, zona
+    de tendederos, trasteros y aparcamientos.\r\n"
+  properties: "uso: concursos\r\nlugar: luque, cordoba\r\nsuperficie: 780 m2\r\npromotor:
+    provicosa\r\ncolaboradores: angela de la serna, esperanza moreno cruz\r\narquitecto
+    técnico: jesús miguel villa"
+  main_image_id: '1521'
+  vposition: '23'
+  start: 02/02/2008
+  finish: 02/02/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '489'
+  main_file_id: 
+  link: ''
+  created_at: '2008-04-17 12:32:26'
+  updated_at: '2009-08-05 11:25:26'
+  url: vp-luque
+  slides_count: '6'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-luque
+- !ruby/struct:Card
+  id: '58'
+  title: vp bujalance
+  text: "Respondiendo a las necesidades definidas en las bases del concurso se plantea
+    la construcción de 21 alojamientos y 21 plazas de aparcamiento. También se plantea
+    la construcción de 4 locales comerciales para completar la edificabilidad, y una
+    zona común de usos múltiples.  \r\n\r\nLos aparcamientos en sótano se incluyen
+    a pesar de no ser obligatorio según la normativa urbanística local, ya que al
+    tener parte de la parcela una pendiente muy pronunciada la construcción de los
+    mismos se realiza con mayor facilidad y menor coste. Además, consideramos que
+    una promoción con este número de viviendas tiene una gran incidencia en una localidad
+    de reducidas dimensiones como Bujalance, por lo que es importante no saturar la
+    zona de coches.  \r\n\r\nDado que la edificabilidad teórica de la parcela es de
+    2.904 m2, y que la superficie construida necesaria para el programa de 20 alojamientos
+    que se plantea es aproximadamente la mitad, agotar dicha edificabilidad supondría
+    plantear unos 1.500 m2 de locales comerciales, lo que parece desproporcionado
+    para las características de la zona. Por ello, se plantea segregar la parcela
+    y construir solamente parte de ella, dejando el resto para una posible zona libre
+    u otro uso.  \r\n\r\nSe plantea construir el edificio de alojamientos en la mitad
+    Sur de la parcela por diversos motivos:  \r\n\r\n- Se ocupa la zona más urbana
+    de la parcela, construyendo la fachada a la Calle Carmen y configurando la esquina
+    con la Calle Extramuros.  \r\n- Se aprovecha la fachada Sur de la parcela buscando
+    un óptimo soleamiento e iluminación de las viviendas.  \r\n- Se aprovecha la pendiente
+    de la parcela en la Calle Carmen para construir una zona de locales y los aparcamientos
+    de las viviendas.  \r\n\r\nEl esquema de implantación es el de un edificio en
+    manzana cerrada con un patio de 7 metros de ancho y cuyas crujías más largas tienen
+    dirección Este-Oeste, lo que permite que todas las viviendas tengan orientación
+    Sur (la mayoría) o Suroeste.  \r\n\r\nLa medianera Norte que aparecería al segregar
+    la parcela en dos, puede ser tratada como medianera o como fachada según el uso
+    que finalmente vaya a tener la mitad Norte de la parcela inicial, sin que esto
+    afecte a las condiciones mínimas de iluminación y ventilación que las viviendas
+    deben tener. En previsión de la posibilidad de que el uso final asignado a dicha
+    parcela sea el de espacio público se prevé una entrada desde dicho espacio público.\r\n "
+  properties: "uso: concursos\r\nlugar: bujalance, córdoba\r\nsuperficie: 1656 m2\r\npromotor:
+    provicosa\r\ncolaboradores: angela de la serna, esperanza moreno cruz\r\narquitecto
+    técnico: jesús miguel villa"
+  main_image_id: '1833'
+  vposition: '19'
+  start: 02/02/2008
+  finish: 02/02/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '495'
+  main_file_id: 
+  link: ''
+  created_at: '2008-04-18 12:38:01'
+  updated_at: '2010-01-13 11:27:49'
+  url: vp-bujalance
+  slides_count: '5'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-bujalance
+- !ruby/struct:Card
+  id: '59'
+  title: C3 viso del alcor
+  text: "La propuesta concibe el edificio adosándose en su mayor parte al lindero
+    Norte de la parcela, construyendo así la fachada a la calle y retranqueándose
+    mediante un pliegue, allí donde la calle Jiménez Muñoz se ensancha, permitiendo
+    que en éste punto se produzca la entrada principal al edificio.\r\n\r\nEl edificio
+    se abre hacia el resto de la parcela, al sur, obteniendo la mayoría de los espacios
+    docentes unas condiciones óptimas de iluminación y soleamiento, y permitiendo
+    que distintas piezas del edificio encierren las zonas de juego de infantil y primaria,
+    separadas una de otra para que no se interfieran entre ellas visualmente y en
+    el uso que cada una tiene.\r\n\r\nAmbas fachadas se resuelven con constructividades
+    y apariencias muy diferentes. La fachada norte representativa respecto el pueblo
+    será una fachada ventilada de ladrillo visto blanco. La fachada sur muestra su
+    color con tonalidades diferentes de mortero monocapa, abriéndose así hacia las
+    zonas de juego y estar de los niños."
+  properties: "uso: docente\r\nlugar: viso del alcor, sevilla\r\nsuperficie: 3982
+    m2\r\npromotor: ente público de infraestructuras y servicios educativos\r\ncolaboradores:
+    esperanza moreno, magdalena burgos\r\nestructura: duarte asociados s.l.\r\ninstalaciones:
+    aster consultores s.l.\r\narquitecto técnico: jesus miguel villa"
+  main_image_id: '2179'
+  vposition: '17'
+  start: 12/05/2008
+  finish: 01/10/2011
+  color_id: '3'
+  visible: true
+  main_slide_id: '652'
+  main_file_id: 
+  link: ''
+  created_at: '2008-07-14 12:30:51'
+  updated_at: '2011-12-19 12:24:39'
+  url: c3-viso-del-alcor
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: c3-viso-del-alcor
+- !ruby/struct:Card
+  id: '60'
+  title: vp cerro muriano
+  text: "La propuesta pretende conseguir un equilibrio entre varios parámetros:\r\n\r\n-\tMaximización
+    de la superficie útil total\r\n\r\n-\tSostenibilidad de la actuación\r\n\r\n-\tIntegración
+    del conjunto edificado en el entorno\r\n\r\n-\tViabilidad económica.\r\n\r\nPara
+    conseguir una situación de equilibrio entre estos aspectos se parte de una parcelación
+    simétrica, con parcelas a Norte y a Sur, ya que es la que permite un mayor número
+    de viviendas con unas condiciones dimensionales óptimas para las mismas.\r\nCon
+    el fin de que las viviendas situadas en las parcelas Norte tengan las mismas condiciones
+    de soleamiento y ventilación que las situadas en el Sur, se plantean dos tipos
+    de viviendas diferentes (Norte y Sur). En la vivienda Sur no se construye ático,
+    con el fin de evitar el sombreamiento en invierno sobre la vivienda.\r\n\r\nEl
+    carácter sostenible y bioclimático de la propuesta se consigue adoptando diversas
+    estrategias que afectan a tres aspectos fundamentales: \r\n\r\n-\tAhorro Energético.\r\n\r\n-\tConsumo
+    Racional del Agua.\r\n\r\n-\tConstrucción Sostenible.\r\n\r\nEn el ahorro energético
+    se ha estudiado el soleamiento, la ventilación, la envolvente térmica y las energías
+    renovables. En el consumo racional del agua se plantea que cada vivienda disponga
+    de una pequeña instalación para la reutilización de las aguas pluviales.\r\nLa
+    propuesta también trata de generar una conexión visual con el entorno utilizando
+    materiales y técnicas constructivas tradicionales (cubiertas inclinadas, hastiales
+    y lienzos medianeros recubiertos de materiales cerámicos, celosías, etc.) pero
+    interpretados en clave contemporánea.\r\n"
+  properties: "uso: concursos\r\nlugar: cerro muriano, córdoba\r\nsuperficie: 6012
+    m2\r\npromotor: provicosa\r\ncolaboradores: angela de la serna\r\narquitecto técnico:
+    jesús miguel villa\r\nasesoría instalaciones: aster consultores s.l."
+  main_image_id: '1589'
+  vposition: '13'
+  start: 14/05/2008
+  finish: 14/05/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '504'
+  main_file_id: 
+  link: ''
+  created_at: '2008-10-06 13:35:21'
+  updated_at: '2009-08-05 11:25:02'
+  url: vp-cerro-muriano
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-cerro-muriano
+- !ruby/struct:Card
+  id: '61'
+  title: centro de dia
+  text: "El edificio propuesto parte de algunos aspectos claves:\r\n\r\nAccesibilidad:\r\nTeniendo
+    en cuenta el tipo de usuario al que se destinará este edificio (personas mayores)
+    se considera primordial reducir al mínimo las barreras necesarias para acceder
+    a los espacios que éstos utilizarán (la mayor parte de los que configuran la edificación).
+    Por tanto se propone que dicha edificación se desarrolle en su práctica totalidad
+    en planta baja. Para ello, el edificio se extiende sobre toda la superficie disponible
+    para su ubicación, agotando la ocupación máxima de parcela prevista. El espacio
+    libre obligatorio para la parcela se distribuye en patios ajardinados interiores.\r\n\r\nLa
+    Cubierta como Fachada:\r\nPara evitar que el aumento de superficie expuesta a
+    la radiación solar (cubierta) perjudique al funcionamiento térmico del edificio
+    se plantea una cubierta “ecológica ajardinada”, cubierta de bajo mantenimiento,
+    provista de un sustrato mínimo que permite la existencia de una capa vegetal con
+    un peso muy reducido.\r\n\r\nSeriación Estructural:\r\nLas dimensiones del edificio
+    en planta apuntan a una homogeneización estructural con el fin de optimizar la
+    misma económicamente.\r\n"
+  properties: "uso: concursos\r\nlugar: cerro del aguila, sevilla\r\nsuperficie: 2006
+    m2\r\npromotor: consejería para la igualdad y bienestar social\r\ncolaboradores:
+    angela de la serna, esperanza moreno cruz\r\narquitecto técnico: jesús miguel
+    villa\r\nasesoria instalaciones: aster consultores sl\r\nasesoria estructura:
+    duarte + asociados sl"
+  main_image_id: '1619'
+  vposition: '27'
+  start: 15/04/2008
+  finish: 15/04/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '509'
+  main_file_id: 
+  link: ''
+  created_at: '2008-10-07 10:50:02'
+  updated_at: '2008-10-08 12:49:32'
+  url: centro-de-dia
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: centro-de-dia
+- !ruby/struct:Card
+  id: '62'
+  title: hospederia san juan de dios
+  text: "La propuesta se inserta en el paisaje fronterizo de Olivenza de una manera
+    contemporánea, toma como punto de partida el orden y la geometría angulosa de
+    la arquitectura militar, las chimeneas de las casas de origen portugués, la austeridad
+    de los materiales en su estado natural…mármol, madera, acero, cristal, tela.\r\n\r\nEl
+    baluarte\r\nSe plantea un crecimiento del edificio bajo el nuevo paseo del baluarte
+    en dos niveles. A nivel de calle se sitúa el aparcamiento con la zona de servicios
+    e instalaciones. Encima se ubica el nuevo salón de eventos con la zona de servicio/cocina
+    y almacén.\r\nUna nueva pieza “conecta” en la esquina norte, con el convento,
+    \ planteando un nuevo núcleo de comunicación vertical de servicio con ascensor
+    y montacargas, que distribuye y conecta las cocinas, la cafetería, la lavandería,
+    el almacén, etc.…\r\n\r\nEl convento.\r\nEn la planta baja del convento se ubican
+    la recepción y demás servicios en el lado sureste hacia la plaza de San Juan de
+    Dios, el restaurante en el lado noroeste, y en la nave noreste seis habitaciones
+    iluminadas a través del patio longitudinal.\r\n\r\nEn planta alta, coincidiendo
+    con el nivel del paseo del baluarte, se encuentra el resto de las habitaciones.
+    Éstas se distribuyen a dos niveles, planta y entreplanta. \r\nEn la pared de la
+    iglesia que da al patio se pueden ver claramente los restos de una antigua galería
+    que cerraba el patio, hoy desaparecido. La propuesta plantea la “reconstrucción”
+    de este cuarto lado con una galería en planta baja, cerrando así el recorrido
+    en torno al patio, y permitiendo un mejor acceso al ascensor existente y al restaurante
+    sin tener que pasar por la entrada a las habitaciones en planta baja.\r\nCon este
+    mismo principio de reorganización espacial del convento, en planta alta, se plantea
+    un nuevo “brazo” de habitaciones. \r\nLas galerías se mantienen como elementos
+    distribuidores y además se convierten en zonas de estancia y descanso. \r\n"
+  properties: "uso: concursos\r\nlugar: olivenza, badajoz\r\nsuperficie: 6539 m2\r\npromotor:
+    consejería de cultura y turismo\r\ncolaboradores: angela de la serna, esperanza
+    moreno cruz\r\narquitecto técnico: jesús miguel villa\r\nasesoria instalaciones:
+    aster consultores sl\r\nasesoria estructura: duarte + asociados sl"
+  main_image_id: '1653'
+  vposition: '21'
+  start: 10/08/2008
+  finish: 10/08/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '525'
+  main_file_id: 
+  link: ''
+  created_at: '2008-11-13 17:42:09'
+  updated_at: '2008-11-13 19:24:55'
+  url: hospederia-san-juan-de-dios
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: hospederia-san-juan-de-dios
+- !ruby/struct:Card
+  id: '63'
+  title: centro social ASPREATO
+  text: "Esta propuesta fue merecedora de un accesit en el concurso para la nueva
+    sede de la Asociación para la Prevención y Apoyo al Toxicómano (ASPREATO).\r\n\r\nLa
+    principal característica del programa funcional asignado a esta construcción es
+    la mezcla de relación y dependencia que existe entre los principales usos. El
+    Centro de Día, el Centro de Emergencia Social y la Vivienda de Apoyo a la Inserción
+    deben ser edificios totalmente independientes para los usuarios de estos servicios
+    (incluso a nivel de acceso desde la calle) pero uno solo para el personal que
+    trabaja en ellos.\r\n\r\nPara dar respuesta a este aspecto, se plantean los usos
+    programados en bandas que a su vez se separan mediante vacíos (patios y terrazas).
+    El Centro de Día y el Centro de Emergencia Social son además separados por los
+    Servicios Comunes del Centro. Las bandas programáticas se disponen de tal forma
+    que cada uso tenga el acceso por una calle diferente. De esta forma la independencia
+    de cara al usuario es total. Sin embargo las conexiones internas permiten que
+    el personal del Centro pueda acceder a todo el edificio de forma inmediata.\r\n\r\nDesde
+    el punto de vista de la composición formal se plantea recuperar los aspectos fundamentales
+    de la arquitectura tradicional del municipio e introducirlos en el proyecto reinterpretándolos.\r\n\r\nAnalizando
+    la trama urbana histórica de Ayamonte podemos observar que esta se caracteriza
+    por estar formada por edificaciones de baja densidad, en las cuales se alternan
+    los llenos y los vacíos, llegando al punto en que éstos vacíos cobran tanta importancia
+    a nivel visual como lo edificado. \r\n\r\nAdemás, la variabilidad topográfica
+    del municipio genera la superposición de azoteas, edificaciones y patios a distintas
+    alturas, que junto a la utilización del blanco como color predominante y la práctica
+    ausencia de cubiertas inclinadas forman la imagen característica del municipio.\r\n\r\nTodos
+    estos elementos se han introducido en el proyecto pero con una lectura contemporánea:
+    composición de llenos y vacíos a distintas alturas, grandes lienzos blancos, celosías
+    cerámicas, cubiertas planas, etc.\r\n"
+  properties: "uso: concursos\r\nlugar: ayamonte, huelva\r\nsuperficie: 985 m2\r\npromotor:
+    ayuntamiento de ayamonte\r\ncolaboradores: angela de la serna, esperanza moreno
+    cruz\r\narquitecto técnico: jesús miguel villa\r\nasesoria estructura: duarte
+    + asociados sl\r\npremios: accesit"
+  main_image_id: '1675'
+  vposition: '6'
+  start: 15/09/2008
+  finish: 15/09/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '531'
+  main_file_id: 
+  link: ''
+  created_at: '2008-11-13 19:33:14'
+  updated_at: '2008-11-17 11:51:30'
+  url: centro-social-aspreato
+  slides_count: '4'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: centro-social-aspreato
+- !ruby/struct:Card
+  id: '64'
+  title: centro de salud
+  text: "La parcela objeto del concurso, se sitúa en un área de crecimiento de la
+    localidad, teniendo medianeras al Norte,  Este y Oeste, y dando la fachada al
+    Sur. La característica principal de la parcela, es la pendiente de la misma, de
+    forma que existe un desnivel entre el lindero Norte y el Sur de aproximadamente
+    12 metros, y de 9 metros entre los extremos Este y Oeste de la parcela.\r\n\r\nLa
+    propuesta de implantación que se plantea pretende establecer un compromiso entre
+    la adaptación de la edificación a la parcela, y el requerimiento del programa
+    de necesidades de que el edificio se desarrolle en la medida de lo posible en
+    un solo nivel. Facilitando de esta manera la accesibilidad del edificio sin que
+    ello suponga un movimiento de tierras excesivo.\r\n\r\nDado que la calle por la
+    que se accede al edificio tiene una pendiente que sube en la dirección Oeste-Este
+    se propone que la edificación se adapte al terreno en esta dirección. Para ello
+    el edificio constará de dos niveles continuos (sin desniveles interiores) en los
+    que se desarrollará el programa del centro de salud mas un semisótano para aparcamientos."
+  properties: "uso: concursos\r\nlugar: archidona, málaga\r\nsuperficie: 3595 m2\r\npromotor:
+    servicio andaluz de salud, consejería de salud\r\ncolaboradores: angela de la
+    serna, esperanza moreno cruz\r\narquitecto técnico: jesús miguel villa\r\nasesoria
+    estructura: aster consultores sl\r\nasesoria estructura: duarte + asociados sl"
+  main_image_id: '1687'
+  vposition: '36'
+  start: 20/07/2008
+  finish: 20/07/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '536'
+  main_file_id: 
+  link: ''
+  created_at: '2009-01-12 11:32:42'
+  updated_at: '2009-01-12 12:52:52'
+  url: centro-de-salud
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: centro-de-salud
+- !ruby/struct:Card
+  id: '65'
+  title: J5 velezrubio
+  text: "Esta propuesta plantea estrategias de producción de vivienda que abran la
+    posibilidad al usuario a participar en el proceso de diseño y/o construcción,
+    además de permitir la optimización de recursos económicos en el tiempo. \r\n\r\nLa
+    vivienda se define como la agregación de un modulo-estancia  de 14 m2, sin uso
+    predeterminado, anexo a una zona técnica de servicio de 5 m2. Este módulo va configurando
+    zonas de doble altura o niveles intermedios.\r\nEl módulo-estancia, con una superficie
+    intermedia entre un dormitorio y una zona de estar, permite la intercambiabilidad
+    de estos usos o la asignación de otros. Esta intercambiabilidad es posible gracias
+    a las zonas técnicas de servicio situadas en el centro de la vivienda que permiten
+    la ubicación de cocina o baño en cualquiera de los lados. Entendemos que esto
+    permite una mayor flexibilidad en la distribución de la vivienda, así como una
+    mayor adaptación a los modos de vida contemporáneos. \r\n\r\nLa vivienda se forma
+    escalonando los módulos-estancia, formando zonas de 5,25 metros de altura libre
+    y niveles intermedios. Esto permite la diferenciación de ambientes con una mínima
+    utilización de tabiques, y una optimización de la superficie útil gracias a la
+    disminución de pasillos. Por otro lado, la doble altura permite la ampliación
+    de la superficie de la vivienda mediante la construcción de una entreplanta lo
+    que permite la adaptación de la vivienda a las necesidades fisicas y economicas
+    del usuario. \r\n\r\nTodas las viviendas tienen un modulo exterior de 6 m2 con
+    una infraestructura básica para terminar según el uso que cada uno quiera darle.
+    El módulo consta de una estructura con suelo y techo, así como de tomas de agua,
+    luz y saneamiento.\r\n\r\nLas zonas comunes, de construcción ligera se sacan al
+    exterior."
+  properties: "uso: concursos\r\nlugar: vélez rubio, almería\r\nsuperficie: 2068 m2\r\npromotor:
+    empresa publica del suelo de andalucia\r\ncolaboradores: angela de la serna, esperanza
+    moreno cruz"
+  main_image_id: '1693'
+  vposition: '4'
+  start: 18/11/2008
+  finish: 18/11/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '540'
+  main_file_id: 
+  link: ''
+  created_at: '2009-01-13 11:23:28'
+  updated_at: '2010-01-13 17:28:13'
+  url: j5-velezrubio
+  slides_count: '7'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: j5-velezrubio
+- !ruby/struct:Card
+  id: '66'
+  title: centro de salud en Jerez
+  text: "La parcela objeto del concurso, se sitúa en un área predominantemente residencial,
+    limitando al Oeste con un parque y al Este con una zona de viviendas adosadas
+    de nueva creación. La configuración formal de dicha parcela, alargada en la dirección
+    Norte-Sur provoca que el edificio que se sitúe ahí pueda convertirse en una barrera
+    entre las viviendas y el parque.\r\n\r\nLa estructura general de implantación
+    propuesta pretende evitar esto, además de generar una racionalidad en las circulaciones
+    y distribuciones del Centro, lo que redundará en una optimización de las superficies
+    construidas.\r\n\r\nPara ello, se propone un esquema en espina de pez, con una
+    circulación central a la que se adosan lateralmente patios al tresbolillo. Dichos
+    patios generan una permeabilidad visual entre las fachadas Este y Oeste, además
+    de dotar de iluminación y ventilación natural a todos los espacios del Centro.\r\n"
+  properties: "uso: concursos\r\nlugar: Jerez\r\nsuperficie: 3.222 m2\r\npromotor:
+    servicio andaluz de salud, consejería de salud\r\ncolaboradores: angela de la
+    serna, esperanza moreno cruz\r\narquitecto técnico: jesús miguel villa\r\nasesoria
+    instalaciones: aster consultores sl\r\nasesoria estructura: duarte + asociados
+    sl"
+  main_image_id: '1749'
+  vposition: '29'
+  start: 01/05/2008
+  finish: 01/05/2008
+  color_id: '11'
+  visible: true
+  main_slide_id: '556'
+  main_file_id: 
+  link: ''
+  created_at: '2009-07-30 11:47:40'
+  updated_at: '2009-08-05 11:29:39'
+  url: centro-de-salud-en-jerez
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: centro-de-salud-en-jerez
+- !ruby/struct:Card
+  id: '67'
+  title: vp villadelrio
+  text: "-\tModulo Tipológico.\r\nSe ha buscado la generación de un módulo tipológico
+    que pudiera repetirse en la medida de lo posible y adaptarse en caso que la geometría
+    de la parcela impidiera la repetición, ya que dicha repetición permitirá una optimización
+    de los tiempos y costes de ejecución del conjunto.\r\n-\tRetranqueo de la Entrada
+    a la Vivienda.\r\nLa escasa anchura de las parcelas (entorno a los 5.80 metros)
+    y la necesidad de ubicar el garaje en fachada, dejaba el resto del frente de fachada
+    con unas dimensiones muy escasas para ubicar una zona habitable de vivienda. Debido
+    a ello, se ha optado por ubicar junto al garaje un patio de acceso, y retrasar
+    la entrada a la vivienda hacia el interior de la parcela.\r\n-\tMinimización de
+    espacios de circulación.\r\nComo consecuencia de la ubicación de la entrada a
+    la vivienda en el interior de la parcela aparecen dos ventajas:\r\n\r\na)\tLa
+    entrada se realiza junto a la escalera, lo que minimiza los recorridos y por tanto
+    los espacios distribuidores de toda la vivienda (entorno a los 5-6 m2 de espacios
+    de circulación en el total de la vivienda). Esto a su vez permite un mejor aprovechamiento
+    de la superficie útil máxima permitida, lo que conlleva que los principales espacios
+    habitables (dormitorios y estancia) sean considerablemente más grandes del mínimo
+    exigido.\r\nb)\tPor otro lado, el patio de acceso permite la ventilación e iluminación
+    natural del baño y el aseo.\r\n"
+  properties: "uso: concursos\r\nlugar: Villa del Rio, córdoba\r\nsuperficie: 2.203
+    m2\r\npromotor: provicosa\r\ncolaboradores: esperanza moreno cruz\r\narquitecto
+    técnico: jesús miguel villa"
+  main_image_id: '1761'
+  vposition: '2'
+  start: 01/05/2009
+  finish: 20/05/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '559'
+  main_file_id: 
+  link: ''
+  created_at: '2009-08-05 11:00:18'
+  updated_at: '2009-08-05 11:24:30'
+  url: vp-villadelrio
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-villadelrio
+- !ruby/struct:Card
+  id: '68'
+  title: vp Hinojosa
+  text: "dado que la superficie de las parcelas es amplia para el programa solicitado
+    se introducen patios generosos, y se decide volcar las zonas de estancia de las
+    viviendas a estos patios. De esta manera se consigue una máxima intimidad y privacidad
+    con unas condiciones óptimas de iluminación y soleamiento. Esta configuración
+    también permite que la mayor parte de las viviendas (8 de 13) tengan la estancia
+    con orientación Sur.\r\n\r\nEn todos los casos el garaje se ubica en fachada,
+    pero quedando integrado en el diseño de la misma. Desde el garaje se tiene acceso
+    directo a la vivienda sin tener que salir al exterior. Este acceso, en la mayor
+    parte de los casos, se realiza a un espacio distribuidor.\r\n\r\nEn planta alta
+    se sitúa el dormitorio principal y el secundario, junto a una pequeña terraza.
+    La pieza que alberga estos dormitorios en segunda planta, con su cubierta a dos
+    aguas, se convierte en el elemento visual que desde la calle distingue cada una
+    de las viviendas, pero que al mismo tiempo (al ser siempre el mismo elemento que
+    se repite) unifica el conjunto."
+  properties: "uso: concursos\r\nlugar: Hinojosa, córdoba\r\nsuperficie: 2.203 m2\r\npromotor:
+    provicosa\r\ncolaboradores: esperanza moreno cruz\r\narquitecto técnico: jesús
+    miguel villa"
+  main_image_id: '1773'
+  vposition: '6'
+  start: 01/04/2009
+  finish: 20/04/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '562'
+  main_file_id: 
+  link: ''
+  created_at: '2009-08-05 11:12:45'
+  updated_at: '2011-09-14 15:32:18'
+  url: vp-hinojosa
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vp-hinojosa
+- !ruby/struct:Card
+  id: '69'
+  title: IES Coria
+  text: "Las zonas comunes del edificio se adaptan de manera orgánica a la línea de
+    servidumbre del arroyo con el objetivo de dejar el máximo espacio posible para
+    los aularios y permitiendo una zona de ampliación clara al fondo de la parcela,
+    \ dejando libertad a los aularios para organizarse regularmente orientando todas
+    las aulas a noreste. \r\nSe ha seguido el criterio definido en el pliego de orientar
+    los huecos a norte, minimizando en lo posible las protecciones solares.\r\nSe
+    juega con la iluminación indirecta que provoca el ladrillo blanco utilizado en
+    los paños a sur y a oeste, en contraste con el ladrillo oscuro.\r\nEn el “corte”
+    con la línea abstracta de la servidumbre legal del arroyo es donde el edificio
+    se muestra más complejo, generando espacios y miradas diversas...\r\n"
+  properties: "uso: concursos\r\nlugar: Coria, Caceres\r\nsuperficie: 7.474 m2\r\npromotor:
+    consejería de educación de la junta de extremadura\r\ncolaboradores: esperanza
+    moreno cruz\r\narquitecto técnico: jesús miguel villa\r\nasesoria estructura:
+    duarte + asociados sl"
+  main_image_id: '1781'
+  vposition: '13'
+  start: 01/03/2009
+  finish: 20/03/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '566'
+  main_file_id: 
+  link: ''
+  created_at: '2009-08-05 11:22:54'
+  updated_at: '2010-02-06 08:49:11'
+  url: ies-coria
+  slides_count: '3'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ies-coria
+- !ruby/struct:Card
+  id: '70'
+  title: Ampliación polideportivo
+  text: "La zona de actuación es un conjunto de instalaciones deportivas que se han
+    ido construyendo a lo largo del tiempo por adición, sin que exista una estructura
+    de organización muy clara. Esto conlleva diversos problemas: los accesos y recorridos
+    interiores no están claramente definidos (la entrada peatonal se realiza a través
+    del aparcamiento, por ejemplo), se generan espacios intersticiales infrautilizados,
+    no existe una “imagen” clara que de carácter al conjunto, etc.\r\nPor ello, la
+    propuesta pretende no sólo dar respuesta a las necesidades funcionales que se
+    requieren desde las bases del concurso, si no también, plantear la intervención
+    como un elemento que sirva de “organizador” de toda la zona deportiva, y al mismo
+    tiempo que le de “carácter” visual al conjunto.\r\nPara ello, el edificio se plantea
+    como una pieza longitudinal que a modo de eje vertebrador va ordenando los diferentes
+    usos que va encontrando a ambos lados, desde el acceso en la zona Sureste hasta
+    el extremo Noreste.\r\nLas dimensiones del edificio en planta (una pieza claramente
+    longitudinal, a excepción de la zona de cafetería) apuntan a una homogeneización
+    estructural con el fin de optimizar la misma económicamente. Por ello, se propone
+    una retícula de pilares de 6 x 9,30 metros que sólo se deforma  en los extremos,
+    y en la zona de cafetería.\r\n"
+  properties: "uso: concursos\r\nlugar: Tomares, Sevilla\r\nsuperficie: 2.678 m2\r\npromotor:
+    Ayuntamiento de Tomares\r\ncolaboradores: esperanza moreno cruz\r\narquitecto
+    técnico: jesús miguel villa\r\nasesoria estructura: duarte + asociados sl"
+  main_image_id: '1793'
+  vposition: '19'
+  start: 01/02/2009
+  finish: 20/02/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '568'
+  main_file_id: 
+  link: ''
+  created_at: '2009-08-05 11:43:23'
+  updated_at: '2010-01-13 16:12:27'
+  url: ampliacion-polideportivo
+  slides_count: '4'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ampliacion-polideportivo
+- !ruby/struct:Card
+  id: '72'
+  title: casa mas o menos
+  text: "Para nosotros *casa más o menos* describe el ámbito de práctica, investigación
+    y docencia que intentamos desarrollar en torno a *la vivienda y el hábitat entendidos
+    como un proceso*. Un concepto de espacio que posibilite su capacidad de adaptación
+    a las necesidades sociales, medioambientales y a los recursos disponibles de los
+    ciudadanos, y donde se incorpore a éste activamente en la construcción de una
+    identidad individual y colectiva, *que le haga partícipe* de lo  percibido, sentido,
+    vivido y por lo tanto de su capacidad de transformar los espacios que habita.\r\n\r\ncasamasomenos:
+    es nuestro intento desde la arquitectura de abrir los procesos de vivienda a la
+    ciudadanía, para fomentar otro modo de colaboración entre técnicos y usuarios.\r\n\r\n¿Por
+    qué casa más o menos? Una casa más o menos terminada, diseñada, o algo que es
+    más o menos una casa…\r\n\r\nAquí puedes ver los proyectos que hemos realizado
+    dentro de casa + ó - >>>> > > > >"
+  properties: "![LAPANADERIA](https://depan.s3.amazonaws.com/pan_file/file/982/PAN.jpg)\r\n\r\nvideos:
+    \"youTUBE\":http://www.youtube.com/user/casamasomenos/videos?view=pl"
+  main_image_id: 
+  vposition: 
+  start: ''
+  finish: ''
+  color_id: '19'
+  visible: false
+  main_slide_id: 
+  main_file_id: 
+  link: ''
+  created_at: '2010-01-13 16:00:14'
+  updated_at: '2012-03-08 15:48:08'
+  url: casa-mas-o-menos
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: casa-mas-o-menos
+- !ruby/struct:Card
+  id: '75'
+  title: C2 San Juan del Puerto
+  text: "La edificación que se propone para el nuevo C2 se organiza en forma de cruz
+    siguiendo los ejes Norte-Sur y Este-Oeste, gracias a la agregación de tres piezas
+    en “ele”: Primaria, Infantil y, Administración y Servicios Comunes. Esto conlleva
+    varias ventajas:\r\n\r\n-Esta estructura permite una clara diferenciación de los
+    usos principales (zona de Infantil, y zona de Primaria), funcionando la zona de
+    Servicios Comunes y Administración como un espacio servidor de las zonas anteriores.
+    En el centro se situaría el espacio de recepción, iluminado mediante un patio,
+    y desde el cual se accede directamente a las zonas de infantil y primaria, a la
+    zona de administración, a la zona de servicios comunes, al comedor y a la biblioteca.\r\n\r\n-La
+    fachada más urbana de la parcela, la que da a la Calle Inmaculada Concepción se
+    configura con la pieza de Administración y Servicios Comunes. Los accesos al edificio
+    se realizarán por esta fachada, ya que es la más cercana al núcleo urbano, el
+    acceso peatonal principal por el centro de la fachada y el rodado por el extremo
+    Noroeste. Se da la posibilidad de plantear un acceso peatonal independiente para
+    Infantil por el extremo Sur. Que la pieza de Servicios configure la fachada permite
+    el acceso directo desde la calle a equipamientos como la Biblioteca y el Comedor
+    sin tener que atravesar el resto del edificio.\r\n\r\n-La orientación de la edificación
+    según los ejes Norte-Sur y Este-Oeste permite un perfecto soleamiento e iluminación
+    natural de los diferentes espacios. Así, todas las aulas -(los espacios de mayor
+    uso)- tienen orientación Sur o Sureste, buscando preferentemente el sol de la
+    mañana.\r\n"
+  properties: "uso: docente\r\nlugar: San Juan del Puerto, Huelva\r\nsuperficie: 2866
+    m2\r\npromotor: ente público de infraestructuras y servicios educativos\r\ncolaboradores:
+    esperanza moreno\r\nestructura: duarte asociados s.l.\r\narquitecto técnico: jesus
+    miguel villa\r\nconstructora: SANDO"
+  main_image_id: '1981'
+  vposition: '15'
+  start: 01/02/2009
+  finish: 01/02/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '604'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-05 18:59:37'
+  updated_at: '2010-02-15 17:08:18'
+  url: C2-San-Juan-del-Puerto
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: c2-san-juan-del-puerto
+- !ruby/struct:Card
+  id: '76'
+  title: C2 Quesada
+  text: "El nuevo centro C1 se plantea en forma de “L” dando a la calle de la Dehesa,
+    al norte de la parcela, esto tiene las siguientes ventajas:\r\n\r\n1-\tPermite
+    ejecutar la obra sin afectar a la docencia del centro\r\n\r\n2-\tAl plantear el
+    nuevo acceso en la calle de la Dehesa y reformar el acerado, se mejora la accesibilidad
+    peatonal al colegio, separando el acceso rodado al aparcamiento (que se realiza
+    por la calle Atalaya).\r\nA la vez que se genera una imagen más unitaria y urbana
+    del nuevo colegio junto a las preexistencias.\r\n\r\n3-   Se consigue que el centro
+    tenga más unidad, lo que permite un mejor mantenimiento y control, a la vez que
+    los 2 edificios existentes (el 1 y el 2) mantienen su independencia, pudiendo
+    incluso si es necesario plantear accesos independientes desde la calle de la Dehesa\r\n\r\n4-\tSe
+    mantiene todo el arbolado, solo se tala un árbol entre el  edificio 2 y el gimnasio.\r\n\r\n5-\tLa
+    implantación de la edificación favorece la separación de los espacios exteriores
+    entre zona para \r\n      infantil y zona para primaria, ambas abiertas hacia
+    el sur y el paisaje.\r\n\r\n6-\tLa zona de servicio, cocina e instalaciones, se
+    sitúa junto al nuevo centro de transformación dando a la calle de la Dehesa, separada
+    del acceso principal, de esta manera se asegura una facilidad de acceso para mantenimiento,
+    evitando tener que entrar en las zonas interiores de juego.\r\n"
+  properties: "uso: docente\r\nlugar: Quesada, Jaén\r\nsuperficie: 1651 m2\r\npromotor:
+    ente público de infraestructuras y servicios educativos\r\narquitecto técnico:
+    jesus miguel villa\r\n"
+  main_image_id: '1993'
+  vposition: '4'
+  start: 01/07/2009
+  finish: 01/07/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '600'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-05 19:54:03'
+  updated_at: '2011-09-14 15:31:57'
+  url: C2 Quesada
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: c2-quesada
+- !ruby/struct:Card
+  id: '77'
+  title: C2 Aguadulce
+  text: "El solar propuesto se encuentra en una zona residencial de reciente creación
+    lindando con una franja al este de suelo urbanizable no sectorizado sobre terrenos
+    de cultivo e invernaderos.\r\n\r\nLa parcela presenta un desnivel topográfico
+    de 5 m en el sentido longitudinal, el centro se organiza en 3 piezas transversales
+    que se van adaptando a las lineas de nivel.\r\nEsto permite una mejor adaptación
+    al terreno de la edificación y de los espacios exteriores, a la vez que facilita
+    la ventilación homogenea de los forjados sanitarios.\r\n\r\nEl acceso al nuevo
+    centro se plantea centrado en la avenida Maspalomas para facilitar el acceso desde
+    el este donde se situa la principal zona de viviendas colindante.\r\nEn la zona
+    de acceso se colocan 2 rampas que permiten resolver facilmente los cambios de
+    nivel interior del centro.\r\n\r\nla implantación divide y organiza claramente
+    las zonas exteriores de juego y plantea todas las aulas con orientación sureste
+    para recibir el soleamiento de la mañana"
+  properties: "uso: docente\r\nlugar: Aguadulce, Almería\r\nsuperficie: 1651 m2\r\npromotor:
+    ente público de infraestructuras y servicios educativos\r\narquitecto técnico:
+    jesus miguel villa"
+  main_image_id: '1989'
+  vposition: '10'
+  start: 01/08/2009
+  finish: 01/08/2009
+  color_id: '11'
+  visible: true
+  main_slide_id: '603'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-05 19:57:58'
+  updated_at: '2010-02-15 17:44:49'
+  url: C2 Aguadulce
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: c2-aguadulce
+- !ruby/struct:Card
+  id: '79'
+  title: prototipo unifamiliar
+  text: "Entendemos que la vivienda es un objeto cultural, ya que es el espacio donde
+    se imprimen nuestros hábitos cotidianos, dónde queda grabada la huella de nuestros
+    ritos domésticos. Ésta debería ser por tanto el reflejo de nuestra cultura más
+    íntima, desde la más tradicional a la más contemporánea. Sin embargo, en la actualidad
+    la vivienda es, por encima de todo, un objeto económico. Esto tiene 2 consecuencias:\r\n\r\n1ª.
+    Económica. La vivienda se ve sujeta a las dinámicas de oferta y demanda de cualquier
+    producto provocando excesos de demanda (aumentos desorbitados en su precio) o
+    excedentes en su producción (viviendas vacías). Esto dificulta enormemente el
+    acceso a la vivienda a los sectores de la población que realmente necesitan la
+    vivienda “para vivir”.\r\n\r\n2ª. Arquitectónica/Cultural. El mercado de la vivienda
+    se ha convertido en un sector muy conservador planteando modelos de ciudad y vivienda
+    obsoletos con los que cada vez menos personas se sienten identificados (cuando
+    buscas una vivienda para invertir y no para vivir, no es tan importante que esa
+    vivienda se adapte a tus modos de vida). \r\n\r\nEn la actualidad, los modelos
+    de producción cultural son cada vez menos jerárquicos y más horizontales. Existe
+    cada vez menos distancia entre el productor y el consumidor. Sin embargo, en el
+    mundo de la arquitectura en general, y en el de la vivienda en particular, la
+    distancia entre el que decide qué es una vivienda (promotores, técnicos, administraciones,
+    etc.) y el que la vive es abismal. En este contexto el sistema de producción arquitectónica
+    de vivienda se aleja claramente de las tendencias contemporáneas de producción
+    cultural. ¿Cómo acercar de nuevo la producción de vivienda al ámbito cultural?\r\n\r\nEntendemos
+    que el núcleo del debate y la investigación arquitectónica actual relacionada
+    con la vivienda debería centrarse en intentar que la producción de la misma se
+    acerque a los modelos de producción cultural contemporáneos, y para ello consideramos
+    prioritario abrir los procesos de diseño, producción y gestión de vivienda al
+    usuario permitiendo su participación.\r\n"
+  properties: "uso: vivienda unifamiliar\r\nsuperficie: variable\r\ncolaboradores:
+    esperanza moreno cruz\r\nproyecto subvencionado por: el ministerio de cultura
+    en 2010\r\n![Alt text](https://depan.s3.amazonaws.com/pan_file/file/964/logo-cultura.png)"
+  main_image_id: '2001'
+  vposition: '26'
+  start: 01/07/2009
+  finish: 30/12/2009
+  color_id: '20'
+  visible: true
+  main_slide_id: '605'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-10 18:47:11'
+  updated_at: '2012-03-08 07:35:18'
+  url: prototipo unifamiliar
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: prototipo-unifamiliar
+- !ruby/struct:Card
+  id: '80'
+  title: la vivienda como proceso
+  text: "El objetivo principal de este proyecto es la elaboración de un Catálogo de
+    Estrategias y recomendaciones que fomenten la participación del usuario en los
+    procesos de vivienda. Se pretende generar una herramienta de aplicación para usuarios,
+    técnicos y administraciones.\r\n\r\n"
+  properties: "Subvencionado por: Ayudas a la investigación en materia de Arquitectura.
+    convocatoria 2009. Consejería de Vivienda y Urbanismo. Junta de Andalucía\r\nAsesores:
+    Pedro Lorenzo, Zaida Muxí\r\nhan colaborado: Esperanza Moreno, Tania Magro, Magdalena
+    Burgos\r\n\r\n\"RESUMEN investigacion\":https://sites.google.com/a/despachodepan.com/archivo/a-r-c-h-i-v-o/la%20viv%20como%20proceso_RESUMEN.pdf?attredirects=0&d=1\r\n\r\n\"DOCUMENTO
+    completo\":https://sites.google.com/a/despachodepan.com/archivo/a-r-c-h-i-v-o/la%20viv%20como%20proceso_DOC_2%20pag-hoja.pdf?attredirects=0&d=1\r\n\r\n\"WEB\":http://investigacion.casamasomenos.net/"
+  main_image_id: 
+  vposition: '23'
+  start: 01/12/2009
+  finish: 15/11/2011
+  color_id: '20'
+  visible: true
+  main_slide_id: '913'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-10 19:04:02'
+  updated_at: '2012-03-01 11:23:37'
+  url: proyecto de investigacion
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: la-vivienda-como-proceso
+- !ruby/struct:Card
+  id: '81'
+  title: VPO progresiva
+  text: "La estrategia principal de este estudio consiste en analizar la viabilidad
+    de las propuestas de vivienda progresiva realizadas por lapanaderia en cinco suelos
+    concretos de cinco localidades diferentes ubicadas en la aglomeración urbana de
+    Sevilla. Tras este análisis se extraerán conclusiones que permitan introducir
+    modificaciones tanto en dichas propuestas como recomendaciones para futuras modificaciones
+    de aspectos legales que actualmente impiden la implantación de este tipo de viviendas.\r\n\r\nBeneficios
+    generales del proyecto:\r\n\r\n• Desarrollar modelos complementarios al actual
+    concepto de vivienda social. Entendiendo que “social” no debe ser sólo sinónimo
+    de económico, sino también de algo que es producido colectivamente, y que por
+    lo tanto es reflejo de nuestra cultura.\r\n\r\n• Promover la participación del
+    usuario en la construcción de su entorno construido inmediato, aumentando el grado
+    de identificación y pertenencia al mismo.\r\n\r\n• Fomentar la sostenibilidad
+    en la construcción, entendiendo que lo más sostenible es construir estrictamente
+    lo que se va a utilizar en el momento que se va a utilizar, además de la utilización
+    de recursos renovables y materiales ecológicos.\r\n\r\n• Ayudar a hacer realidad
+    el derecho de acceso a una vivienda que recoge la Constitución Española.\r\n\r\nSe
+    desarrolla un prototipo que pretende resolver de manera viable una propuesta de
+    VPO adaptable. Esta adaptabilidad se desarrolla de varias formas y en varios momentos:\r\n\r\n•
+    superficie de la vivienda: la vivienda puede pasar de los 50 m² iniciales a tener
+    una superficie de 70 m² construyendo una segunda fase interiormente en un espacio
+    a doble altura inicial.\r\n\r\n• Uso de los espacios: se plantea una desjerarquización
+    de los espacios de la vivienda. El tamaño de las estancias no esta asociado a
+    un uso determinado, lo que permite flexibilidad en las distribuciones, intercambio
+    entre zonas de día y noche con posibilidad de decidir por una orientación\r\npreferente
+    para los espacios de estar.\r\n\r\n• Distribución y número de estancias: el prototipo
+    permite cambios en la distribución interior a lo largo del tiempo, para que la
+    vivienda pueda adaptarse fácilmente y con el mínimo gasto a los cambios producidos
+    por cambios en las necesidades de los habitantes ó a cambios de habitantes,\r\ndistinguiendo
+    en la vivienda entre elementos fijos y elementos variables.\r\n\r\n• A nivel de
+    edificio el prototipo también permite la adaptabilidad en la organización de las
+    viviendas.\r\n\r\nPartiendo de las características previamente descritas se han
+    desarrollado 2 variaciones del prototipo que cuentan con 3 módulos, 2 de los cuales
+    se configuran como un espacio a doble altura donde se puede ampliar la superficie
+    de la vivienda.\r\nCon estas 2 variantes se han realizado los diferentes estudios
+    previos en los municipios, dando como resultado distintos modos de agrupaciones
+    de vivienda en altura. Esto ha permitido desarrollar un abanico de posibilidades
+    de agrupación de viviendas con distintas alturas y configuraciones de la edificación.\r\n"
+  properties: "lugar: área metropolitana de Sevilla\r\ncolaboradores: magdalena burgos,
+    fanny steiner, irene rodriguez\r\npromotor: \r\n![cOnvive](https://depan.s3.amazonaws.com/pan_file/file/963/logo-convive.png)"
+  main_image_id: 
+  vposition: '6'
+  start: 01/02/2010
+  finish: 01/07/2012
+  color_id: '20'
+  visible: true
+  main_slide_id: '607'
+  main_file_id: 
+  link: ''
+  created_at: '2010-02-10 19:26:50'
+  updated_at: '2013-07-18 12:34:25.990533'
+  url: VPO progresiva
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vpo-progresiva
+- !ruby/struct:Card
+  id: '82'
+  title: Comedor Virgen del Rocio_Camas
+  text: El encargo se produce a mediados de agosto para presentar una subvención al
+    plan Proteja, lo que nos obliga a hacer el proyecto en 1 semana. El Comedor se
+    sitúa en una parcela anexa al colegio cerrando la esquina y manteniendo los arboles
+    de mayor porte.
+  properties: "uso: docente\r\nlugar: La Pañoleta_Camas\r\nsuperficie: 246 m2\r\npromotor:
+    Ayuntamiento de Camas\r\ncolaboradores: Esperanza Moreno Cruz, Angela Serna, Fanny
+    Steiner\r\nestructura: duarte asociados s.l.\r\narquitecto tecnico: jesus miguel
+    villa"
+  main_image_id: '2269'
+  vposition: '15'
+  start: 15/08/2010
+  finish: 01/11/2011
+  color_id: '3'
+  visible: true
+  main_slide_id: '853'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-12 08:20:22'
+  updated_at: '2012-02-07 19:33:39'
+  url: comedor_camas
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: comedor-virgen-del-rocio_camas
+- !ruby/struct:Card
+  id: '83'
+  title: Regiones devastadas
+  text: "La vivienda no puede quedar obsoleta, la vivienda esta sometida a un continuo
+    proceso de transformación, y debe poder evolucionar y adaptarse. La vivienda debe
+    adaptarse a las necesidades de los usuarios y a los cambios tecnológicos. La vivienda
+    que se propone se entiende como una infraestructura adaptable energéticamente
+    optimizada.  La vivienda propuesta es una infraestrutura habitable sostenible
+    de 2 maneras: \r\n1- optimiza su orientación, su envolvente, la organización de
+    sus espacios y sus instalaciones de forma que consuma la mínima energía posible.
+    \r\n2- se diseña y construye de manera que permite su cambio y transformación
+    a lo largo del tiempo,  diferenciando entre elementos rígidos y elementos flexibles.
+    NO demoler, transformar, reutilizar, reciclar...\r\n\r\nLa adaptabilidad de la
+    tipología facilita y optimiza la gestión de la vivienda a lo largo de su proceso:
+    \ \r\n1-  Durante la fase de redacción de proyecto, permitiría a Emvisesa reajustar
+    el programa definido en concurso, para incluir viviendas de 1 dormitorio. Reajuste
+    provocado por que se tengan más datos de cuantos usuarios actuales deciden vover
+    al barrio finalmente.  \r\n2-  A lo largo de la vida del edificio, Emvisesa puede
+    cambiar y adaptar los programas de vivienda en algunas zonas del edificio para
+    adaptarse a necesidades sociales más actuales y a perfiles que necesiten otros
+    tamaños de vivienda... apartamentos de alquiler para jóvenes. Estos cambios supondrían
+    pequeñas obras de cambios de tabiquería\r\n\r\n\r\n"
+  properties: "uso: vivienda\r\nlugar: Sevilla\r\nsuperficie: 18.000 m2\r\npromotor:
+    EMVISESA\r\ncolaboradores: Pedro Lorenzo, angela lara\r\nestructura: duarte asociados
+    s.l.\r\ninstalaciones: ASTER ingenieros\r\narquitecto técnico: jesus miguel villa"
+  main_image_id: '2255'
+  vposition: '13'
+  start: 20/03/2010
+  finish: 20/03/2010
+  color_id: '11'
+  visible: true
+  main_slide_id: '683'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-12 08:51:53'
+  updated_at: '2011-09-14 15:23:34'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: regiones-devastadas
+- !ruby/struct:Card
+  id: '85'
+  title: comedor en La Linea
+  text: "Se trata de equipar al colegio existente con un nuevo edificio de dos plantas
+    (PB +1) para uso de comedor y cocina, que se ubican en planta baja, así como nuevas
+    aulas en la planta primera. En la actualidad el colegio cuenta con tres construcciones
+    independientes. La nueva construcción se articula en la esquina sureste de la
+    parcela, actualmente libre de cualquier construcción y se anexiona al módulo principal
+    existente, de dos plantas, emplazado en el sur de la parcela, mediante un núcleo
+    de comunicaciones nuevo. Por el sur, la nueva construcción se comunica mediante
+    un porche con otro módulo de aulas existente de una planta. \r\n\r\nTras entregar
+    el básico, está parado debido a un conflicto judicial entre el ISE y el CACOA."
+  properties: "uso: docente\r\nlugar: CEIP La Atunara\r\nLa Linea de la Concepción\r\nsuperficie:
+    542 m2\r\npromotor: ISE Andalucía\r\ncolaboradores: Angela Serna, Fanny Steiner\r\nestructura:
+    duarte asociados s.l.\r\narquitecto tecnico: jesus miguel villa\r\ninstalaciones:
+    aster consultores s.l."
+  main_image_id: '2261'
+  vposition: '25'
+  start: 10/08/2010
+  finish: 01/05/2013
+  color_id: '3'
+  visible: true
+  main_slide_id: '690'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-13 09:13:52'
+  updated_at: '2013-07-18 12:35:37.562336'
+  url: comedor la Atunara
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: comedor-en-la-linea
+- !ruby/struct:Card
+  id: '86'
+  title: rEactúa
+  text: "**rEactúa** es una estrategia participativa de concienciación\r\nenergética
+    asociada a la rehabilitación de edificios de vivienda\r\ncolectiva con criterios
+    de eficiencia energética.\r\n\r\nEl proyecto se ha desarrollado en una primera
+    fase con una\r\nsubvención del Ministerio de Cultura.\r\n\r\nEs una estrategia
+    que trata de unir dos de las líneas existentes\r\npara reducir el consumo energético
+    del sector de la edificación,\r\nuna, basada en la mejora técnica de los edificios,
+    consistente en\r\nrehabilitarlos con criterios de eficiencia energética, y otra
+    orientada\r\na conseguir cambios en los hábitos de consumo energético de los\r\nhogares.\r\n\r\nEl
+    trabajo de rEactúa consiste en la planificación de un proceso participativo de
+    concienciación\r\nenergética, de forma que se desarrolle sincronizada y simultáneamente
+    a un proceso de\r\nrehabilitación energética de un edificio de vivienda colectiva
+    . Para conseguir incidir en los hábitos\r\nde consumo y en la forma de uso de
+    las instalaciones y las viviendas, entendemos que el momento\r\nde la rehabilitación
+    energética de tu propia casa (y la de tus vecinos) es el momento idóneo para\r\nhacer
+    un trabajo de concienciación y de cambio de hábitos.\r\n\r\nEste trabajo se plantea
+    de manera colaborativa fomentando la participación del usuario en el\r\nproceso
+    de rehabilitación. Vemos el trabajo como una gran practica de laboratorio colectiva,
+    donde\r\nel edificio se rehabilita y los vecinos se “rehabituan”.\r\n\r\nEl interés
+    fundamental de unir estos dos tipos de estrategias se basa precisamente en que\r\nambos
+    procesos se puedan influenciar y enriquecer mutuamente. El proceso de rehabilitación\r\ndebe
+    incorporar la realidad social y cultural de los vecinos, a la vez que el proceso
+    participativo\r\nde concienciación energética debe incorporar, adaptar y comunicar
+    el análisis técnico del\r\ncomportamiento energético del edificio.\r\n\r\n**Objetivos
+    de rEactúa**\r\n\r\nEl objetivo principal de rEactúa es la reducción del gasto
+    energético de los edificios de vivienda\r\ncolectiva.\r\n\r\nEste objetivo se
+    pretende alcanzar a través de los siguientes objetivos:\r\n\r\n- Aumentar la conciencia
+    de los usuarios, como unidad familiar-vivienda y como comunidad-edificio,\r\nsobre
+    la repercusión que tienen sus hábitos de consumo y sus modos de habitar hacia
+    el medio\r\nambiente.\r\n\r\n- Mejorar el conocimiento que los usuarios tienen
+    sobre el funcionamiento energético de su propia\r\nvivienda y de su edificio,
+    antes y después de la rehabilitación.\r\n\r\n- Potenciar la implicación de los
+    vecinos en el mantenimiento y gestión de las instalaciones y\r\nmejoras realizadas
+    en el edificio (instalaciones y equipamientos comunes, espacios comunitarios...)\r\n\r\n-
+    Aumentar la rentabilidad de la inversión realizada en la mejora de la envolvente
+    y sistemas del\r\nedificio fomentando el buen uso y mantenimiento de las mismas.\r\n\r\n-
+    Proporción de herramientas a los usuarios para la gestión del propio proceso de
+    rehabilitación\r\n(ayudas, subvenciones, tramitaciones...)\r\n\r\n- Ayudar a la
+    reducción de las facturas de los suministros energéticos\r\n\r\n- Fomentar a través
+    de la participación en el proceso, la capacidad de la comunidad de organizar y\r\nautogestionar
+    otros aspectos y necesidades colectivas sobre su entorno (edificio, barrio, ciudad...)\r\n"
+  properties: "autores: Esperanza Moreno Cruz, Eva Morales Soler, Daniel Jimenez Gonzalez,
+    Carlos Arroyo Perez, Rubén Alonso Mallén\r\nproyecto subvencionado por: el ministerio
+    de cultura en 2010\r\n![Alt text](https://depan.s3.amazonaws.com/pan_file/file/964/logo-cultura.png)\r\n\r\n\r\n\r\n\r\n"
+  main_image_id: 
+  vposition: '36'
+  start: 07/06/2010
+  finish: 01/07/2012
+  color_id: '20'
+  visible: true
+  main_slide_id: '693'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-13 15:05:13'
+  updated_at: '2013-07-18 12:36:39.587728'
+  url: rEactua
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: reactua
+- !ruby/struct:Card
+  id: '87'
+  title: ampliación CEIP la  Princesa
+  text: "En la parcela está ya construída una primera fase de edificación, y tiene
+    un desnivel desde el acceso a ésta, hasta al final de la parcela de 3.00 m. el
+    edificio se plantea como continuación del anterior, para poder así enlazar las
+    comunicaciones interiores entre las dos piezas. Pero se vuelve hacia el centro
+    de la parcela para evitar así ocupar la zona más deprimida del solar y adaptarse
+    mejor a la topografía existente.\r\n\r\nDe esta manera se consigue tener todas
+    las aulas de primaria con orientación óptima y una mejor adaptación a la parcela
+    de los espacios exteriores.\r\nLa implantación divide y organiza claramente las
+    zonas exteriores de juego, los espacios exteriores, las zonas deportivas y zonas
+    de tránsito.\r\n\r\n"
+  properties: "uso: docente\r\nlugar: Dos Hermanas, Sevilla\r\nsuperficie: 2645 m2\r\npromotor:
+    ISE Andalucia\r\ncolaboradores: magdalena burgos, ignacio rovira, emiliano martinez\r\narquitecto
+    técnico: jesus miguel villa\r\nasesoría estructuras: duarte + asociados s.l."
+  main_image_id: '2285'
+  vposition: '12'
+  start: 25/05/2011
+  finish: 25/05/2011
+  color_id: '11'
+  visible: true
+  main_slide_id: '887'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-13 15:50:39'
+  updated_at: '2012-02-16 18:44:55'
+  url: CEIP Huerta de la  Princesa
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ampliacion-ceip-la-princesa
+- !ruby/struct:Card
+  id: '88'
+  title: ampliación CEIP Cercadillos
+  text: "El solar donde se ubica la propuesta es una zona de reciente urbanización,
+    integrada en un área en la que no existe aún edificación, manteniéndose las parcelas
+    vacías o con cultivos.\r\n\r\n\r\nEn la parcela está ya construida una primera
+    fase de edificación, y tiene un desnivel desde el acceso a ésta, hasta al final
+    de la parcela de 3.00 m. Se continúa con la estructura del centro existente planteando
+    2 nuevas piezas longitudinales orientadas a sur, lo que permite que todas las
+    aulas tengan las mismas condiciones de iluminación óptima. La ampliación de esta
+    manera se plantea potenciando el eje transversal de comunicación y recorridos,
+    lo que permite que la edificación se adapte al terreno existente minimizando los
+    movimientos de tierra.\r\n\r\n\r\nPara potenciar el eje central de distribución
+    se aprovecha el porche abierto actual cerrándolo para que todos los recorridos
+    en el centro sean interiores, no como sucede en el centro actual.\r\nSe mantiene
+    el acceso lateral de servicio actual para acceder a la nueva zona de instalaciones.\r\n"
+  properties: "uso: docente\r\nlugar: Dos Hermanas, Sevilla\r\nsuperficie: 2645 m2\r\npromotor:
+    ISE Andalucia\r\ncolaboradores: magdalena burgos, ignacio rovira, emiliano martinez\r\narquitecto
+    técnico: jesus miguel villa\r\nasesoría estructuras: duarte + asociados s.l."
+  main_image_id: '2303'
+  vposition: '10'
+  start: 25/05/2011
+  finish: 25/05/2011
+  color_id: '11'
+  visible: true
+  main_slide_id: '697'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-13 16:44:54'
+  updated_at: '2011-09-14 07:18:11'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: ampliacion-ceip-cercadillos
+- !ruby/struct:Card
+  id: '89'
+  title: talleres huevar
+  text: "El Ayuntamiento de Huevar del Aljarafe pretendía generar un barrio de VPO
+    con criterios de diseño sostenible para los demandantes de vivienda protegida
+    registrados en el pueblo. Ante esta iniciativa publicada en prensa les propusimos
+    organizar unos talleres participativos para trabajar con los posibles futuros
+    usuarios sobre los criterios y principios de funcionamiento del nuevo barrio.
+    La idea fué que de los talleres salieran las bases del concurso público de proyectos.\r\n\r\nSe
+    redactó una propuesta inicial y aunque el ayuntamiento estaba interesado, el proyecto
+    quedó parado por falta de presupuesto.\r\n\r\nUna de las paradojas que surgieron
+    en medio del corto proceso fue como afrontar desde el ayuntamiento el hecho de
+    que a la vez que se pretendía generar un nuevo barrio sostenible, en las afueras
+    del pueblo, existía un nuevo barrio medio vacío y sin terminar fruto del crecimiento
+    descontrolado y especulativo...**¿rehabilitación VS obra nueva?**..."
+  properties: "uso: vivienda plurifamiliar\r\npromotor: Ayuntamiento de Huevar del
+    Aljarafe, Sevilla\r\nasesores: Zaida Muxí y Pedro Lorenzo"
+  main_image_id: '2305'
+  vposition: '21'
+  start: 01/06/2009
+  finish: 01/09/2009
+  color_id: '19'
+  visible: true
+  main_slide_id: '698'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-14 07:39:55'
+  updated_at: '2011-09-14 11:50:24'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: talleres-huevar
+- !ruby/struct:Card
+  id: '90'
+  title: VPO progresiva_viabilidad
+  text: "El Objetivo del trabajo es estudiar y analizar la viabilidad constructiva
+    y económica del prototipo de VPO ampliable para jóvenes realizado con el Consorcio
+    de la Vivienda del Área Metropolitana de Sevilla “cOnvive”. El estudio plantea
+    un análisis de sistemas y componentes constructivos que potencien y faciliten
+    la personalización, transformación y ampliación de la vivienda por parte del usuario.
+    Como objetivo último se analizan los costes, ventajas e inconvenientes del prototipo
+    comparados con una VPO estándar en el contexto andaluz.\r\n\r\nEl proyecto se
+    realiza en tres fases:\r\n\r\n• Desarrollo y adaptación de diferentes sistemas
+    constructivos planteados en el prototipo de vivienda unifamiliar para un edificio
+    en altura.\r\n\r\n- Adaptación del sistema prefabricado en el nuevo contexto,
+    comportamiento estructural, predimensionado de elementos.\r\n\r\n- Estudio comparativo
+    de otros posibles sistemas constructivos.\r\n\r\n- Análisis de las posibilidades
+    de adaptación del diseño de la vivienda por parte del usuario que ofrece el sistema
+    propuesto en el caso de edificio en altura para vivienda colectiva.\r\n\r\n• Aplicación
+    del sistema constructivo a una de las propuestas de vivienda desarrolladas en
+    la primera fase para el consorcio de la vivienda.\r\n\r\n- Adaptación y modificaciones
+    necesarias tanto estructurales como tipológicas.\r\n\r\n- Estudio y propuesta
+    de materiales y elementos constructivos que faciliten la personalización de los
+    espacios por parte del usuario, así como la adaptabilidad de las soluciones constructivas
+    con el tiempo.\r\n\r\n- Estudio de funcionamiento energético del prototipo y aplicación
+    del sistema de indicadores de sostenibilidad.\r\n\r\n• Análisis de viabilidad
+    económica con los diferentes sistemas constructivos planteados.\r\n\r\n- Análisis
+    de costes iniciales.\r\n\r\n- Se analizaran las ventajas e inconvenientes constructivas
+    que plantea el prototipo de vivienda progresiva y su repercusión económica por
+    parte de los usuarios.\r\n\r\n- Elaboración de dossier gráfico que recoja los
+    resultados del trabajo de investigación.\r\n\r\n"
+  properties: "colaboradores: magdalena burgos\r\nasesoría estructuras: duarte + asociados
+    s.l.\r\nasesoría instalaciones: aster consultores s.l.\r\naparejador: jesus miguel
+    villa\r\nproyecto subvencionado por: el ministerio de cultura en 2010\r\n![Alt
+    text](https://depan.s3.amazonaws.com/pan_file/file/964/logo-cultura.png)\r\n\r\n"
+  main_image_id: 
+  vposition: '8'
+  start: 1/09/2010
+  finish: 01/07/2011
+  color_id: '20'
+  visible: true
+  main_slide_id: 
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-14 08:34:03'
+  updated_at: '2012-03-08 07:34:50'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: vpo-progresiva_viabilidad
+- !ruby/struct:Card
+  id: '91'
+  title: artículos ciudad viva
+  text: ''
+  properties: "Desde Abril de 2010 hemos ido realizando entradas al blog de \"la ciudad
+    viva\":http://www.laciudadviva.org/ \r\n![la ciudad viva](https://depan.s3.amazonaws.com/pan_file/file/929/ciudadviva-small.jpg)\r\nvolcando
+    material y entrevistas que estabamos realizando dentro de la linea de trabajo
+    sobre vivienda y participación \"casamasomenos\":/casamasomenos"
+  main_image_id: 
+  vposition: '31'
+  start: 17/03/2010
+  finish: 01/07/2013
+  color_id: '19'
+  visible: true
+  main_slide_id: '939'
+  main_file_id: 
+  link: ''
+  created_at: '2011-09-14 15:29:58'
+  updated_at: '2013-07-18 12:36:21.848409'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: articulos-ciudad-viva
+- !ruby/struct:Card
+  id: '94'
+  title: Taller de masovería urbana
+  text: "lapanaderia interviene, en colaboración con Encajesurbanos, SteamingLab,
+    y SostreCívic, en el \"Taller de masovería urbana\":http://comboialafresca.arquitecturascolectivas.net/?p=1375
+    : teoría y práctica en torno a estrategias minoritarias de acceso a la vivienda,
+    alternativas a las hegemónicas. Reflexión y acción sobre posibles líneas de acción
+    a desempeñar, como la creación de una plataforma de trueque entre espacios en
+    desuso.\r\n\r\n\"Comboi a la fresca\":http://comboialafresca.arquitecturascolectivas.net/?cat=3
+    : encuentro de Arquitectura Colectivas.\r\nEn el encuentro, participaron unos
+    60 colectivos en este proceso de reflexión, acción, recuperación y gestión participativa
+    del hábitat, implicando igualmente a instituciones y empresas locales que colaboraron
+    cediendo sus espacios, financiando los materiales de difusión o contribuyendo
+    con materiales de construcción necesarios.\r\n\r\nTodos los proyectos desarrollados
+    entre colectivos de dentro y de fuera de la ciudad se organizaron en torno a tres
+    ejes: Participación (taller jurídico, taller de metodologías participativas y
+    taller de masovería urbana), Itinerarios Sensibles por distintos barrios de la
+    ciudad y Creación de Espacios (Solar Corona, Solar Princesa, Azoteas Colectivas,
+    etc.).\r\n\r\n\r\n\r\n"
+  properties: "Taller realizado con: \r\n\"Encajesurbanos\":http://encajesurbanos.wordpress.com/\r\nSteamingLab
+    \r\n\"SostreCívic\":http://www.sostrecivic.org/es\r\nConclusiones del taller:
+    \"documento\":http://comboialafresca.arquitecturascolectivas.net/wp-content/uploads/TALLER-MASOVERIA-URBANA_documento-final.pdf"
+  main_image_id: 
+  vposition: '4'
+  start: 18/07/2011
+  finish: 24/07/2011
+  color_id: '22'
+  visible: true
+  main_slide_id: '876'
+  main_file_id: 
+  link: ''
+  created_at: '2011-12-20 16:36:22'
+  updated_at: '2013-02-25 20:34:40.388941'
+  url: ficha-sin-titulo
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: taller-de-masoveria-urbana
+- !ruby/struct:Card
+  id: '95'
+  title: archivos para noticias
+  text: esta ficha no es visible es solo para almacenar archivos que se necesiten
+    linkear en NOTICIAS y no tengan ninguna ficha asociada
+  properties: ''
+  main_image_id: 
+  vposition: 
+  start: ''
+  finish: ''
+  color_id: '2'
+  visible: false
+  main_slide_id: 
+  main_file_id: 
+  link: ''
+  created_at: '2012-02-15 10:52:19'
+  updated_at: '2012-02-15 10:52:19'
+  url: archivos-para-noticias
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: archivos-para-noticias
+- !ruby/struct:Card
+  id: '96'
+  title: europan 2011 CERDANYOLA
+  text: "MEMORIA TÉCNICA \r\n*El barrio como proceso*\r\n\r\nLa propuesta se fundamenta
+    en entender el territorio y la conformación de ciudad como un proceso vivo de
+    transformación, entendiendo como tal tanto el crecimiento como el decrecimiento.
+    El barrio (‘urbs’) se concibe como soporte físico en permanente adaptación y equilibrio
+    con las necesidades de los ciudadanos (‘civitas’) y con los cambios socioeconómicos
+    y de gobernanza (‘polis’), ambos siempre en evolución. \r\n\r\nEste planteamiento
+    permite abordar una *urbanización y edificación progresivas*, donde el valor de
+    la continencia en la inversión en el contexto de crisis inmobiliaria español y
+    sobreoferta de viviendas tiene especial sentido. *El proyecto posibilita que la
+    ciudad crezca sólo lo necesario* y que a lo largo de todas las etapas de ese proceso
+    tenga lugar un hábitat saludable, dinámico y equilibrado en el contexto socio-territorial,
+    donde el usuario es el protagonista.\r\n\r\nEl desarrollo urbano previsto está
+    basado en un soporte de bloque alineado a la calle y plantea la topografía como
+    unidad de desarrollo con una trama que separa tres tipos de flujos: el tráfico
+    rodado, el peatonal urbano y el paseo ajardinado. \r\n\r\nLos bloques se ubican
+    en relación a la pendiente, apostando por una buena orientación y ventilación
+    de todas las viviendas y dibujando unas líneas que se superponen a la trama propuesta
+    de calles generando visuales hacia  Collserola y espacios públicos y semipúblicos
+    de sugerente valor y de muy variados usos.\r\n\r\nLa propuesta plantea también
+    formas de tenencia y gestión colectiva de los edificios de viviendas y de parte
+    de los espacios exteriores, alternativas al alquiler y a la propiedad tradicional,
+    que entre otras ventajas facilita la gestión ecológica de agua y residuos, así
+    como la optimización de los recursos energéticos.\r\n\r\nLas tipologías de vivienda
+    planteadas se abordan desde la flexibilidad espacial, mediante estrategias de
+    elasticidad y adaptabilidad tipológica a lo largo de su ciclo de vida, en función
+    de los cambios de las necesidades de sus usuari@s. \r\n\r\nEs una propuesta actúa
+    con un gran respeto al lugar, que se adapta al máximo al sustrato preexistente
+    y que permite un crecimiento pausado y adaptado a las posibilidades reales de
+    la demanda."
+  properties: "concepto: lapanaderia + \"Sostrecivic\":http://www.sostrecivic.org/es\r\nautores:
+    Rubén Alonso Mallén, Diego Carrillo Messa, Maria Josep Lázaro Castro, Eva Morales
+    Soler, Elisenda Rifé Escudero \r\ncolaboradores: Magdalena Burgos Marqués, Núria
+    Colomé Montull, Raúl Robert Oleas, Ignacio Rovira Caballero, Carlos Schwarz Rodriguez\r\n\r\n\"PROPUESTA
+    FINALISTA!!\":http://www.europan-esp.es/02_03_europan_result.php?id_resu=676."
+  main_image_id: 
+  vposition: '27'
+  start: 01/07/2011
+  finish: 01/07/2011
+  color_id: '11'
+  visible: true
+  main_slide_id: '900'
+  main_file_id: 
+  link: ''
+  created_at: '2012-02-15 11:05:01'
+  updated_at: '2012-03-01 11:24:53'
+  url: europan-2011-cerdanyola
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: europan-2011-cerdanyola
+- !ruby/struct:Card
+  id: '97'
+  title: Más que una casa
+  text: "*Qué*\r\n\r\nEstamos desarrollando una plataforma web de procesos colectivos
+    de vivienda que pretende ofrecer herramientas para fomentar la participación y
+    autogestión en la construcción de nuestras viviendas y entornos.\r\n\r\nPretendemos
+    ofrecer y debatir alternativas al modelo dominante de vivienda actual, proponiendo
+    experiencias construidas y guías de asesoría que nos ayuden a ver otra manera
+    de hacer las cosas.\r\n\r\nQueremos que pueda convertirse en un lugar de encuentro
+    y debate, para crear red y sinergias entre colectivos, técnic@s y ciudadan@s,
+    un lugar para compartir experiencias y desarrollar conocimiento y acciones de
+    manera colaborativa.\r\n\r\n*Cómo*\r\n\r\nLlevamos trabajando ya un tiempo, pero
+    hemos querido empezar con este Blog y abrir el nombre del proyecto, aunque tenemos
+    nuestros favoritos nos apetece contar con otras opiniones y propuestas. Vamos
+    a ir subiendo entradas con temas que se están desarrollando y nos gustaría contar
+    con vuestra ayuda y comentarios.\r\n\r\nEn Abril lanzaremos la web inicial donde
+    se podrá empezar a proponer cosas y a principios de Julio se lanzará definitivamente.\r\n\r\n*Quienes*\r\n\r\nEs
+    un proyecto iniciado por lapanaderia y desarrollado en colaboración con sostrecivic,
+    aunque el objetivo es que todas las personas y colectivos interesados puedan participar
+    y aportar debate y contenidos a la base de datos."
+  properties: "\"E N L A C E\":http://casamasomenos.net  al BLOG inicial\r\n\r\n\r\n\r\n\r\ndesarrollo:
+    \"lapanaderia\":http://www.despachodepan.com + \"Sostrecivic\":http://www.sostrecivic.org/es\r\n\r\nconceptos
+    y programación: dani matas\r\n\r\ndiseño y gráfica: maría duran\r\n\r\nvideos:
+    daniel alonso\r\n\r\nproyecto subvencionado por: el ministerio de cultura en 2011\r\n![Alt
+    text](https://depan.s3.amazonaws.com/pan_file/file/964/logo-cultura.png)\r\n\r\n"
+  main_image_id: 
+  vposition: '19'
+  start: 01/09/2011
+  finish: 01/07/2013
+  color_id: '19'
+  visible: true
+  main_slide_id: '988'
+  main_file_id: 
+  link: http://masqueunacasa.org
+  created_at: '2012-02-29 12:38:24'
+  updated_at: '2013-07-18 12:35:12.296283'
+  url: 
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: mas-que-una-casa
+- !ruby/struct:Card
+  id: '98'
+  title: Taller Mujer-Habitat
+  text: El taller se enmarca dentro del proyecto de ASF de Fortalecimiento Institucional
+    y Capacitación en Materia de Hábitat realizado en los Campamentos de Refugiados
+    Saharauis de Tindouf, entre octubre 2011 y febrero 2012. El objetivo del taller
+    es la sensibilización de mujeres para la creación de una "Red Social para la mejora
+    del hábitat". El taller se ha desarrollado durante dos semanas con la formación
+    de dos mujeres de la Unión Nacional de Mujeres Saharauis de cada campamento, como
+    coordinadoras, formadoras y  responsables de dicha red.
+  properties: "Taller realizado por:\r\nEva Morales y Raquel Romero.\r\n\r\nColaboradoras
+    de \"ASF\":http://asfes.org/\r\n\r\nMás info:\r\n\"Revista Márgenes de Arquitectura
+    Social\":http://www.arquypielago.com/revistamargenes/talleres-para-la-mejora-del-habitat-en-los-campamentos-saharauis-de-tindouf/"
+  main_image_id: 
+  vposition: '2'
+  start: 01/02/2012
+  finish: 15/02/2012
+  color_id: '22'
+  visible: true
+  main_slide_id: 
+  main_file_id: 
+  link: http://www.arquypielago.com/revistamargenes/talleres-para-la-mejora-del-habitat-en-los-campamentos-saharauis-de-tindouf/
+  created_at: '2012-02-29 16:48:03'
+  updated_at: '2013-02-25 20:38:40.920634'
+  url: 
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: taller-mujer-habitat
+- !ruby/struct:Card
+  id: '99'
+  title: talleres casa más o menos
+  text: "El taller se encuadra dentro de la actividad de la investigación “casa más
+    o menos: la vivienda como proceso” que cuenta con la Ayuda a la Investigación
+    de la Consejería de Vivienda y Ordenación del Territorio. Dirección General de
+    Vivienda y Arquitectura, donde se quiere elaborar una  “Mapa de posibilidades
+    para una Vivienda en Proceso” para fomentar y hacer viable el concepto de vivienda
+    entendida como proceso orgánico, asequible económicamente y adaptable al habitante
+    a lo largo del tiempo. \r\n"
+  properties: "Taller ETSA Sevilla: eva morales, ruben alonso, tania magro\r\ncolaboradores:
+    pedro lorenzo, esteban de manuel, zaida muxí\r\n\r\nTaller eAM Málaga: eva morales,
+    ruben alonso, jesús de la fuente, juan gavilanes\r\ncolaboradores: pedro lorenzo,
+    zaida muxí"
+  main_image_id: 
+  vposition: '21'
+  start: 18/10/2010
+  finish: 25/11/2010
+  color_id: '19'
+  visible: true
+  main_slide_id: '938'
+  main_file_id: 
+  link: ''
+  created_at: '2012-02-29 16:58:08'
+  updated_at: '2012-03-02 09:14:15'
+  url: 
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: talleres-casa-mas-o-menos
+- !ruby/struct:Card
+  id: '100'
+  title: eAM
+  text: ''
+  properties: "Eva y Rubén \"comienzan\":http://www.arquitectura.uma.es/index.php/profesorado/expresion-grafica-arquitectonica/
+    en octubre del 2010 a dar clases en la escuela de arquitectura de Málaga, dentro
+    del departamento de Expresión Gráfica Arquitectónica\r\n\r\n![logo eAM](https://depan.s3.amazonaws.com/pan_file/file/931/logo-eam.jpg)\r\n"
+  main_image_id: 
+  vposition: '29'
+  start: 01/10/2010
+  finish: 01/07/2013
+  color_id: '22'
+  visible: true
+  main_slide_id: '932'
+  main_file_id: 
+  link: ''
+  created_at: '2012-03-01 11:25:39'
+  updated_at: '2013-07-18 12:35:53.246817'
+  url: 
+  slides_count: '0'
+  selected: false
+  selection_image_id: 
+  selection_body: 
+  selection_position: '0'
+  slug: eam

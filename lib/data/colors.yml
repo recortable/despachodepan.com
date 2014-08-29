@@ -1,0 +1,61 @@
+---
+- !ruby/struct:Color
+  id: '2'
+  name: articulos
+  value: A147D1
+  high_value: F4EAF9
+- !ruby/struct:Color
+  id: '3'
+  name: escolar
+  value: 607FB7
+  high_value: E8F1F9
+- !ruby/struct:Color
+  id: '5'
+  name: panaderia
+  value: 40CAFC
+  high_value: E7F9FE
+- !ruby/struct:Color
+  id: '7'
+  name: P_vivienda
+  value: EC341D
+  high_value: faf1f1
+- !ruby/struct:Color
+  id: '9'
+  name: arte
+  value: 9A0022
+  high_value: FFEDF2
+- !ruby/struct:Color
+  id: '11'
+  name: concursos
+  value: 80B70E
+  high_value: F6FDE6
+- !ruby/struct:Color
+  id: '13'
+  name: oficinas
+  value: 327D25
+  high_value: F0FFF3
+- !ruby/struct:Color
+  id: '16'
+  name: comercial
+  value: 9B6B1B
+  high_value: F6F1EA
+- !ruby/struct:Color
+  id: '17'
+  name: diseño
+  value: FF5AC2
+  high_value: FFF3FA
+- !ruby/struct:Color
+  id: '19'
+  name: casa + ó -
+  value: FF9C00
+  high_value: FFFBEC
+- !ruby/struct:Color
+  id: '20'
+  name: investigacion
+  value: 44C0A5
+  high_value: E3F7F3
+- !ruby/struct:Color
+  id: '22'
+  name: docencia
+  value: BF649E
+  high_value: FAF4F8

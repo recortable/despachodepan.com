@@ -1,0 +1,1602 @@
+---
+- !ruby/struct:Post
+  id: '587'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '1'
+  date: 07/2009
+  body: "l a p a n a d e r i a participa en el congreso de \"ciudad viva\":http://www.laciudadviva.org/03_actividades/congconf/congresos/quito2009/index.html.
+    en Quito, Ecuador. \r\nPodéis ver las experiencias seleccionadas \"aquí\":http://www.laciudadviva.org/opencms/04_experiencias/index.html."
+  rev_date: 2009/07
+  content_type: image/jpeg
+  size: '2227'
+  width: '150'
+  height: '20'
+  file: 05_quito.jpg
+  original_id: '834'
+  created_at: '2012-02-07 14:46:30'
+  updated_at: '2012-02-07 14:46:30'
+  settings: 
+- !ruby/struct:Post
+  id: '588'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '1'
+  date: 04/2009
+  body: Hola, hemos abierto esta sección para ir contando de otra manera las cosas
+    que vamos haciendo...saludos a tod@s...y gracias a dani por la programación y
+    la paciencia
+  rev_date: 2009/04
+  content_type: image/jpeg
+  size: '15366'
+  width: '200'
+  height: '298'
+  file: 00_intro.jpg
+  original_id: '835'
+  created_at: '2012-02-07 14:46:31'
+  updated_at: '2012-02-07 14:46:31'
+  settings: 
+- !ruby/struct:Post
+  id: '589'
+  type: Post
+  card_id: '15'
+  text: 
+  position: '1'
+  date: 05/2009
+  body: "se ha publicado el anuario de los \"FAD2008\":http://arquinfad.org. donde
+    fué finalista Alcalá 01, subimos el articulo de \"Stephen Bates\":http://www.sergisonbates.co.uk.
+    \ ...nos gusta mucho su manera de construir.   \r\n\r\n\"articulo en pdf\":https://depan.s3.amazonaws.com/pan_file/file/905/11-fad-articulo.pdf"
+  rev_date: 2009/05
+  content_type: image/jpeg
+  size: '11095'
+  width: '175'
+  height: '233'
+  file: 01_fad2008.jpg
+  original_id: '836'
+  created_at: '2012-02-07 14:46:33'
+  updated_at: '2012-02-16 11:56:29'
+  settings: 
+- !ruby/struct:Post
+  id: '590'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '2'
+  date: 05/2009
+  body: "\"Casa + ó -\":http://www.casamasomenos.net. recibe una ayuda del ministerio
+    de cultura para financiar parte de la investigación \"La Vivienda como Objeto
+    Cultural de Producción Social\"\r\n"
+  rev_date: 2009/05
+  content_type: image/jpeg
+  size: '4552'
+  width: '150'
+  height: '71'
+  file: 02_cultura.jpg
+  original_id: '837'
+  created_at: '2012-02-07 14:46:34'
+  updated_at: '2012-02-07 14:46:34'
+  settings: 
+- !ruby/struct:Post
+  id: '591'
+  type: Post
+  card_id: '15'
+  text: 
+  position: '2'
+  date: 06/2009
+  body: "Alcalá 01 ha sido seleccionado finalista de la \"X bienal de arquitectura
+    española\":http://www.bienalx.es/. podeis ver los proyectos finalistas \"aqui\":http://www.bienalx.es/?cat=42.
+    \r\nincluso nos han hecho hasta un \"video\":http://www.youtube.com/watch?v=mLxeoeCjzcY
+    muy mono.\r\n\r\n\r\nla foto de abajo es de \"la inauguración\":http://www.bienalx.es/?p=2750
+    de la exposición...muy buen \"concepto\":http://www.bienalx.es/wp-content/uploads/2009/07/memoria-montaje-expositivo-bienalx.doc
+    por cierto..."
+  rev_date: 2009/06
+  content_type: image/jpeg
+  size: '13903'
+  width: '250'
+  height: '167'
+  file: 03_bienalX.jpg
+  original_id: '838'
+  created_at: '2012-02-07 14:46:35'
+  updated_at: '2012-02-07 14:46:35'
+  settings: 
+- !ruby/struct:Post
+  id: '592'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '3'
+  date: 07/2009
+  body: Presentamos una propuesta al ayuntamiento de huevar para plantear unos talleres
+    participativos con los usuarios de un proyecto de barrio sostenible de viviendas
+    VPO, el objetivo era trabajar con los futuros usuarios para definir el programa
+    de sus vivienda
+  rev_date: 2009/07
+  content_type: image/jpeg
+  size: '5660'
+  width: '200'
+  height: '134'
+  file: 04_huevar.jpg
+  original_id: '839'
+  created_at: '2012-02-07 14:46:36'
+  updated_at: '2012-02-07 14:46:36'
+  settings: 
+- !ruby/struct:Post
+  id: '593'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '4'
+  date: 09/2009
+  body: "Publican en la revista \"pasajes\":http://www.pasajesarquitectura.com/ un
+    articulo sobre nuestro trabajo de investigación sobre vivienda y participación
+    del usuario.\r\n\"articulo en pdf\":http://despachodepan.com/media/files/0000/0222/pasajes_41.pdf"
+  rev_date: 2009/09
+  content_type: image/jpeg
+  size: '9492'
+  width: '210'
+  height: '177'
+  file: 06_pasajes.jpg
+  original_id: '840'
+  created_at: '2012-02-07 14:46:37'
+  updated_at: '2012-02-07 14:46:37'
+  settings: 
+- !ruby/struct:Post
+  id: '594'
+  type: Post
+  card_id: '17'
+  text: 
+  position: '1'
+  date: 11/2009
+  body: "publican una \"entrada\":http://tectonicablog.com/?p=193 en el blog de la
+    revista TECTONICA sobre la casa cuberta.\r\n"
+  rev_date: 2009/11
+  content_type: image/jpeg
+  size: '7314'
+  width: '125'
+  height: '165'
+  file: 07_tectonica-cuberta2.jpg
+  original_id: '841'
+  created_at: '2012-02-07 14:46:38'
+  updated_at: '2012-02-07 14:46:38'
+  settings: 
+- !ruby/struct:Post
+  id: '595'
+  type: Post
+  card_id: '13'
+  text: 
+  position: '1'
+  date: 09/2009
+  body: la revista "2G":http://www.ggili.com/2G.cfm selecciona los "4 comedores":http://despachodepan.com/media/files/0000/0223/4comedores.pdf
+    para publicarlos en un numero especial sobre aquitectos jovenes españoles
+  rev_date: 2009/09
+  content_type: image/jpeg
+  size: '19405'
+  width: '200'
+  height: '191'
+  file: 08_comedores.jpg
+  original_id: '842'
+  created_at: '2012-02-07 14:46:39'
+  updated_at: '2012-02-07 14:46:39'
+  settings: 
+- !ruby/struct:Post
+  id: '596'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '5'
+  date: 12/2009
+  body: "La \"CVOT\":http://www.juntadeandalucia.es/viviendayordenaciondelterritorio/www/jsp/estatica.jsp?pma=5&ct=3&e=arquitectura/subvencion/index.html
+    nos ha concedido una subvención para desarrollar el proyecto de investigación
+    \"casa + ó - , la vivienda como proceso\".\r\n\r\nEl objetivo del trabajo es elaborar
+    una guía de diseño para fomentar la participación del usuario en los procesos
+    de vivienda. "
+  rev_date: 2009/12
+  content_type: image/jpeg
+  size: '11338'
+  width: '200'
+  height: '140'
+  file: 09_ayudaCVOT.jpg
+  original_id: '843'
+  created_at: '2012-02-07 14:46:40'
+  updated_at: '2012-02-07 14:46:40'
+  settings: 
+- !ruby/struct:Post
+  id: '597'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '6'
+  date: 10/2009
+  body: 'Contamos nuestro trabajo en las jornadas organizadas por la "UNIA":http://ayp.unia.es/dmdocuments/com16.pdf
+    sobre "capital y territorio (de la naturaleza de la economía… y de la cultura)" '
+  rev_date: 2009/10
+  content_type: image/jpeg
+  size: '14696'
+  width: '150'
+  height: '145'
+  file: 10_unia2.jpg
+  original_id: '844'
+  created_at: '2012-02-07 14:46:41'
+  updated_at: '2012-02-07 14:46:41'
+  settings: 
+- !ruby/struct:Post
+  id: '598'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '7'
+  date: 01/2010
+  body: Desde el máster de "gestión social del hábitat":http://geshabitat.org  de
+    la universidad de Sevilla nos han invitado a dar una charla sobre nuestro trabajo
+  rev_date: 2010/01
+  content_type: image/png
+  size: '8128'
+  width: '79'
+  height: '95'
+  file: gesthabitat_logo.png
+  original_id: '845'
+  created_at: '2012-02-07 14:46:42'
+  updated_at: '2012-02-07 14:46:42'
+  settings: 
+- !ruby/struct:Post
+  id: '599'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '2'
+  date: 08/02/2010
+  body: Participamos en la "semana cultural":http://institucional.us.es/delegarq/scxl/pdf/programa.pdf
+    de la escuela de arquitectura en sevilla contando lo que hacemos en el estudio
+  rev_date: 2010/02/08
+  content_type: image/jpeg
+  size: '9401'
+  width: '120'
+  height: '106'
+  file: 11_etsa.jpg
+  original_id: '848'
+  created_at: '2012-02-07 14:46:43'
+  updated_at: '2012-02-07 14:46:43'
+  settings: 
+- !ruby/struct:Post
+  id: '610'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '3'
+  date: 11/02/2010
+  body: Participamos como corresponsales en el blog de "ciudad viva":http://www.laciudadviva.org/blogs/
+    posteando sobre nuestra linea de investigación sobre vivienda...
+  rev_date: 2010/02/11
+  content_type: image/jpeg
+  size: '2227'
+  width: '150'
+  height: '20'
+  file: 05_quito.jpg
+  original_id: '867'
+  created_at: '2012-02-07 14:46:58'
+  updated_at: '2012-02-07 14:46:58'
+  settings: 
+- !ruby/struct:Post
+  id: '611'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '8'
+  date: 15/02/2010
+  body: "Participamos como ponentes en el \"16th International Conference “Open and
+    Sustainable Building”\":http://info.labein.es/openbuilding-2010_es/ que se va
+    a celebrar del 17 al 19 de mayo en Bilbao.\r\n\r\n\r\nOs dejamos el link de \"open-building\":http://www.open-building.org/ob/concepts.html
+    muy interesante y recomendable... arquitectura de código abierto YA!!!.\r\n\r\n\r\nGracias
+    a israel por el link..."
+  rev_date: 2010/02/15
+  content_type: image/jpeg
+  size: '2641'
+  width: '150'
+  height: '70'
+  file: ciblogo.jpg
+  original_id: '868'
+  created_at: '2012-02-07 14:46:59'
+  updated_at: '2012-02-07 14:46:59'
+  settings: 
+- !ruby/struct:Post
+  id: '612'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '4'
+  date: 18/03/2010
+  body: Participamos en el ciclo de conferencias de la semana cultural de la "Escuela
+    de Arquitectura de Málaga":http://www.arquitectura.uma.es/ contando nuestro trabajo
+  rev_date: 2010/03/18
+  content_type: image/jpeg
+  size: '2027'
+  width: '120'
+  height: '73'
+  file: 13_eam.jpg
+  original_id: '869'
+  created_at: '2012-02-07 14:47:00'
+  updated_at: '2012-02-07 14:47:00'
+  settings: 
+- !ruby/struct:Post
+  id: '613'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '5'
+  date: 07/05/2010
+  body: Nos invitan a cerrar unos jornadas sobre arquitectura y mediterraneo en la
+    escuela de arquitectura de "laSalle":http://www.salle.url.edu/portal/lasalle/arquitectura-superior
+    en Barcelona. Pasamos un rato muy agradable, gracias.
+  rev_date: 2010/05/07
+  content_type: image/jpeg
+  size: '6474'
+  width: '150'
+  height: '106'
+  file: 14_lasalle.jpg
+  original_id: '870'
+  created_at: '2012-02-07 14:47:01'
+  updated_at: '2012-02-07 14:47:01'
+  settings: 
+- !ruby/struct:Post
+  id: '614'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '6'
+  date: 28/04/2010
+  body: 'Eva participa como ponente en el "Máster":http://www.fundacio.upc.edu/presentacio.php?id=21005000&area=1&subarea=1&tipus=-1&idiomaNou=esp
+    de Desarrollo Urbano y Territorial: Gestión y Transformación de las Ciudades en
+    Países de Desarrollo en la UPC en Barcelona'
+  rev_date: 2010/04/28
+  content_type: image/gif
+  size: '991'
+  width: '145'
+  height: '60'
+  file: 14_upc.gif
+  original_id: '871'
+  created_at: '2012-02-07 14:47:02'
+  updated_at: '2012-02-07 14:47:02'
+  settings: 
+- !ruby/struct:Post
+  id: '615'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '7'
+  date: 30/03/2010
+  body: 'Se publican los 4 comedores en la revista internacional "2Gdossier":http://www.ggili.com/2g.cfm?idpublicacion=1722
+    , además han incluido tambien los 8 apartamentos de Alcalá de Guadaira en el "mapa
+    de realizaciones":http://www.2gmagazine.com/2g_dossier_spain/ '
+  rev_date: 2010/03/30
+  content_type: image/jpeg
+  size: '4949'
+  width: '125'
+  height: '95'
+  file: 15_2g-mapa.jpg
+  original_id: '872'
+  created_at: '2012-02-07 14:47:03'
+  updated_at: '2012-02-07 14:47:03'
+  settings: 
+- !ruby/struct:Post
+  id: '616'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '9'
+  date: 28/04/2010
+  body: Publicamos el primer "POST":http://www.laciudadviva.org/blogs/?p=5226 en el
+    blog de "ciudad viva":http://www.laciudadviva.org/ con una entrevista a Carlos
+    Verdager de "GEA21":http://www.gea21.com/espanhol/htm/equipo.htm
+  rev_date: 2010/04/28
+  content_type: image/jpeg
+  size: '35020'
+  width: '100'
+  height: '80'
+  file: 16_carlos_peque_a.jpg
+  original_id: '873'
+  created_at: '2012-02-07 14:47:04'
+  updated_at: '2012-02-07 14:47:04'
+  settings: 
+- !ruby/struct:Post
+  id: '617'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '10'
+  date: 04/06/2010
+  body: "Publicamos el segundo \"POST\":http://www.laciudadviva.org/blogs/?p=5555
+    en el blog de \"ciudad viva\":http://www.laciudadviva.org/ con una entrevista
+    a Raúl Robert Oleas, uno de los miembros de la asociación \"Sostrecivic\":http://www.sostrecivic.org/es\r\n\r\n"
+  rev_date: 2010/06/04
+  content_type: image/jpeg
+  size: '29950'
+  width: '120'
+  height: '80'
+  file: 17_sostre_raul.jpg
+  original_id: '874'
+  created_at: '2012-02-07 14:47:06'
+  updated_at: '2012-02-07 14:47:06'
+  settings: 
+- !ruby/struct:Post
+  id: '618'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '8'
+  date: 31/03/2010
+  body: Conseguimos subir en el último momento el perfil de lapanaderia en la plataforma
+    de "arquia próxima":http://proxima.arquia.es/pub_sociedad_detalle.aspx?id=41
+  rev_date: 2010/03/31
+  content_type: image/jpeg
+  size: '6517'
+  width: '200'
+  height: '97'
+  file: 18_arquiaproxima.jpg
+  original_id: '875'
+  created_at: '2012-02-07 14:47:08'
+  updated_at: '2012-02-07 14:47:08'
+  settings: 
+- !ruby/struct:Post
+  id: '619'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '9'
+  date: 01/07/2010
+  body: "o e o e o e o e o e o e o e o !!!!\r\nnos han dado el premio de \"ARQUIA
+    PROXIMA\":http://proxima.arquia.es/ por los comedores escolares!!! que fuerte...
+    GRACIAS al jurado...lo celebraremooos\r\n\"perfil panadero en arquia\":http://proxima.arquia.es/pub_sociedad_detalle.aspx?id=41"
+  rev_date: 2010/07/01
+  content_type: image/jpeg
+  size: '9487'
+  width: '250'
+  height: '188'
+  file: 21_arquia.jpg
+  original_id: '878'
+  created_at: '2012-02-07 14:47:09'
+  updated_at: '2012-02-07 14:47:09'
+  settings: 
+- !ruby/struct:Post
+  id: '620'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '10'
+  date: 13/07/2010
+  body: 'Publican los 4 comedores escolares en el "BLOG de la revista TECTÓNICA":http://tectonicablog.com/?p=11476 '
+  rev_date: 2010/07/13
+  content_type: image/jpeg
+  size: '12542'
+  width: '150'
+  height: '216'
+  file: tectonica.jpg
+  original_id: '879'
+  created_at: '2012-02-07 14:47:10'
+  updated_at: '2012-02-07 14:47:10'
+  settings: 
+- !ruby/struct:Post
+  id: '621'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '11'
+  date: 20/07/2010
+  body: "Participamos en el Encuentro \"Arquitecturas Colectivas 2010\":http://arquitecturascolectivas.net/content/memoria-encuentro-arquitecturas-colectivas
+    del 19-25 de julio en Pasaia - Gipuzkoa, un Foro para debatir y reflexionar sobre
+    la construcción participativa del entorno urbano.\r\n\r\n\"programa de mano\":http://arquitecturascolectivas.net/sites/arquitecturascolectivas.net/files/archivos/programa_de_mano_20100616_3.pdf"
+  rev_date: 2010/07/20
+  content_type: image/jpeg
+  size: '33537'
+  width: '200'
+  height: '145'
+  file: diagrama_colectivos_web.jpg
+  original_id: '880'
+  created_at: '2012-02-07 14:47:11'
+  updated_at: '2012-02-07 14:47:11'
+  settings: 
+- !ruby/struct:Post
+  id: '622'
+  type: Post
+  card_id: '59'
+  text: 
+  position: '1'
+  date: 10/07/2010
+  body: Comienza la obra del colegio del Viso del Alcor, con las demoliciones y movimientos
+    de tierra.
+  rev_date: 2010/07/10
+  content_type: image/jpeg
+  size: '21362'
+  width: '175'
+  height: '240'
+  file: 24_comienzoviso.jpg
+  original_id: '881'
+  created_at: '2012-02-07 14:47:12'
+  updated_at: '2012-02-07 14:47:12'
+  settings: 
+- !ruby/struct:Post
+  id: '623'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '11'
+  date: 19/07/2010
+  body: Publicamos el tercer "POST":http://www.laciudadviva.org/blogs/?p=6213 en el
+    blog de "ciudad viva":http://www.laciudadviva.org/ con una entrevista a Jorge
+    Andrade, un genial arquitecto mexicano que tuvimos la oportunidad de conocer en
+    el encuentro de Open Building en Bilbao. En la entrevista hablamos con él sobre
+    vivienda y participación.
+  rev_date: 2010/07/19
+  content_type: image/jpeg
+  size: '1767'
+  width: '150'
+  height: '84'
+  file: 25_post-jorge.jpg
+  original_id: '882'
+  created_at: '2012-02-07 14:47:13'
+  updated_at: '2012-02-07 14:47:13'
+  settings: 
+- !ruby/struct:Post
+  id: '624'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '12'
+  date: 17/09/2010
+  body: Participamos en la Mesa Redonda "Oficio, persona, sociedad" entre jóvenes
+    arquitectos sevillanos y zaragozanos, organizado por la Escuela de Arquitectura
+    de Zaragoza, Universidad de San Jorge. Un estupendo encuentro e interesante paseo
+    por las obras arquitectónicas de nuestros colegas zaragozanos... ¡gracias por
+    todo, lo pasamos muy bien!
+  rev_date: 2010/09/17
+  content_type: image/jpeg
+  size: '67678'
+  width: '150'
+  height: '213'
+  file: cartel_seminarios_ETSAZ_USJ_borrador_final_copia.jpg
+  original_id: '885'
+  created_at: '2012-02-07 14:47:14'
+  updated_at: '2012-02-07 14:47:14'
+  settings: 
+- !ruby/struct:Post
+  id: '625'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '12'
+  date: 11/09/2010
+  body: Publicamos el siguiente "POST":http://www.laciudadviva.org/blogs/?p=6431 en
+    el blog de "La Ciudad Viva":http://www.laciudadviva.org/ con una entrevista a
+    Pedro Lorenzo, arquitecto de la Cooperativa de viviendas Luis Labin y coordinador
+    del Proyecto XIV HABITED de CYTED durante unos años. Un estupendo amigo, asesor
+    y arquitecto...
+  rev_date: 2010/09/11
+  content_type: image/jpeg
+  size: '36128'
+  width: '150'
+  height: '103'
+  file: foto_pedro_entrevista_peq.jpg
+  original_id: '886'
+  created_at: '2012-02-07 14:47:17'
+  updated_at: '2012-02-07 14:47:17'
+  settings: 
+- !ruby/struct:Post
+  id: '626'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '13'
+  date: 06/09/2010
+  body: Publican el porche de Mairena del Alcor en el "BLOG de la revista TECTÓNICA":http://tectonicablog.com/?p=14302
+  rev_date: 2010/09/06
+  content_type: image/jpeg
+  size: '73924'
+  width: '150'
+  height: '251'
+  file: DSC08127.jpg
+  original_id: '887'
+  created_at: '2012-02-07 14:47:18'
+  updated_at: '2012-02-07 14:47:18'
+  settings: 
+- !ruby/struct:Post
+  id: '627'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '13'
+  date: 18/10/2010
+  body: Talleres "casa más o menos:la vivienda como proceso" como "asignatura de libre
+    configuración":http://www.etsa.us.es/cultura/cursos-y-talleres/1116-taller-casa-mas-o-menos-la-vivienda-como-proceso
+    en la Escuela de Arquitectura de Sevilla, y como taller de proyectos en el curso
+    de Juan Gavilanes y Jesús de la Fuente en la Escuela de Arquitectura de Málaga.
+    Fecha de comienzo en Sevilla 18 octubre y de comienzo en Málaga el 26 de octubre.
+    "Descargar díptico":https://depan.s3.amazonaws.com/pan_file/file/885/diptico_talleres_web.jpg.
+  rev_date: 2010/10/18
+  content_type: image/jpeg
+  size: '38853'
+  width: '150'
+  height: '61'
+  file: 28_talleres_masomenos.jpg
+  original_id: '888'
+  created_at: '2012-02-07 14:47:21'
+  updated_at: '2012-02-15 10:54:05'
+  settings: 
+- !ruby/struct:Post
+  id: '628'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '14'
+  date: 21/10/2010
+  body: Foro "Arquia/próxima":http://fundacion.arquia.es/proxima/pub_noticias_detalle.aspx?idcat=1&id=37.
+    Madrid 21 de octubre 2010, donde se nos hará entrega del primer premio arquia/próxima
+    por la realización de "Comedor Escolar Tipo":https://depan.s3.amazonaws.com/pan_file/file/904/4comedores.pdf.
+    Durante todo el día se desarrollará el congreso EN CAMBIO. Ver "videos":http://fundacion.arquia.es/proxima/pub_foro.aspx
+  rev_date: 2010/10/21
+  content_type: image/jpeg
+  size: '45271'
+  width: '150'
+  height: '202'
+  file: 29_programa_arquia.jpg
+  original_id: '889'
+  created_at: '2012-02-07 14:47:23'
+  updated_at: '2012-02-16 11:56:05'
+  settings: 
+- !ruby/struct:Post
+  id: '629'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '15'
+  date: 05/10/2010
+  body: Se inaugura el curso 2010-11 en la "Escuela de Arquitectura de Málaga":http://www.arquitectura.uma.es/eam.html,
+    en el que Rubén y Eva comenzarán a dar clases como profesores asociados del Departamento
+    de Expresión Gráfica... !quedan todos bienvenidos!
+  rev_date: 2010/10/05
+  content_type: image/jpeg
+  size: '36481'
+  width: '150'
+  height: '80'
+  file: 30_uma.jpg
+  original_id: '890'
+  created_at: '2012-02-07 14:47:25'
+  updated_at: '2012-02-07 14:47:25'
+  settings: 
+- !ruby/struct:Post
+  id: '630'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '16'
+  date: 10/10/2010
+  body: 'Los panaderos salimos en el pais semanal junto a otros 7 grupos de arquitectos
+    en un articulo sobre "arquitectos con nuevas respuestas":http://www.elpais.com/articulo/portada/Arquitectos/nuevas/respuestas/elpepusoceps/20101010elpepspor_9/Tes '
+  rev_date: 2010/10/10
+  content_type: image/jpeg
+  size: '23021'
+  width: '200'
+  height: '200'
+  file: Panaderia_web.jpg
+  original_id: '891'
+  created_at: '2012-02-07 14:47:27'
+  updated_at: '2012-02-07 14:47:27'
+  settings: 
+- !ruby/struct:Post
+  id: '631'
+  type: Post
+  card_id: '13'
+  text: 
+  position: '2'
+  date: 08/10/2010
+  body: '"post":http://blogs.elpais.com/del-tirador-a-la-ciudad/2010/10/alimentar-o-dar-de-comer.html
+    sobre los comedores en el blog de arquitectura del EL PAIS'
+  rev_date: 2010/10/08
+  content_type: image/jpeg
+  size: '21497'
+  width: '250'
+  height: '172'
+  file: comedores.jpg
+  original_id: '892'
+  created_at: '2012-02-07 14:47:29'
+  updated_at: '2012-02-07 14:47:29'
+  settings: 
+- !ruby/struct:Post
+  id: '632'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '17'
+  date: 25/07/2010
+  body: Participamos en el "Campus Ultzama 2010":http://www.arquitecturaysociedad.com/seminarios-talleres/campus-ultzama-2010-arquitectura-sociedad-posiciones-proximas,
+    dos días intensivos de charlas, debates y comidas!! con otros colegas arquitectos,
+    en el bellisimo valle de Ultzama, organizado por la "Fundación Arquitectura y
+    Sociedad":http://www.arquitecturaysociedad.com/
+  rev_date: 2010/07/25
+  content_type: image/jpeg
+  size: '51607'
+  width: '200'
+  height: '131'
+  file: lapanaderia_ultzama.jpg
+  original_id: '893'
+  created_at: '2012-02-07 14:47:30'
+  updated_at: '2012-02-07 14:47:30'
+  settings: 
+- !ruby/struct:Post
+  id: '633'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '18'
+  date: 23/11/2010
+  body: ARQA (comunidad abierta de arquitectura, construcción y diseño)-SCALAE nos
+    invita a Argentina para dar unas charlas en el Auditorio SCA de Buenos Aires y
+    en la Universidad Nacional de Cuyo en Mendoza, el 23 y 24 de noviembre, junto
+    con Jose Luis Vallejo de Ecosistema Urbano, ambos ganadores de Arquia/Próxima
+    2010 y 2008 respectivamente. "Más información":http://www.arqa.com/index.php/esev/conferencias/encuentros-ae-2010-2-eva-morales-l-a-p-a-n-a-d-e-r-i-a-jose-luis-vallejo-ecosistema-urbano.html.
+  rev_date: 2010/11/23
+  content_type: image/jpeg
+  size: '21497'
+  width: '250'
+  height: '172'
+  file: comedores.jpg
+  original_id: '894'
+  created_at: '2012-02-07 14:47:33'
+  updated_at: '2012-02-07 14:47:33'
+  settings: 
+- !ruby/struct:Post
+  id: '634'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '19'
+  date: 29/11/2010
+  body: Charla en la "Facultad de Arquitectura de Montevideo":http://www.farq.edu.uy/joomla/
+    en el Taller Sschelotto, tras un intenso fin de semana de inmersión en las Cooperativas
+    Uruguayas "FUCVAM":http://www.fucvam.org.uy/ de la mano de Salvador Sschelotto
+    y Sharon Recalde. !Muchas gracias por la invitación y por vuestra estupenda atención!
+  rev_date: 2010/11/29
+  content_type: image/jpeg
+  size: '76755'
+  width: '150'
+  height: '202'
+  file: montevideo_charla.jpg
+  original_id: '895'
+  created_at: '2012-02-07 14:47:34'
+  updated_at: '2012-02-07 14:47:34'
+  settings: 
+- !ruby/struct:Post
+  id: '635'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '14'
+  date: 10/12/2010
+  body: 'Publicamos "post":http://www.laciudadviva.org/blogs/?p=8145 en el blog de
+    Ciudad Viva sobre los talleres realizados en la ETSAS: "Taller 01. Casa más o
+    menos: la vivienda como proceso". '
+  rev_date: 2010/12/10
+  content_type: image/jpeg
+  size: '51829'
+  width: '150'
+  height: '100'
+  file: pizarra_web.jpg
+  original_id: '896'
+  created_at: '2012-02-07 14:47:38'
+  updated_at: '2012-02-07 14:47:38'
+  settings: 
+- !ruby/struct:Post
+  id: '639'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '15'
+  date: 26/01/2011
+  body: "ENCUESTA: \"casa más o menos: la vivienda como proceso\"\r\n¿Cuáles de estos
+    modelos consideras más interesantes para investigar y desarrollar en tu ciudad?.
+    \"Participa\":http://es.arqa.com/index.php/esc/encuestas/encuesta-casa-mas-o-menos-la-vivienda-como-proceso-2.html"
+  rev_date: 2011/01/26
+  content_type: image/jpeg
+  size: '24416'
+  width: '200'
+  height: '54'
+  file: 32_semilla.jpg
+  original_id: '900'
+  created_at: '2012-02-07 14:47:45'
+  updated_at: '2012-02-07 14:47:45'
+  settings: 
+- !ruby/struct:Post
+  id: '640'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '16'
+  date: 10/03/2011
+  body: 'Publicamos "post":http://www.laciudadviva.org/blogs/?p=9279 en La Ciudad
+    Viva sobre el Taller Málaga "casa más o menos: la vivienda como proceso", realizado
+    en la Escuela de Arquitectura de Málaga junto con los profesores Juan Gavilanes
+    y Jesús de la Fuente. '
+  rev_date: 2011/03/10
+  content_type: image/jpeg
+  size: '49295'
+  width: '150'
+  height: '113'
+  file: 33_tallermalaga.jpg
+  original_id: '901'
+  created_at: '2012-02-07 14:47:47'
+  updated_at: '2012-02-07 14:47:47'
+  settings: 
+- !ruby/struct:Post
+  id: '641'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '17'
+  date: 21/03/2011
+  body: 'ENCUESTA: "casa más o menos: agrupaciones de viviendas como proceso" Aqui
+    planteamos la adaptabilidad desde los ESPACIOS DE RELACION entre viviendas. ¿Qué
+    tipos de espacios estarías dispuesto a compartir con la comunidad de vecinos?.
+    "Participa":http://www.arqa.com/?p=293248'
+  rev_date: 2011/03/21
+  content_type: image/jpeg
+  size: '59586'
+  width: '150'
+  height: '110'
+  file: 34_fachada.jpg
+  original_id: '902'
+  created_at: '2012-02-07 14:47:49'
+  updated_at: '2012-02-07 14:47:49'
+  settings: 
+- !ruby/struct:Post
+  id: '642'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '18'
+  date: 24/03/2011
+  body: 'Charla en el Máster en Desarrollo Urbano y Territorial. Gestión y Transformación
+    de las Ciudades en Vias de Desarrollo. 24 y 25 de Marzo. ETSA Vallés. '
+  rev_date: 2011/03/24
+  content_type: image/jpeg
+  size: '61830'
+  width: '200'
+  height: '140'
+  file: 35_fundacionupc.jpg
+  original_id: '903'
+  created_at: '2012-02-07 14:47:52'
+  updated_at: '2012-02-07 14:47:52'
+  settings: 
+- !ruby/struct:Post
+  id: '643'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '19'
+  date: 12/04/2011
+  body: "Conferencias Imperdibles: \"la vivienda como proceso\" en el \"Máster Laboratorio
+    de Viviendas del Siglo XXI\":http://www.laboratoriovivienda21.com/ \r\n12 de abril
+    19.30h. Aula CB6. ETSA Barcelona."
+  rev_date: 2011/04/12
+  content_type: image/jpeg
+  size: '53317'
+  width: '200'
+  height: '141'
+  file: 36_upc.jpg
+  original_id: '904'
+  created_at: '2012-02-07 14:47:54'
+  updated_at: '2012-02-07 14:47:54'
+  settings: 
+- !ruby/struct:Post
+  id: '644'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '20'
+  date: 22/12/2010
+  body: Video de la charla en la Sociedad Central de Arquitectos. Invitados por ARQA/SCALAE.
+    "ver video":http://es.arqa.com/index.php/videos-ae/conferencia-eva-morales.html
+  rev_date: 2010/12/22
+  content_type: image/jpeg
+  size: '44372'
+  width: '150'
+  height: '118'
+  file: 37_charla_arqa.jpg
+  original_id: '905'
+  created_at: '2012-02-07 14:47:57'
+  updated_at: '2012-02-07 14:47:57'
+  settings: 
+- !ruby/struct:Post
+  id: '645'
+  type: Post
+  card_id: '72'
+  text: 
+  position: '20'
+  date: 23/05/2011
+  body: Arquitectos Sin Fronteras Andalucía organiza del 23 de mayo al 4 de junio
+    el Taller de Habitabilidad Básica para Agentes de la Cooperación Andaluza. "Para
+    más información":http://asfesandalucia.wordpress.com/taller-habitabilidad/.
+  rev_date: 2011/05/23
+  content_type: image/jpeg
+  size: '55735'
+  width: '150'
+  height: '234'
+  file: cartel_HABITA__1_.JPG
+  original_id: '906'
+  created_at: '2012-02-07 14:47:59'
+  updated_at: '2012-02-07 14:47:59'
+  settings: 
+- !ruby/struct:Post
+  id: '646'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '21'
+  date: 09/12/2010
+  body: 'Charla en la XIII Ciclo de Conferencias de Colegio Mayor Hernando Colón para
+    la Difusión de la Arquitectura Contemporánea. "DestaparProponer":http://destaparproponer.blogspot.com/search/label/CONFERENCIAS%20ANTERIORES. '
+  rev_date: 2010/12/09
+  content_type: image/jpeg
+  size: '51959'
+  width: '150'
+  height: '212'
+  file: CARTEL_LA_PANADER_A_A3.jpg
+  original_id: '907'
+  created_at: '2012-02-07 14:48:01'
+  updated_at: '2012-02-07 14:48:01'
+  settings: 
+- !ruby/struct:Post
+  id: '647'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '22'
+  date: 29/04/2011
+  body: Participamos en las "conferencias y mesas redondas":http://www.udc.es/etsa/_WEB/_imagenes/CARTAZlt.jpg
+    organizadas por la "escuela de Arquitectura de A Coruña":http://www.udc.es/etsa/  y
+    por "AGORA":http://www.centroagora.es/cas/que_es.php
+  rev_date: 2011/04/29
+  content_type: image/jpeg
+  size: '11427'
+  width: '180'
+  height: '255'
+  file: 38_coru_a.jpg
+  original_id: '908'
+  created_at: '2012-02-07 14:48:03'
+  updated_at: '2012-02-07 14:48:03'
+  settings: 
+- !ruby/struct:Post
+  id: '648'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '23'
+  date: 18/07/2011
+  body: "Participaremos en el Encuentro de Arquitecturas Colectivas \"Comboi a la
+    fresca\" que se celebrará en Valencia del 18 al 24 de julio 2011. Allí realizaremos
+    un Taller de Masovería Urbana junto con los colectivos Encajes Urbanos, StreamingLab
+    y Sostrecivic, los días 18, 19 y 20 por la tarde.\r\n\"Para más información.\":http://comboialafresca.arquitecturascolectivas.net/?cat=10"
+  rev_date: 2011/07/18
+  content_type: image/jpeg
+  size: '43866'
+  width: '200'
+  height: '88'
+  file: logo.jpg
+  original_id: '912'
+  created_at: '2012-02-07 14:48:04'
+  updated_at: '2012-02-07 14:48:04'
+  settings: 
+- !ruby/struct:Post
+  id: '649'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '24'
+  date: 30/07/2011
+  body: El 30 de julio daremos una charla en la XXXI edición de EASA (European Architecture
+    Student Assembly) que se celebra este año en Cádiz del 23 de julio al 7 de agosto.
+    "Más información.":http://www.easa011.es/
+  rev_date: 2011/07/30
+  content_type: image/jpeg
+  size: '47000'
+  width: '150'
+  height: '166'
+  file: logo_web_copy.jpg
+  original_id: '913'
+  created_at: '2012-02-07 14:48:06'
+  updated_at: '2012-02-07 14:48:06'
+  settings: 
+- !ruby/struct:Post
+  id: '650'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '25'
+  date: 27/06/2011
+  body: 'Ponencia en las Jornadas Europeas sobre Eficiencia Energética y Sostenibilidad
+    en la Arquitectura y el Urbanismo que se celebran en Donostia del 27 al 29 de
+    junio 2011. Presentamos el proyecto de investigación rEactua: concienciación energética
+    y participación del usuario en rehabilitación de edificios de vivienda. "Más información.":http://www.eesap.org/es/programa.html'
+  rev_date: 2011/06/27
+  content_type: image/jpeg
+  size: '40035'
+  width: '200'
+  height: '79'
+  file: 40_eesap.jpg
+  original_id: '914'
+  created_at: '2012-02-07 14:48:09'
+  updated_at: '2012-02-07 14:48:09'
+  settings: 
+- !ruby/struct:Post
+  id: '651'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '26'
+  date: 03/10/2011
+  body: Participamos en las Jornadas de Estudios Urbanos, Género y Feminismo que se
+    celebrarán en Barcelona el 3, 4 y 5 de octubre organizadas por el Colectiu.6 en
+    la UPC. Presentaremos una comunicación en colaboración con Marta Reina y Raquel
+    Babío. "Más información":http://www.estudiosurbanosgeneroyfeminismo.com/
+  rev_date: 2011/10/03
+  content_type: image/jpeg
+  size: '16675'
+  width: '200'
+  height: '64'
+  file: cabecera-cast-copia.jpg
+  original_id: '915'
+  created_at: '2012-02-07 14:48:10'
+  updated_at: '2012-02-07 14:48:10'
+  settings: 
+- !ruby/struct:Post
+  id: '657'
+  type: Post
+  card_id: '59'
+  text: 
+  position: '2'
+  date: 26/09/2011
+  body: Inauguramos la obra del CEIP Alcalde León Ríos en el El Viso del Alcor. Lunes
+    26 de septiembre 13.00h.
+  rev_date: 2011/09/26
+  content_type: image/jpeg
+  size: '36883'
+  width: '200'
+  height: '280'
+  file: 04_actual.jpg
+  original_id: '922'
+  created_at: '2012-02-07 14:48:20'
+  updated_at: '2012-02-07 14:48:20'
+  settings: 
+- !ruby/struct:Post
+  id: '711'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '27'
+  date: 27/10/2011
+  body: Participamos en el OIKODOMOS International Conference. Innovating, Housing,
+    Learning. Bruselas 27-28 Octubre. The OIKODOMOS project brings together pedagogy,
+    information and communication technologies and housing studies. "Más información.":http://www.oikodomos.org/
+    "Programa OIKODOMOS.":http://project-oikodomos.blogspot.com/
+  rev_date: 2011/10/27
+  content_type: image/jpeg
+  size: '32316'
+  width: '200'
+  height: '39'
+  file: 41_oikodomos.jpg
+  original_id: '985'
+  created_at: '2012-02-07 14:49:55'
+  updated_at: '2012-02-07 14:49:55'
+  settings: 
+- !ruby/struct:Post
+  id: '712'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '28'
+  date: 01/10/2011
+  body: 'EMBAJADORES Arquia/Próxima de la III Edición 2010-2011. Buscamos contacto
+    con jóvenes arquitectos que estén interesados en participar en esta III Edición,
+    que hayan realizado obra construida, proyectos, acciones sociales, acciones culturales
+    y formativas e investigación. A los interesados, pueden contactarnos en: info@despachodepan.com
+    . "Mas información.":http://fundacion.arquia.es/proxima/'
+  rev_date: 2011/10/01
+  content_type: image/jpeg
+  size: '60883'
+  width: '200'
+  height: '154'
+  file: 42.embajadores.jpg
+  original_id: '986'
+  created_at: '2012-02-07 14:49:57'
+  updated_at: '2012-02-07 14:49:57'
+  settings: 
+- !ruby/struct:Post
+  id: '713'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '29'
+  date: 29/11/2011
+  body: 'Impartimos Seminario en el Máster Propio de Energías Renovables: Arquitectura
+    y Urbanismo. la ciudad sostenible. Martes 29 noviembre. 11.00-18.30 horas. UNIA.
+    Sede La Rábida. "más información":http://www.unia.es/images/stories/sede_rabida/cuadr_energiasrenovables_rabida_02.pdf'
+  rev_date: 2011/11/29
+  content_type: image/jpeg
+  size: '63902'
+  width: '177'
+  height: '165'
+  file: master_unia.jpg
+  original_id: '987'
+  created_at: '2012-02-07 14:49:59'
+  updated_at: '2012-02-07 14:49:59'
+  settings: 
+- !ruby/struct:Post
+  id: '715'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '30'
+  date: 16/12/2011
+  body: 'lapanaderia + sostrecivic "Finalistas EUROPAN 11":http://www.europan-esp.es/02_03_europan_result.php?id_resu=676.
+    Celebraremos con cava la primera experiencia colaborativa entre los dos equipos! '
+  rev_date: 2011/12/16
+  content_type: image/jpeg
+  size: '74953'
+  width: '200'
+  height: '174'
+  file: 42_europan.jpg
+  original_id: '999'
+  created_at: '2012-02-07 14:50:03'
+  updated_at: '2012-02-07 14:50:03'
+  settings: 
+- !ruby/struct:Post
+  id: '717'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '31'
+  date: 29/01/2012
+  body: TALLERES "la mujer saharaui y su hábitat". Eva viajará dos semanas a los *Campamentos
+    de Refugiados Saharauis* con Raquel Romero, para realizar talleres de sensibilización
+    con el hábitat con un proyecto de "ASF":http://asfesandalucia.wordpress.com/.
+  rev_date: 2012/01/29
+  content_type: 
+  size: 
+  width: '147'
+  height: '199'
+  file: 44_taller_sahara.jpg
+  original_id: '1002'
+  created_at: '2012-02-07 14:50:05'
+  updated_at: '2012-02-15 10:33:37'
+  settings: 
+- !ruby/struct:Post
+  id: '980'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '32'
+  date: 14/03/2012
+  body: "Participamos en las Jornadas IN-SOSTENIBLE con una charla el 14 de marzo
+    a las 16.00h\r\nen el Colegio de Arquitectos de Granada.\r\nMás información \"AQUÍ\":http://in-sostenible.tk/"
+  rev_date: 2012/03/14
+  content_type: 
+  size: 
+  width: '200'
+  height: '57'
+  file: 47_in-sostenibles_02.jpg
+  original_id: 
+  created_at: '2012-03-08 12:06:00'
+  updated_at: '2012-03-19 11:45:20'
+  settings: 
+- !ruby/struct:Post
+  id: '984'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '33'
+  date: 22/03/2012
+  body: 'Damos charla en el Máster de Desarrollo Urbano y Territorial. Módulo Producción
+    Social del Hábitat. Universidad Politécnica de Cataluña. Escuela Arquitectura
+    El Vallés. Martes 22 de marzo, 12 horas. '
+  rev_date: 2012/03/22
+  content_type: 
+  size: 
+  width: '200'
+  height: '249'
+  file: 48_master_upc.jpg
+  original_id: 
+  created_at: '2012-03-19 12:11:51'
+  updated_at: '2012-03-23 09:43:46'
+  settings: 
+- !ruby/struct:Post
+  id: '986'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '34'
+  date: 08/05/2012
+  body: "Hola! os invitamos al \"Seminario sobre Cooperativismo de vivienda\":http://coopdeusosevilla.masqueunacasa.org/
+    en cesión de uso que va a celebrar en Sevilla el próximo 17-18-19 de Mayo en el
+    que estamos colaborando en la organización. Allí nos vemos!!\r\n\r\ncoopdeusosevilla.masqueunacasa.org"
+  rev_date: 2012/05/08
+  content_type: 
+  size: 
+  width: '150'
+  height: '74'
+  file: 50_seminario.jpg
+  original_id: 
+  created_at: '2012-05-08 16:04:06'
+  updated_at: '2012-05-09 15:37:45'
+  settings: 
+- !ruby/struct:Post
+  id: '989'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '35'
+  date: 24/05/2012
+  body: "Charla en la ETSA Valencia. Miércoles 23 Mayo: 16 horas en Máster Arquitectura
+    y Hábitat Sostenible. Jueves 24 Mayo: 12.30 horas en\r\n Aula Magna."
+  rev_date: 2012/05/24
+  content_type: 
+  size: 
+  width: '150'
+  height: '202'
+  file: 51_charla_valencia.jpg
+  original_id: 
+  created_at: '2012-05-22 14:46:59'
+  updated_at: '2012-05-22 14:51:40'
+  settings: 
+- !ruby/struct:Post
+  id: '991'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '36'
+  date: 24/05/2012
+  body: Hola!, ayer se publicó en el periodico La Vanguardia un "articulo":https://depan.s3.amazonaws.com/pan_file/file/990/La_panaderia_Culturas.PDF
+    sobre la panaderia, gracias a la autora y el autor por tan buenas palabras!
+  rev_date: 2012/05/24
+  content_type: 
+  size: 
+  width: '200'
+  height: '156'
+  file: 52_vanguardia.jpg
+  original_id: 
+  created_at: '2012-05-24 09:41:28'
+  updated_at: '2012-05-24 09:41:28'
+  settings: 
+- !ruby/struct:Post
+  id: '993'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '37'
+  date: 16/06/2012
+  body: "Participamos en Devir Menor \"Arquiteturas e Prácticas Espaciais Críticas
+    na Ibero-America\". Guimaraes 2012. \r\n\"Más información\":http://www.devirmenor2012guimaraes.com/category/projetos/"
+  rev_date: 2012/06/16
+  content_type: 
+  size: 
+  width: '150'
+  height: '221'
+  file: 53_devir_menor.jpg
+  original_id: 
+  created_at: '2012-05-25 11:24:36'
+  updated_at: '2012-05-25 11:29:12'
+  settings: 
+- !ruby/struct:Post
+  id: '994'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '38'
+  date: 18/05/2012
+  body: "Publicación Revista Márgenes de Arquitectura Social \"Talleres para la mejora
+    del hábitat en los campamentos saharauis de Tindouf\".\r\n\"Enlace a la revista\":http://issuu.com/preparados2010/docs/02_ciudades_lacradas?mode=window&backgroundColor#222222"
+  rev_date: 2012/05/18
+  content_type: 
+  size: 
+  width: '150'
+  height: '102'
+  file: 54_margenes_arquitectura.jpg
+  original_id: 
+  created_at: '2012-05-25 11:35:57'
+  updated_at: '2012-05-25 11:35:57'
+  settings: 
+- !ruby/struct:Post
+  id: '995'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '39'
+  date: 12/04/2012
+  body: Obras catalogadas en Arquia/Próxima 2012. "Colegio Alcalde León Ríos":http://fundacion.arquia.es/proxima/pub_realizacion_detalle.aspx?id=4003
+    y "Porche en Centro Escolar":http://fundacion.arquia.es/proxima/pub_realizacion_detalle.aspx?id=2556
+  rev_date: 2012/04/12
+  content_type: 
+  size: 
+  width: '200'
+  height: '187'
+  file: 55_arquiaproxima_2012.jpg
+  original_id: 
+  created_at: '2012-05-25 11:48:41'
+  updated_at: '2012-05-25 11:50:33'
+  settings: 
+- !ruby/struct:Post
+  id: '997'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '40'
+  date: 17/06/2012
+  body: "Buenos días! ya está accesible toda la info generada durante el XX seminario
+    de arquitectura y compromiso social sobre cooperativismo de vivienda en cesión
+    de uso realizado en Sevilla.\r\n\"coopdeusosevilla.masqueunacasa.org\":http://coopdeusosevilla.masqueunacasa.org/"
+  rev_date: 2012/06/17
+  content_type: 
+  size: 
+  width: '200'
+  height: '200'
+  file: 56_seminario.png
+  original_id: 
+  created_at: '2012-06-15 07:34:14'
+  updated_at: '2012-06-15 07:35:17'
+  settings: 
+- !ruby/struct:Post
+  id: '1002'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '41'
+  date: 05/07/2012
+  body: "Rubén participa en el I \"Congreso\":http://www.upo.es/lies/congreso/programa.html
+    Internacional sobre estudios de Diversidad Sexual en Iberoamérica en la Universidad
+    Pablo de OIavide (Sevilla), con una ponencia sobre la casa el cuerpo y la familia.
+    \r\n\r\n\"La organización espacial de la heterosexualidad\":http://ubuntuone.com/1p50y3iEzb1p5CL3GX6feN"
+  rev_date: 2012/07/05
+  content_type: 
+  size: 
+  width: '200'
+  height: '159'
+  file: casa.png
+  original_id: 
+  created_at: '2012-07-02 18:19:26'
+  updated_at: '2012-07-02 18:20:08'
+  settings: 
+- !ruby/struct:Post
+  id: '1004'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '42'
+  date: 09/11/2012
+  body: 'Participamos en el Curso de Extensión Universitaria: Naturaleza y espacio
+    habitado organizado por el colectivo Mazetas. 9-16 noviembre. "Más info.":http://mazetas.com/2012/10/02/curso-de-extension-universitaria-naturaleza-y-espacio-habitado/'
+  rev_date: 2012/11/09
+  content_type: 
+  size: 
+  width: '150'
+  height: '213'
+  file: mazetas_curso.jpg
+  original_id: 
+  created_at: '2012-10-10 15:25:17.097012'
+  updated_at: '2012-10-21 09:26:50.786789'
+  settings: 
+- !ruby/struct:Post
+  id: '1005'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '43'
+  date: 03/10/2012
+  body: 'Eva Participa en las I Jornadas Internacionales Saharauis: "Autodeterminación
+    de los pueblos. Autodeterminación de las Mujeres". Universidad Pablo Olavide.
+    "Más info.":http://jornadasmujeressaharauis.blogspot.com.es/'
+  rev_date: 2012/10/03
+  content_type: 
+  size: 
+  width: '150'
+  height: '225'
+  file: image001_1.jpg
+  original_id: 
+  created_at: '2012-10-10 15:32:29.473344'
+  updated_at: '2012-10-21 09:27:14.215766'
+  settings: 
+- !ruby/struct:Post
+  id: '1007'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '44'
+  date: 25/10/2012
+  body: "Participamos en las Jornadas de Urbanismo y Genero. Ciudad en Construcción.
+    \r\nMálaga 25-26 octubre. \"Más info.\":http://areaigualdad.wix.com/enconstruccion#!ciudad-en-construcción"
+  rev_date: 2012/10/25
+  content_type: 
+  size: 
+  width: '150'
+  height: '212'
+  file: jornadas_genero_ciudad.jpg
+  original_id: 
+  created_at: '2012-10-21 09:30:33.19879'
+  updated_at: '2012-10-21 09:33:00.392106'
+  settings: 
+- !ruby/struct:Post
+  id: '1008'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '45'
+  date: 9/10/2012
+  body: Damos conferencia en la Escuela de Arquitectura de A Coruña en el ciclo de
+    Muitas Grafías, sobre el uso de las herramientas gráficas y los procesos de comunicación
+    de la arquitectura en nuestro trabajo.
+  rev_date: 2012/10/9
+  content_type: 
+  size: 
+  width: '150'
+  height: '46'
+  file: muitasgrafias.png
+  original_id: 
+  created_at: '2012-10-24 09:32:49.176213'
+  updated_at: '2012-10-24 09:33:57.944857'
+  settings: 
+- !ruby/struct:Post
+  id: '1009'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '46'
+  date: 05/12/2012
+  body: 'Encuentro de Arquitecturas Colectivas. Sobre el derecho al disfrute de la
+    ciudad: vivienda, espacios públicos, espacios productivos. Sevilla 5-8 diciembre
+    2012. "Más info":http://aaccsevilla.wordpress.com/'
+  rev_date: 2012/12/05
+  content_type: 
+  size: 
+  width: '200'
+  height: '283'
+  file: aacc_se_cartel_copia_web.png
+  original_id: 
+  created_at: '2012-11-29 18:48:42.903666'
+  updated_at: '2012-11-29 18:48:42.903666'
+  settings: 
+- !ruby/struct:Post
+  id: '1010'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '47'
+  date: 03/12/2012
+  body: "Hola! hemos finalizado los últimos remates de la primera fase y ya está operativa
+    la plataforma de procesos colectivos de vivienda [masqueunacasa](http://masqueunacasa.org),
+    nos encantaría recibir comentarios y que nos ayudeis a hacerla vuestra!!\r\n\r\n[dossier](http://dl.dropbox.com/u/16054941/DOSSIERmasqueunacasa.org.pdf)"
+  rev_date: 2012/12/03
+  content_type: 
+  size: 
+  width: '150'
+  height: '150'
+  file: AvatarMquc300x300-03.png
+  original_id: 
+  created_at: '2012-12-04 18:02:41.967708'
+  updated_at: '2012-12-04 18:02:41.967708'
+  settings: 
+- !ruby/struct:Post
+  id: '1011'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '48'
+  date: 13/12/2012
+  body: "Presentamos \"masqueunacasa.org\":http://masqueunacasa.org/ en el Congreso
+    \"EQUIciuDAD\":http://equiciudad.es/. Donosti. 13-14 diciembre 2012.\r\n"
+  rev_date: 2012/12/13
+  content_type: 
+  size: 
+  width: '150'
+  height: '150'
+  file: logo-EQUICIUDAD-2012_web.jpg
+  original_id: 
+  created_at: '2012-12-13 17:49:51.30787'
+  updated_at: '2012-12-13 17:49:51.30787'
+  settings: 
+- !ruby/struct:Post
+  id: '1013'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '49'
+  date: 15/01/2013
+  body: "Nos publican en la revista nº 393 de L'Architecture D'Aujourd'hui.\r\n\"Más
+    info\":http://www.larchitecturedaujourdhui.fr/web-exclusive-aa393"
+  rev_date: 2013/01/15
+  content_type: 
+  size: 
+  width: '200'
+  height: '260'
+  file: AA_200.jpg
+  original_id: 
+  created_at: '2013-02-25 20:12:11.505505'
+  updated_at: '2013-02-25 20:12:11.505505'
+  settings: 
+- !ruby/struct:Post
+  id: '1014'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '50'
+  date: 14/01/2013
+  body: "Charla para en e'AM Coopera. \"Hábitat como proceso\":https://www.facebook.com/pages/eaM-Coopera/159886097439926\r\nEscuela
+    de Arquitectura de Málaga."
+  rev_date: 2013/01/14
+  content_type: 
+  size: 
+  width: '200'
+  height: '141'
+  file: Habitat_como_Proceso.jpg
+  original_id: 
+  created_at: '2013-02-25 20:15:58.636804'
+  updated_at: '2013-02-25 20:17:39.986021'
+  settings: 
+- !ruby/struct:Post
+  id: '1017'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '51'
+  date: 08/03/2013
+  body: "\"LÓGICAS LOCALES. Homotecias de lo local a lo global\" 8 y 9 de marzo.\r\nEva
+    participa el 9 de marzo, junto con Kike España, en la mesa redonda \r\n\"Gestión
+    del hábitat como proceso colaborativo\". \r\nEstupenda iniciativa organizada por
+    el Eam Coopera. \"Más info.\":http://logicaslocales.wordpress.com/"
+  rev_date: 2013/03/08
+  content_type: 
+  size: 
+  width: '200'
+  height: '283'
+  file: cartel_a3_ok1_web.jpg
+  original_id: 
+  created_at: '2013-03-04 13:48:27.17387'
+  updated_at: '2013-03-04 14:04:14.461713'
+  settings: 
+- !ruby/struct:Post
+  id: '1018'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '52'
+  date: 12/03/2013
+  body: 'Participamos en las Jornadas "La Construcción de la ciudad inclusiva: estrategias
+    de intervención integral en el hábitat local". Charla y Taller participativo desde
+    una perspectiva de género. Barcelona del 10 al 16 marzo 2013. "Más info.":http://urbanismeinclusiu.wordpress.com/2013/03/03/contexto-de-las-jornadas-la-construccion-de-la-ciudad-inclusiva/'
+  rev_date: 2013/03/12
+  content_type: 
+  size: 
+  width: '200'
+  height: '336'
+  file: ciudad_inclusiva.jpg
+  original_id: 
+  created_at: '2013-03-04 14:01:31.981732'
+  updated_at: '2013-03-04 14:04:03.836172'
+  settings: 
+- !ruby/struct:Post
+  id: '1019'
+  type: Post
+  card_id: '1'
+  text: 
+  position: '53'
+  date: 01/09/2013
+  body: "Hola a todxs! Os comunicamos que hemos cerrado las puertas del estudio.\r\n\r\nEva
+    y Rubén siguen trabajando independientemente. Puedes contactar con ellos aquí:\r\n\r\neva
+    morales\r\neva@despachodepan.com\r\n\r\nrubén alonso\r\nruben@despachodepan.com\r\n\r\nSaludos
+    a todxs y gracias por vuestro apoyo e interes estos años!"
+  rev_date: 2013/09/01
+  content_type: 
+  size: 
+  width: '206'
+  height: '250'
+  file: cierre2.jpg
+  original_id: 
+  created_at: '2013-10-18 11:55:51.378166'
+  updated_at: '2013-11-04 09:12:09.432117'
+  settings: 
