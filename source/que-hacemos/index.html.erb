@@ -1,0 +1,15 @@
+---
+title: selección
+---
+
+<% selection_card = SelectionCard.new %>
+<div id="wrapper">
+  <div id="time-panel" style="width: <%= selection_card.width %>px;">
+    <div class="line">
+        <%= partial 'selection', collection: selection_card.top %>
+    </div>
+    <div class="line">
+        <%= partial 'selection', collection: selection_card.bottom %>
+    </div>
+  </div>
+</div>

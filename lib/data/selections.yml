@@ -1,0 +1,281 @@
+---
+- !ruby/struct:Selection
+  id: '576'
+  type: Selection
+  card_id: '16'
+  text: 
+  position: '1'
+  date: '2006'
+  body: casa-local
+  rev_date: '2006'
+  content_type: image/jpeg
+  size: '24625'
+  width: '280'
+  height: '199'
+  file: s_casalocal.jpg
+  original_id: '814'
+  created_at: '2012-02-07 14:46:14'
+  updated_at: '2012-02-16 18:37:44'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '577'
+  type: Selection
+  card_id: '8'
+  text: 
+  position: '1'
+  date: '2006'
+  body: 'nuevo aulario '
+  rev_date: '2006'
+  content_type: image/jpeg
+  size: '24235'
+  width: '328'
+  height: '199'
+  file: s_aulariocastilleja.jpg
+  original_id: '815'
+  created_at: '2012-02-07 14:46:16'
+  updated_at: '2012-02-07 14:46:16'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '578'
+  type: Selection
+  card_id: '17'
+  text: 
+  position: '1'
+  date: '2007'
+  body: vivienda unifamiliar en gerena
+  rev_date: '2007'
+  content_type: image/jpeg
+  size: '19037'
+  width: '263'
+  height: '199'
+  file: s_cuberta.jpg
+  original_id: '816'
+  created_at: '2012-02-07 14:46:17'
+  updated_at: '2012-02-07 14:46:17'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '579'
+  type: Selection
+  card_id: '14'
+  text: 
+  position: '1'
+  date: '2007'
+  body: oficinas turbepal s.l.
+  rev_date: '2007'
+  content_type: image/jpeg
+  size: '47083'
+  width: '303'
+  height: '199'
+  file: s_viviero.jpg
+  original_id: '819'
+  created_at: '2012-02-07 14:46:18'
+  updated_at: '2012-02-16 18:37:58'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '580'
+  type: Selection
+  card_id: '15'
+  text: 
+  position: '1'
+  date: '2007'
+  body: casa + ó -  Alcalá 01
+  rev_date: '2007'
+  content_type: image/jpeg
+  size: '26887'
+  width: '274'
+  height: '199'
+  file: s_alcala.jpg
+  original_id: '820'
+  created_at: '2012-02-07 14:46:20'
+  updated_at: '2012-02-16 18:37:50'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '581'
+  type: Selection
+  card_id: '11'
+  text: 
+  position: '1'
+  date: '2008'
+  body: colegio en Jaén
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '8271'
+  width: '149'
+  height: '199'
+  file: s_c3jaen.jpg
+  original_id: '828'
+  created_at: '2012-02-07 14:46:22'
+  updated_at: '2012-02-07 14:46:22'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '582'
+  type: Selection
+  card_id: '49'
+  text: 
+  position: '1'
+  date: '2008'
+  body: porche para colegio
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '45769'
+  width: '357'
+  height: '199'
+  file: s_porche.jpg
+  original_id: '829'
+  created_at: '2012-02-07 14:46:22'
+  updated_at: '2012-02-07 14:46:22'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '583'
+  type: Selection
+  card_id: '9'
+  text: 
+  position: '1'
+  date: '2008'
+  body: comedor tipo 1
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '32081'
+  width: '265'
+  height: '199'
+  file: s_com1.jpg
+  original_id: '830'
+  created_at: '2012-02-07 14:46:24'
+  updated_at: '2012-02-16 18:38:12'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '584'
+  type: Selection
+  card_id: '10'
+  text: 
+  position: '1'
+  date: '2008'
+  body: comedor tipo 2
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '18236'
+  width: '265'
+  height: '199'
+  file: s_com2.jpg
+  original_id: '831'
+  created_at: '2012-02-07 14:46:26'
+  updated_at: '2012-02-07 14:46:26'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '585'
+  type: Selection
+  card_id: '12'
+  text: 
+  position: '1'
+  date: '2008'
+  body: comedor tipo 3
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '21191'
+  width: '265'
+  height: '199'
+  file: s_com3.jpg
+  original_id: '832'
+  created_at: '2012-02-07 14:46:27'
+  updated_at: '2012-02-07 14:46:27'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '586'
+  type: Selection
+  card_id: '13'
+  text: 
+  position: '1'
+  date: '2008'
+  body: comedor tipo 4
+  rev_date: '2008'
+  content_type: image/jpeg
+  size: '20821'
+  width: '266'
+  height: '199'
+  file: s_com4.jpg
+  original_id: '833'
+  created_at: '2012-02-07 14:46:28'
+  updated_at: '2012-02-16 18:38:04'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '609'
+  type: Selection
+  card_id: '1'
+  text: 
+  position: '1'
+  date: '2003'
+  body: ''
+  rev_date: '2003'
+  content_type: image/jpeg
+  size: '4688'
+  width: '105'
+  height: '199'
+  file: seleccion.jpg
+  original_id: '866'
+  created_at: '2012-02-07 14:46:57'
+  updated_at: '2012-02-07 14:46:57'
+  settings: |
+    ---
+    :row_position: Arriba
+- !ruby/struct:Selection
+  id: '660'
+  type: Selection
+  card_id: '59'
+  text: 
+  position: '1'
+  date: 05/09/2011
+  body: Colegio en el Viso del Alcor
+  rev_date: 2011/09/05
+  content_type: image/jpeg
+  size: '69529'
+  width: '724'
+  height: '199'
+  file: seleccionviso.jpg
+  original_id: '925'
+  created_at: '2012-02-07 14:48:25'
+  updated_at: '2012-03-04 15:07:32'
+  settings: |
+    ---
+    :row_position: Abajo
+- !ruby/struct:Selection
+  id: '874'
+  type: Selection
+  card_id: '80'
+  text: 
+  position: '1'
+  date: '2011'
+  body: comedor tipo 5
+  rev_date: '2011'
+  content_type: 
+  size: 
+  width: '420'
+  height: '199'
+  file: interior2.jpg
+  original_id: 
+  created_at: '2012-02-15 08:39:37'
+  updated_at: '2012-02-15 12:34:19'
+  settings: |
+    ---
+    :row_position: Arriba

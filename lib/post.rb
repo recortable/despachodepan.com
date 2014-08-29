@@ -1,3 +1,5 @@
+class Post < Pan
+end
 
 class Blog
   MIN_WIDTH = 843

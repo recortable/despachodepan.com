@@ -2,6 +2,8 @@ require 'yaml'
 require_relative '../lib/card.rb'
 require_relative '../lib/color.rb'
 require_relative '../lib/pan.rb'
+require_relative '../lib/post.rb'
+require_relative '../lib/selection.rb'
 
 class PrepareData
   def initialize
@@ -27,10 +29,13 @@ class PrepareData
 
   def prepare_pans(columns, table)
     @posts = []
+    @selections = []
     table.each do |row|
       @posts << Post.new(*row) if row[1] == 'Post'
+      @selections << Selection.new(*row) if row[1] == 'Selection'
     end
     save_table('Post', @posts)
+    save_table('Selection', @selections)
   end
 
   def prepare_model(clazz, data)

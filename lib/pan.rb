@@ -16,6 +16,3 @@ Pan = Struct.new(:id, :type, :card_id, :text, :position,
       @file ||= AmazonFile.new(file, self.class.to_s, id)
     end
 end
-
-class Post < Pan
-end
