@@ -1,0 +1,11 @@
+<ul id="tabs">
+  <li id="nav-actual" class="<%= 'selected' if current_page?('/') %>"><%= link_to 'noticias', '/' %></li>
+  <li id="nav-seleccion" class="<%= 'selected' if current_page?('que-hacemos') %>"><%= link_to 'qué hacemos', 'que-hacemos' %></li>
+  <li id="nav-indice" class="<%= 'selected' if current_page?('procesos') %>"><%= link_to 'procesos', 'procesos' %></li>
+  <li id="nav-panaderia" class="<%= 'selected' if current_page?('lapanaderia') %>">
+    <%= link_to 'quiénes somos', 'lapanaderia' %>
+  </li>
+  <li id="nav-casamasomenos" class="<%= 'selected' if current_page?('casamasomenos') %>">
+    <%= link_to 'casamasomenos', 'casamasomenos' %>
+  </li>
+</ul>

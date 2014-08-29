@@ -1,0 +1,57 @@
+
+@import 'variables.css.scss';
+
+html {
+    font-size: 11px;
+    background-color: white;
+    font-family: "Verdana", sans;
+}
+
+a {text-decoration: none; color: $azul;}
+
+#logo {
+  position: absolute;
+  top: -55px; height: 43px;
+  width: 182px; left: 0;
+  z-index: 2001;
+  background: image-url('logo.gif') no-repeat;
+  overflow: hidden; text-indent: -1000px;
+}
+a#logo:hover {
+  background-position: 0 -43px;
+}
+
+/** TABS **/
+#tabs {
+  position: absolute;
+  top: 0; height: 30px;
+  left: 0; width: 963px;
+  z-index: 2000;
+}
+#tabs  li {
+  float: left; height: 15px; padding-top: 2px;
+  text-align: center; margin-right: 11px;
+  border: 1px solid $azul; color: $azul;
+  z-index: 10;
+}
+
+
+#tabs li a {color: $azul;}
+#tabs li.selected {border-bottom: 1px solid white; height: 15px; }
+#nav-actual {width: 59px;}
+#nav-seleccion {width: 95px;}
+#nav-indice {width: 71px;}
+#tabs li#nav-panaderia {float: right; width: 143px; margin-right: 0;}
+#tabs li#nav-casamasomenos {
+  float: right; width: 143px; margin-right: 1em;
+  border-left-color: $naranja;
+  border-top-color: $naranja;
+  border-right-color: $naranja;
+}
+#tabs li#nav-casamasomenos a {width: 143px; color: $naranja;}
+
+
+  p {
+  em {font-weight: bold;}
+  strong {font-style: italic;}
+}
