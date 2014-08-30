@@ -1,0 +1,51 @@
+---
+- !ruby/struct:Tag
+  id: '6'
+  name: P_comercial
+  position: '6'
+  color_id: '16'
+- !ruby/struct:Tag
+  id: '7'
+  name: P_escolar
+  position: '5'
+  color_id: '3'
+- !ruby/struct:Tag
+  id: '9'
+  name: P_oficinas
+  position: '7'
+  color_id: '13'
+- !ruby/struct:Tag
+  id: '12'
+  name: arte
+  position: '9'
+  color_id: '9'
+- !ruby/struct:Tag
+  id: '17'
+  name: concursos
+  position: '3'
+  color_id: '11'
+- !ruby/struct:Tag
+  id: '20'
+  name: P_vivienda
+  position: '4'
+  color_id: '7'
+- !ruby/struct:Tag
+  id: '22'
+  name: diseño
+  position: '8'
+  color_id: '17'
+- !ruby/struct:Tag
+  id: '27'
+  name: casa + ó -
+  position: '1'
+  color_id: '19'
+- !ruby/struct:Tag
+  id: '28'
+  name: investigación
+  position: '2'
+  color_id: '20'
+- !ruby/struct:Tag
+  id: '29'
+  name: docencia
+  position: '2'
+  color_id: '22'

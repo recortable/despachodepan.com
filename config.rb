@@ -1,4 +1,5 @@
 require 'lib/despachodepan'
+Despachodepan.load
 
 require "lib/helpers/html_helpers"
 helpers HtmlHelpers

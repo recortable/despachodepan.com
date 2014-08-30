@@ -1,0 +1,21 @@
+---
+title: procesos
+---
+
+<% view = ProcessView.new(0) %>
+<div id="wrapper" class="autoscroll" data-scrollTime="<%= view.scroll_time %>">
+  <div id="grid">
+    <div id="content">
+      <% view.cards.each do |card| %>
+          <% if card.displayable? %>
+              <%= pinta_card(card) %>
+              <%= pinta_milestones(card) %>
+          <% end %>
+      <% end %>
+      <div id="preview" style="display: none">&nbsp;</div>
+      <div id="loading" style="display: none">
+        <div id="spinner"></div>
+      </div>
+    </div>
+  </div>
+</div>

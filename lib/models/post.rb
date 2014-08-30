@@ -5,9 +5,8 @@ class Blog
   MIN_WIDTH = 843
 
   def self.load
-    @posts = YAML::load_file(File.join(__dir__, 'data', 'posts.yml'))
-    @posts.sort_by {|post| "#{post.rev_date}" }
-    puts "Posts: #{@posts.size}"
+    @posts = Repository.load('Posts')
+    @posts.sort_by! {|post| "#{post.rev_date}" }
   end
 
   def self.posts

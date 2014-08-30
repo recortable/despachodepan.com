@@ -2,14 +2,14 @@
 title: selección
 ---
 
-<% selection_card = SelectionCard.new %>
+<% view = SelectionView.new %>
 <div id="wrapper">
-  <div id="time-panel" style="width: <%= selection_card.width %>px;">
+  <div id="time-panel" style="width: <%= view.width %>px;">
     <div class="line">
-        <%= partial 'selection', collection: selection_card.top %>
+        <%= partial 'selection', collection: view.top %>
     </div>
     <div class="line">
-        <%= partial 'selection', collection: selection_card.bottom %>
+        <%= partial 'selection', collection: view.bottom %>
     </div>
   </div>
 </div>

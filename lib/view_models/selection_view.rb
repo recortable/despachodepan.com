@@ -1,25 +1,6 @@
-
-class Selection < Pan
-  def row_position
-    'Arriba' if settings.include? 'Arriba'
-  end
-end
-
-class Selections
-  def self.load
-    @selections = YAML::load_file(File.join(__dir__, 'data', 'selections.yml'))
-    @selections.sort_by! {|selection| selection.rev_date }
-    puts "Selections: #{@selections.size}"
-  end
-
-  def self.all
-    @selections
-  end
-end
-
 # SelectionCard
 # The selected images from all the projects
-class SelectionCard
+class SelectionView
   attr_reader :top, :bottom
 
   def initialize

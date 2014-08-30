@@ -1,9 +1,10 @@
 require 'yaml'
-require_relative '../lib/card.rb'
-require_relative '../lib/color.rb'
-require_relative '../lib/pan.rb'
-require_relative '../lib/post.rb'
-require_relative '../lib/selection.rb'
+require_relative '../lib/models/card.rb'
+require_relative '../lib/models/color.rb'
+require_relative '../lib/models/pan.rb'
+require_relative '../lib/models/post.rb'
+require_relative '../lib/models/selection.rb'
+require_relative '../lib/models/tag.rb'
 
 class PrepareData
   def initialize
@@ -14,6 +15,7 @@ class PrepareData
   end
 
   def prepare_tags(columns, table)
+    prepare_model(Tag, table)
   end
 
   def prepare_cards(columns, table)
@@ -21,6 +23,7 @@ class PrepareData
   end
 
   def prepare_cards_tags(columns, table)
+    prepare_model(CardTag, table)
   end
 
   def prepare_colors(columns, table)
