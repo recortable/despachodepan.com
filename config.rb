@@ -1,12 +1,12 @@
 require 'lib/despachodepan'
 Despachodepan.load
 
-require "lib/helpers/html_helpers"
-helpers HtmlHelpers
-require "lib/helpers/markdown_helpers"
-helpers MarkdownHelpers
-require "lib/helpers/despachodepan_helpers"
-helpers DespachodepanHelpers
+# require "helpers/html_helpers"
+# helpers HtmlHelpers
+# require "helpers/markdown_helpers"
+# helpers MarkdownHelpers
+# require "lib/helpers/despachodepan_helpers"
+# helpers DespachodepanHelpers
 
 
 set :css_dir, 'stylesheets'

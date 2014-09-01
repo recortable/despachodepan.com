@@ -1,0 +1,1621 @@
+---
+- !ruby/struct:MainImage
+  id: '2'
+  type: MainImage
+  card_id: '1'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '24191'
+  width: '462'
+  height: '208'
+  file: estudio.jpg
+  original_id: '379'
+  created_at: '2012-02-07 14:30:02'
+  updated_at: '2012-02-07 14:30:02'
+  settings: 
+- !ruby/struct:MainImage
+  id: '4'
+  type: MainImage
+  card_id: '59'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '41578'
+  width: '510'
+  height: '198'
+  file: main-1.jpg
+  original_id: '2179'
+  created_at: '2012-02-07 14:30:04'
+  updated_at: '2012-02-07 14:30:04'
+  settings: 
+- !ruby/struct:MainImage
+  id: '7'
+  type: MainImage
+  card_id: '68'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18736'
+  width: '446'
+  height: '208'
+  file: 02.jpg
+  original_id: '1773'
+  created_at: '2012-02-07 14:30:08'
+  updated_at: '2012-02-07 14:30:08'
+  settings: 
+- !ruby/struct:MainImage
+  id: '8'
+  type: MainImage
+  card_id: '76'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '24097'
+  width: '492'
+  height: '200'
+  file: quesada-fases.jpg
+  original_id: '1993'
+  created_at: '2012-02-07 14:30:09'
+  updated_at: '2012-02-07 14:30:09'
+  settings: 
+- !ruby/struct:MainImage
+  id: '9'
+  type: MainImage
+  card_id: '83'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '33488'
+  width: '335'
+  height: '198'
+  file: main.jpg
+  original_id: '2255'
+  created_at: '2012-02-07 14:30:10'
+  updated_at: '2012-02-07 14:30:10'
+  settings: 
+- !ruby/struct:MainImage
+  id: '10'
+  type: MainImage
+  card_id: '89'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '80307'
+  width: '510'
+  height: '198'
+  file: main.jpg
+  original_id: '2305'
+  created_at: '2012-02-07 14:30:11'
+  updated_at: '2012-02-07 14:30:11'
+  settings: 
+- !ruby/struct:MainImage
+  id: '11'
+  type: MainImage
+  card_id: '85'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '36616'
+  width: '510'
+  height: '198'
+  file: main.jpg
+  original_id: '2261'
+  created_at: '2012-02-07 14:30:13'
+  updated_at: '2012-02-07 14:30:13'
+  settings: 
+- !ruby/struct:MainImage
+  id: '12'
+  type: MainImage
+  card_id: '88'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '72412'
+  width: '510'
+  height: '198'
+  file: main-cercadillos.jpg
+  original_id: '2303'
+  created_at: '2012-02-07 14:30:15'
+  updated_at: '2012-02-07 14:30:15'
+  settings: 
+- !ruby/struct:MainImage
+  id: '14'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '33686'
+  width: '510'
+  height: '198'
+  file: main-princesa.jpg
+  original_id: '2285'
+  created_at: '2012-02-07 14:30:17'
+  updated_at: '2012-02-07 14:30:17'
+  settings: 
+- !ruby/struct:MainImage
+  id: '15'
+  type: MainImage
+  card_id: '55'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '20913'
+  width: '277'
+  height: '208'
+  file: main.jpg
+  original_id: '1195'
+  created_at: '2012-02-07 14:30:19'
+  updated_at: '2012-02-07 14:30:19'
+  settings: 
+- !ruby/struct:MainImage
+  id: '16'
+  type: MainImage
+  card_id: '54'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17618'
+  width: '277'
+  height: '208'
+  file: main.jpg
+  original_id: '1129'
+  created_at: '2012-02-07 14:30:20'
+  updated_at: '2012-02-07 14:30:20'
+  settings: 
+- !ruby/struct:MainImage
+  id: '18'
+  type: MainImage
+  card_id: '12'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '14846'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '231'
+  created_at: '2012-02-07 14:30:22'
+  updated_at: '2012-02-07 14:30:22'
+  settings: 
+- !ruby/struct:MainImage
+  id: '19'
+  type: MainImage
+  card_id: '10'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '12564'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '209'
+  created_at: '2012-02-07 14:30:23'
+  updated_at: '2012-02-07 14:30:23'
+  settings: 
+- !ruby/struct:MainImage
+  id: '20'
+  type: MainImage
+  card_id: '13'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '10795'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '243'
+  created_at: '2012-02-07 14:30:24'
+  updated_at: '2012-02-07 14:30:24'
+  settings: 
+- !ruby/struct:MainImage
+  id: '21'
+  type: MainImage
+  card_id: '79'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17082'
+  width: '492'
+  height: '195'
+  file: ayudacultura.jpg
+  original_id: '2001'
+  created_at: '2012-02-07 14:30:25'
+  updated_at: '2012-02-07 14:30:25'
+  settings: 
+- !ruby/struct:MainImage
+  id: '22'
+  type: MainImage
+  card_id: '77'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '40143'
+  width: '492'
+  height: '218'
+  file: aguadulce1.jpg
+  original_id: '1989'
+  created_at: '2012-02-07 14:30:26'
+  updated_at: '2012-02-07 14:30:26'
+  settings: 
+- !ruby/struct:MainImage
+  id: '23'
+  type: MainImage
+  card_id: '8'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '19797'
+  width: '334'
+  height: '200'
+  file: main.jpg
+  original_id: '129'
+  created_at: '2012-02-07 14:30:28'
+  updated_at: '2012-02-07 14:30:28'
+  settings: 
+- !ruby/struct:MainImage
+  id: '24'
+  type: MainImage
+  card_id: '11'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/gif
+  size: '10554'
+  width: '470'
+  height: '208'
+  file: main.gif
+  original_id: '229'
+  created_at: '2012-02-07 14:30:29'
+  updated_at: '2012-02-07 14:30:29'
+  settings: 
+- !ruby/struct:MainImage
+  id: '25'
+  type: MainImage
+  card_id: '9'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '12190'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '155'
+  created_at: '2012-02-07 14:30:30'
+  updated_at: '2012-02-07 14:30:30'
+  settings: 
+- !ruby/struct:MainImage
+  id: '26'
+  type: MainImage
+  card_id: '49'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '33289'
+  width: '470'
+  height: '200'
+  file: main.jpg
+  original_id: '997'
+  created_at: '2012-02-07 14:30:31'
+  updated_at: '2012-02-07 14:30:31'
+  settings: 
+- !ruby/struct:MainImage
+  id: '27'
+  type: MainImage
+  card_id: '75'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18257'
+  width: '492'
+  height: '195'
+  file: sanjuan02.jpg
+  original_id: '1981'
+  created_at: '2012-02-07 14:30:32'
+  updated_at: '2012-02-07 14:30:32'
+  settings: 
+- !ruby/struct:MainImage
+  id: '28'
+  type: MainImage
+  card_id: '15'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '31253'
+  width: '470'
+  height: '202'
+  file: main.jpg
+  original_id: '291'
+  created_at: '2012-02-07 14:30:33'
+  updated_at: '2012-02-07 14:30:33'
+  settings: 
+- !ruby/struct:MainImage
+  id: '29'
+  type: MainImage
+  card_id: '17'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17476'
+  width: '247'
+  height: '200'
+  file: cuberta_14.jpg
+  original_id: '1301'
+  created_at: '2012-02-07 14:30:34'
+  updated_at: '2012-02-07 14:30:34'
+  settings: 
+- !ruby/struct:MainImage
+  id: '30'
+  type: MainImage
+  card_id: '69'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '28325'
+  width: '510'
+  height: '194'
+  file: 00.jpg
+  original_id: '1781'
+  created_at: '2012-02-07 14:30:36'
+  updated_at: '2012-02-07 14:30:36'
+  settings: 
+- !ruby/struct:MainImage
+  id: '31'
+  type: MainImage
+  card_id: '7'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/png
+  size: '15098'
+  width: '470'
+  height: '208'
+  file: main.png
+  original_id: '119'
+  created_at: '2012-02-07 14:30:37'
+  updated_at: '2012-02-07 14:30:37'
+  settings: 
+- !ruby/struct:MainImage
+  id: '32'
+  type: MainImage
+  card_id: '14'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17810'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '285'
+  created_at: '2012-02-07 14:30:38'
+  updated_at: '2012-02-07 14:30:38'
+  settings: 
+- !ruby/struct:MainImage
+  id: '33'
+  type: MainImage
+  card_id: '16'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '15451'
+  width: '426'
+  height: '208'
+  file: main.jpg
+  original_id: '617'
+  created_at: '2012-02-07 14:30:40'
+  updated_at: '2012-02-07 14:30:40'
+  settings: 
+- !ruby/struct:MainImage
+  id: '34'
+  type: MainImage
+  card_id: '5'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '9252'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '71'
+  created_at: '2012-02-07 14:30:41'
+  updated_at: '2012-02-07 14:30:41'
+  settings: 
+- !ruby/struct:MainImage
+  id: '35'
+  type: MainImage
+  card_id: '48'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18559'
+  width: '470'
+  height: '200'
+  file: main.jpg
+  original_id: '967'
+  created_at: '2012-02-07 14:30:42'
+  updated_at: '2012-02-07 14:30:42'
+  settings: 
+- !ruby/struct:MainImage
+  id: '36'
+  type: MainImage
+  card_id: '65'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '15418'
+  width: '371'
+  height: '200'
+  file: main.jpg
+  original_id: '1693'
+  created_at: '2012-02-07 14:30:45'
+  updated_at: '2012-02-07 14:30:45'
+  settings: 
+- !ruby/struct:MainImage
+  id: '37'
+  type: MainImage
+  card_id: '70'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '53271'
+  width: '510'
+  height: '208'
+  file: 00.jpg
+  original_id: '1793'
+  created_at: '2012-02-07 14:30:46'
+  updated_at: '2012-02-07 14:30:46'
+  settings: 
+- !ruby/struct:MainImage
+  id: '38'
+  type: MainImage
+  card_id: '58'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '23136'
+  width: '492'
+  height: '178'
+  file: main.jpg
+  original_id: '1833'
+  created_at: '2012-02-07 14:30:47'
+  updated_at: '2012-02-07 14:30:47'
+  settings: 
+- !ruby/struct:MainImage
+  id: '39'
+  type: MainImage
+  card_id: '38'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '34061'
+  width: '470'
+  height: '181'
+  file: main.jpg
+  original_id: '953'
+  created_at: '2012-02-07 14:30:48'
+  updated_at: '2012-02-07 14:30:48'
+  settings: 
+- !ruby/struct:MainImage
+  id: '40'
+  type: MainImage
+  card_id: '66'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18105'
+  width: '510'
+  height: '208'
+  file: 01.jpg
+  original_id: '1749'
+  created_at: '2012-02-07 14:30:50'
+  updated_at: '2012-02-07 14:30:50'
+  settings: 
+- !ruby/struct:MainImage
+  id: '41'
+  type: MainImage
+  card_id: '37'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17799'
+  width: '470'
+  height: '175'
+  file: main.jpg
+  original_id: '939'
+  created_at: '2012-02-07 14:30:51'
+  updated_at: '2012-02-07 14:30:51'
+  settings: 
+- !ruby/struct:MainImage
+  id: '42'
+  type: MainImage
+  card_id: '51'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '16277'
+  width: '470'
+  height: '200'
+  file: main.jpg
+  original_id: '1049'
+  created_at: '2012-02-07 14:30:52'
+  updated_at: '2012-02-07 14:30:52'
+  settings: 
+- !ruby/struct:MainImage
+  id: '43'
+  type: MainImage
+  card_id: '57'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '16856'
+  width: '343'
+  height: '208'
+  file: main.jpg
+  original_id: '1521'
+  created_at: '2012-02-07 14:30:53'
+  updated_at: '2012-02-07 14:30:53'
+  settings: 
+- !ruby/struct:MainImage
+  id: '44'
+  type: MainImage
+  card_id: '60'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '19752'
+  width: '480'
+  height: '177'
+  file: main.jpg
+  original_id: '1589'
+  created_at: '2012-02-07 14:30:54'
+  updated_at: '2012-02-07 14:30:54'
+  settings: 
+- !ruby/struct:MainImage
+  id: '45'
+  type: MainImage
+  card_id: '67'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18310'
+  width: '510'
+  height: '208'
+  file: 02.jpg
+  original_id: '1761'
+  created_at: '2012-02-07 14:30:55'
+  updated_at: '2012-02-07 14:30:55'
+  settings: 
+- !ruby/struct:MainImage
+  id: '46'
+  type: MainImage
+  card_id: '27'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '29671'
+  width: '329'
+  height: '208'
+  file: main.jpg
+  original_id: '743'
+  created_at: '2012-02-07 14:30:56'
+  updated_at: '2012-02-07 14:30:56'
+  settings: 
+- !ruby/struct:MainImage
+  id: '47'
+  type: MainImage
+  card_id: '40'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '16340'
+  width: '470'
+  height: '175'
+  file: main.jpg
+  original_id: '955'
+  created_at: '2012-02-07 14:30:57'
+  updated_at: '2012-02-07 14:30:57'
+  settings: 
+- !ruby/struct:MainImage
+  id: '48'
+  type: MainImage
+  card_id: '34'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '11285'
+  width: '302'
+  height: '208'
+  file: main.jpg
+  original_id: '859'
+  created_at: '2012-02-07 14:30:58'
+  updated_at: '2012-02-07 14:30:58'
+  settings: 
+- !ruby/struct:MainImage
+  id: '49'
+  type: MainImage
+  card_id: '64'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '19992'
+  width: '480'
+  height: '164'
+  file: main.jpg
+  original_id: '1687'
+  created_at: '2012-02-07 14:30:59'
+  updated_at: '2012-02-07 14:30:59'
+  settings: 
+- !ruby/struct:MainImage
+  id: '50'
+  type: MainImage
+  card_id: '63'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17519'
+  width: '536'
+  height: '208'
+  file: main.jpg
+  original_id: '1675'
+  created_at: '2012-02-07 14:31:00'
+  updated_at: '2012-02-07 14:31:00'
+  settings: 
+- !ruby/struct:MainImage
+  id: '51'
+  type: MainImage
+  card_id: '62'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '23028'
+  width: '406'
+  height: '208'
+  file: main.jpg
+  original_id: '1653'
+  created_at: '2012-02-07 14:31:01'
+  updated_at: '2012-02-07 14:31:01'
+  settings: 
+- !ruby/struct:MainImage
+  id: '52'
+  type: MainImage
+  card_id: '24'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '41846'
+  width: '293'
+  height: '208'
+  file: main.jpg
+  original_id: '621'
+  created_at: '2012-02-07 14:31:02'
+  updated_at: '2012-02-07 14:31:02'
+  settings: 
+- !ruby/struct:MainImage
+  id: '53'
+  type: MainImage
+  card_id: '39'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '25232'
+  width: '470'
+  height: '205'
+  file: main.jpg
+  original_id: '1149'
+  created_at: '2012-02-07 14:31:04'
+  updated_at: '2012-02-07 14:31:04'
+  settings: 
+- !ruby/struct:MainImage
+  id: '54'
+  type: MainImage
+  card_id: '42'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '18053'
+  width: '470'
+  height: '170'
+  file: main.jpg
+  original_id: '915'
+  created_at: '2012-02-07 14:31:05'
+  updated_at: '2012-02-07 14:31:05'
+  settings: 
+- !ruby/struct:MainImage
+  id: '55'
+  type: MainImage
+  card_id: '61'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '15355'
+  width: '508'
+  height: '208'
+  file: main.jpg
+  original_id: '1619'
+  created_at: '2012-02-07 14:31:06'
+  updated_at: '2012-02-07 14:31:06'
+  settings: 
+- !ruby/struct:MainImage
+  id: '56'
+  type: MainImage
+  card_id: '41'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '28123'
+  width: '470'
+  height: '108'
+  file: main.jpg
+  original_id: '695'
+  created_at: '2012-02-07 14:31:07'
+  updated_at: '2012-02-07 14:31:07'
+  settings: 
+- !ruby/struct:MainImage
+  id: '57'
+  type: MainImage
+  card_id: '50'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '10750'
+  width: '470'
+  height: '127'
+  file: main.jpg
+  original_id: '999'
+  created_at: '2012-02-07 14:31:08'
+  updated_at: '2012-02-07 14:31:08'
+  settings: 
+- !ruby/struct:MainImage
+  id: '58'
+  type: MainImage
+  card_id: '20'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17819'
+  width: '311'
+  height: '208'
+  file: main.jpg
+  original_id: '455'
+  created_at: '2012-02-07 14:31:09'
+  updated_at: '2012-02-07 14:31:09'
+  settings: 
+- !ruby/struct:MainImage
+  id: '59'
+  type: MainImage
+  card_id: '21'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '35813'
+  width: '416'
+  height: '208'
+  file: main.jpg
+  original_id: '473'
+  created_at: '2012-02-07 14:31:10'
+  updated_at: '2012-02-07 14:31:10'
+  settings: 
+- !ruby/struct:MainImage
+  id: '60'
+  type: MainImage
+  card_id: '18'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '32834'
+  width: '364'
+  height: '208'
+  file: main.jpg
+  original_id: '381'
+  created_at: '2012-02-07 14:31:11'
+  updated_at: '2012-02-07 14:31:11'
+  settings: 
+- !ruby/struct:MainImage
+  id: '61'
+  type: MainImage
+  card_id: '19'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '17995'
+  width: '464'
+  height: '208'
+  file: main.jpg
+  original_id: '409'
+  created_at: '2012-02-07 14:31:12'
+  updated_at: '2012-02-07 14:31:12'
+  settings: 
+- !ruby/struct:MainImage
+  id: '62'
+  type: MainImage
+  card_id: '22'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '8692'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '507'
+  created_at: '2012-02-07 14:31:13'
+  updated_at: '2012-02-07 14:31:13'
+  settings: 
+- !ruby/struct:MainImage
+  id: '63'
+  type: MainImage
+  card_id: '23'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '20687'
+  width: '470'
+  height: '163'
+  file: main.jpg
+  original_id: '509'
+  created_at: '2012-02-07 14:31:14'
+  updated_at: '2012-02-07 14:31:14'
+  settings: 
+- !ruby/struct:MainImage
+  id: '64'
+  type: MainImage
+  card_id: '25'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '29084'
+  width: '265'
+  height: '208'
+  file: main.jpg
+  original_id: '629'
+  created_at: '2012-02-07 14:31:15'
+  updated_at: '2012-02-07 14:31:15'
+  settings: 
+- !ruby/struct:MainImage
+  id: '65'
+  type: MainImage
+  card_id: '26'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '38632'
+  width: '470'
+  height: '171'
+  file: main.jpg
+  original_id: '737'
+  created_at: '2012-02-07 14:31:16'
+  updated_at: '2012-02-07 14:31:16'
+  settings: 
+- !ruby/struct:MainImage
+  id: '66'
+  type: MainImage
+  card_id: '28'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '10466'
+  width: '223'
+  height: '208'
+  file: main.jpg
+  original_id: '749'
+  created_at: '2012-02-07 14:31:18'
+  updated_at: '2012-02-07 14:31:18'
+  settings: 
+- !ruby/struct:MainImage
+  id: '67'
+  type: MainImage
+  card_id: '29'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '21819'
+  width: '393'
+  height: '208'
+  file: main.jpg
+  original_id: '761'
+  created_at: '2012-02-07 14:31:19'
+  updated_at: '2012-02-07 14:31:19'
+  settings: 
+- !ruby/struct:MainImage
+  id: '68'
+  type: MainImage
+  card_id: '30'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '22628'
+  width: '470'
+  height: '124'
+  file: main.jpg
+  original_id: '773'
+  created_at: '2012-02-07 14:31:20'
+  updated_at: '2012-02-07 14:31:20'
+  settings: 
+- !ruby/struct:MainImage
+  id: '69'
+  type: MainImage
+  card_id: '31'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '15400'
+  width: '470'
+  height: '150'
+  file: main.jpg
+  original_id: '805'
+  created_at: '2012-02-07 14:31:21'
+  updated_at: '2012-02-07 14:31:21'
+  settings: 
+- !ruby/struct:MainImage
+  id: '70'
+  type: MainImage
+  card_id: '32'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '27796'
+  width: '402'
+  height: '208'
+  file: main.jpg
+  original_id: '839'
+  created_at: '2012-02-07 14:31:23'
+  updated_at: '2012-02-07 14:31:23'
+  settings: 
+- !ruby/struct:MainImage
+  id: '71'
+  type: MainImage
+  card_id: '33'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '26945'
+  width: '470'
+  height: '208'
+  file: main.jpg
+  original_id: '843'
+  created_at: '2012-02-07 14:31:24'
+  updated_at: '2012-02-07 14:31:24'
+  settings: 
+- !ruby/struct:MainImage
+  id: '72'
+  type: MainImage
+  card_id: '35'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '24592'
+  width: '470'
+  height: '155'
+  file: main.jpg
+  original_id: '877'
+  created_at: '2012-02-07 14:31:25'
+  updated_at: '2012-02-07 14:31:25'
+  settings: 
+- !ruby/struct:MainImage
+  id: '73'
+  type: MainImage
+  card_id: '36'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '26164'
+  width: '470'
+  height: '200'
+  file: main.jpg
+  original_id: '913'
+  created_at: '2012-02-07 14:31:26'
+  updated_at: '2012-02-07 14:31:26'
+  settings: 
+- !ruby/struct:MainImage
+  id: '74'
+  type: MainImage
+  card_id: '52'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '16297'
+  width: '374'
+  height: '208'
+  file: main.jpg
+  original_id: '1081'
+  created_at: '2012-02-07 14:31:28'
+  updated_at: '2012-02-07 14:31:28'
+  settings: 
+- !ruby/struct:MainImage
+  id: '75'
+  type: MainImage
+  card_id: '53'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: image/jpeg
+  size: '9600'
+  width: '297'
+  height: '200'
+  file: main.jpg
+  original_id: '1117'
+  created_at: '2012-02-07 14:31:28'
+  updated_at: '2012-02-07 14:31:28'
+  settings: 
+- !ruby/struct:MainImage
+  id: '830'
+  type: MainImage
+  card_id: '82'
+  text: 
+  position: 
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '510'
+  height: '190'
+  file: principal.jpg
+  original_id: 
+  created_at: '2012-02-08 12:32:41'
+  updated_at: '2012-02-08 12:32:41'
+  settings: 
+- !ruby/struct:MainImage
+  id: '859'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-09 17:10:59'
+  updated_at: '2012-02-09 17:10:59'
+  settings: 
+- !ruby/struct:MainImage
+  id: '860'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-09 17:11:19'
+  updated_at: '2012-02-09 17:11:19'
+  settings: 
+- !ruby/struct:MainImage
+  id: '861'
+  type: MainImage
+  card_id: '93'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-09 18:08:17'
+  updated_at: '2012-02-09 18:08:17'
+  settings: 
+- !ruby/struct:MainImage
+  id: '862'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-10 10:02:02'
+  updated_at: '2012-02-10 10:02:02'
+  settings: 
+- !ruby/struct:MainImage
+  id: '863'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '4'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-10 10:02:39'
+  updated_at: '2012-02-10 10:02:39'
+  settings: 
+- !ruby/struct:MainImage
+  id: '864'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '5'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-10 10:02:52'
+  updated_at: '2012-02-10 10:02:52'
+  settings: 
+- !ruby/struct:MainImage
+  id: '865'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '6'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-10 10:03:41'
+  updated_at: '2012-02-10 10:03:41'
+  settings: 
+- !ruby/struct:MainImage
+  id: '881'
+  type: MainImage
+  card_id: '93'
+  text: 
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-15 10:47:13'
+  updated_at: '2012-02-15 10:47:13'
+  settings: 
+- !ruby/struct:MainImage
+  id: '882'
+  type: MainImage
+  card_id: '87'
+  text: 
+  position: '7'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-02-15 10:47:21'
+  updated_at: '2012-02-15 10:47:21'
+  settings: 
+- !ruby/struct:MainImage
+  id: '889'
+  type: MainImage
+  card_id: '94'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '510'
+  height: '190'
+  file: main.jpg
+  original_id: 
+  created_at: '2012-02-15 12:46:10'
+  updated_at: '2012-02-15 12:46:10'
+  settings: 
+- !ruby/struct:MainImage
+  id: '891'
+  type: MainImage
+  card_id: '96'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '510'
+  height: '198'
+  file: main.jpg
+  original_id: 
+  created_at: '2012-02-15 16:10:02'
+  updated_at: '2012-02-15 16:10:02'
+  settings: 
+- !ruby/struct:MainImage
+  id: '902'
+  type: MainImage
+  card_id: '72'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '179'
+  height: '198'
+  file: main3.jpg
+  original_id: 
+  created_at: '2012-02-15 17:26:38'
+  updated_at: '2012-02-15 17:26:38'
+  settings: 
+- !ruby/struct:MainImage
+  id: '903'
+  type: MainImage
+  card_id: '95'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '180'
+  height: '50'
+  file: logo-mini-LP-facebook.gif
+  original_id: 
+  created_at: '2012-02-16 07:56:32'
+  updated_at: '2012-02-16 07:56:32'
+  settings: 
+- !ruby/struct:MainImage
+  id: '914'
+  type: MainImage
+  card_id: '80'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '404'
+  height: '198'
+  file: main.jpg
+  original_id: 
+  created_at: '2012-02-16 18:06:21'
+  updated_at: '2012-02-16 18:06:21'
+  settings: 
+- !ruby/struct:MainImage
+  id: '930'
+  type: MainImage
+  card_id: '91'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '179'
+  height: '198'
+  file: main3.jpg
+  original_id: 
+  created_at: '2012-03-01 10:42:54'
+  updated_at: '2012-03-01 10:42:54'
+  settings: 
+- !ruby/struct:MainImage
+  id: '936'
+  type: MainImage
+  card_id: '99'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '179'
+  height: '198'
+  file: main3.jpg
+  original_id: 
+  created_at: '2012-03-01 12:00:30'
+  updated_at: '2012-03-01 12:00:30'
+  settings: 
+- !ruby/struct:MainImage
+  id: '952'
+  type: MainImage
+  card_id: '81'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '510'
+  height: '198'
+  file: 00_principal.jpg
+  original_id: 
+  created_at: '2012-03-02 08:40:11'
+  updated_at: '2012-03-02 08:40:11'
+  settings: 
+- !ruby/struct:MainImage
+  id: '965'
+  type: MainImage
+  card_id: '86'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '510'
+  height: '198'
+  file: main.png
+  original_id: 
+  created_at: '2012-03-02 10:30:11'
+  updated_at: '2012-03-02 10:30:11'
+  settings: 
+- !ruby/struct:MainImage
+  id: '1000'
+  type: MainImage
+  card_id: '97'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '490'
+  height: '133'
+  file: banner.png
+  original_id: 
+  created_at: '2012-06-27 14:44:54'
+  updated_at: '2012-06-27 14:44:54'
+  settings: 
+- !ruby/struct:MainImage
+  id: '1016'
+  type: MainImage
+  card_id: '98'
+  text: 
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '300'
+  height: '225'
+  file: DSC09508.jpg
+  original_id: 
+  created_at: '2013-02-25 20:33:04.078073'
+  updated_at: '2013-02-25 20:33:04.078073'
+  settings: 

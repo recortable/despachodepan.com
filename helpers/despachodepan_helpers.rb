@@ -33,11 +33,11 @@ module DespachodepanHelpers
 
   def pinta_milestones(card)
     result = ""
-    begin_column = card.begin_column
+    begin_column = begin_column(card)
     for slide in card.slide_images
       pinta_slide(card, slide, begin_column, result)
     end
-    raw result.to_s
+    result.to_s
   end
 
   private
@@ -46,8 +46,8 @@ module DespachodepanHelpers
   def pinta_caption(card)
     id = "caption-#{card.id}"
     width = 200
-    left = (card.begin_column) * BLOC_SIZE - width - 3
-    top = (card.vposition) * BLOC_SIZE
+    left = (begin_column(card)) * BLOC_SIZE - width - 3
+    top = (card.vposition.to_i) * BLOC_SIZE
     style = new_style(left, top, width, nil, nil)
     style['text-align'] = 'right'
     style['color'] = "##{card.color.value}"
@@ -67,8 +67,8 @@ module DespachodepanHelpers
       extra = ''
     end
     extra = extra + " blank" if card.link.present? #|| !card.main_file.nil?
-    top = card.vposition * BLOC_SIZE
-    style = new_style(card.begin_column * BLOC_SIZE, top, BLOC_SIZE, BLOC_SIZE, card.color.value)
+    top = card.vposition.to_i * BLOC_SIZE
+    style = new_style(begin_column(card) * BLOC_SIZE, top, BLOC_SIZE, BLOC_SIZE, card.color.value)
     style['font-size'] = '1px'
     clazz = "card element card#{card.id} #{extra}"
     content_tag :a, card.title, {:class => clazz, :id => id,
@@ -81,7 +81,7 @@ module DespachodepanHelpers
     if square_position != 0
       id = "milestone-#{slide.id}-#{card.id}"
       left = (begin_column + square_position) * BLOC_SIZE
-      top = card.vposition * BLOC_SIZE
+      top = card.vposition.to_i * BLOC_SIZE
       style = new_style(left, top, BLOC_SIZE - 4, BLOC_SIZE - 4, 'white')
       style['border'] = "2px solid ##{card.color.value};"
       style['font-size'] = '1px'
@@ -94,9 +94,9 @@ module DespachodepanHelpers
 
   def pinta_line(card)
     id = "line-#{card.id}"
-    left = (card.begin_column + 1) * BLOC_SIZE + 2
-    width = (card.end_column - card.begin_column - 1) * BLOC_SIZE - 3
-    top = (card.vposition + 1) * BLOC_SIZE - 2
+    left = (begin_column(card) + 1) * BLOC_SIZE + 2
+    width = (end_column(card) - begin_column(card) - 1) * BLOC_SIZE - 3
+    top = (card.vposition.to_i + 1) * BLOC_SIZE - 2
     style = new_style(left, top, width, 2, card.color.value)
     style['font-size'] = '1px'
     pinta_div(id, "card element card#{card.id}", style, '&nbsp;')

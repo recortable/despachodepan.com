@@ -1,10 +1,5 @@
 require 'yaml'
-require_relative '../lib/models/card.rb'
-require_relative '../lib/models/color.rb'
-require_relative '../lib/models/pan.rb'
-require_relative '../lib/models/post.rb'
-require_relative '../lib/models/selection.rb'
-require_relative '../lib/models/tag.rb'
+require_relative '../lib/despachodepan'
 
 class PrepareData
   def initialize
@@ -31,14 +26,17 @@ class PrepareData
   end
 
   def prepare_pans(columns, table)
-    @posts = []
-    @selections = []
+    pans = {}
     table.each do |row|
-      @posts << Post.new(*row) if row[1] == 'Post'
-      @selections << Selection.new(*row) if row[1] == 'Selection'
+      type = row[1]
+      pans[type] ||= []
+      model = Object.const_get(type).new(*row)
+      pans[type] << model
     end
-    save_table('Post', @posts)
-    save_table('Selection', @selections)
+
+    pans.each_key do |key|
+      save_table(key, pans[key])
+    end
   end
 
   def prepare_model(clazz, data)

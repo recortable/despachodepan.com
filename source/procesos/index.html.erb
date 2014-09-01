@@ -2,12 +2,12 @@
 title: procesos
 ---
 
-<% view = ProcessView.new(0) %>
+<% view = process_view(0) %>
 <div id="wrapper" class="autoscroll" data-scrollTime="<%= view.scroll_time %>">
   <div id="grid">
     <div id="content">
       <% view.cards.each do |card| %>
-          <% if card.displayable? %>
+          <% if displayable_card?(card) %>
               <%= pinta_card(card) %>
               <%= pinta_milestones(card) %>
           <% end %>

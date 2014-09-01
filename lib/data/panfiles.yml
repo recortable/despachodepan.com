@@ -1,0 +1,2179 @@
+---
+- !ruby/struct:PanFile
+  id: '719'
+  type: PanFile
+  card_id: '7'
+  text: planos
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1134900'
+  width: 
+  height: 
+  file: co003_stand_interoliva_planos.pdf
+  original_id: '32'
+  created_at: '2012-02-07 14:50:06'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '720'
+  type: PanFile
+  card_id: '20'
+  text: cuaderno
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3032352'
+  width: 
+  height: 
+  file: art005_todas_direcciones_librito.pdf
+  original_id: '39'
+  created_at: '2012-02-07 14:50:23'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '721'
+  type: PanFile
+  card_id: '21'
+  text: cuaderno
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '4809165'
+  width: 
+  height: 
+  file: art006_camouflage_librito.pdf
+  original_id: '41'
+  created_at: '2012-02-07 14:51:11'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '722'
+  type: PanFile
+  card_id: '23'
+  text: cuaderno
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1415090'
+  width: 
+  height: 
+  file: alquife_librito.pdf
+  original_id: '44'
+  created_at: '2012-02-07 14:52:29'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '723'
+  type: PanFile
+  card_id: '25'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '4250321'
+  width: 
+  height: 
+  file: c008_hacienda_rosales_paneles.pdf
+  original_id: '50'
+  created_at: '2012-02-07 14:52:51'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '724'
+  type: PanFile
+  card_id: '39'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3582952'
+  width: 
+  height: 
+  file: paneles.pdf
+  original_id: '66'
+  created_at: '2012-02-07 14:54:00'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '725'
+  type: PanFile
+  card_id: '26'
+  text: cuaderno
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '9922486'
+  width: 
+  height: 
+  file: cuaderno.pdf
+  original_id: '70'
+  created_at: '2012-02-07 14:55:00'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '726'
+  type: PanFile
+  card_id: '35'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '4832652'
+  width: 
+  height: 
+  file: convento_paneles.pdf
+  original_id: '74'
+  created_at: '2012-02-07 14:59:02'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '727'
+  type: PanFile
+  card_id: '41'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1878771'
+  width: 
+  height: 
+  file: vu008_marta_isra_ficha.pdf
+  original_id: '92'
+  created_at: '2012-02-07 15:00:22'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '728'
+  type: PanFile
+  card_id: '14'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '255571'
+  width: 
+  height: 
+  file: of001_vivero_planos.pdf
+  original_id: '101'
+  created_at: '2012-02-07 15:00:56'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '729'
+  type: PanFile
+  card_id: '26'
+  text: planos A3
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '560838'
+  width: 
+  height: 
+  file: vp001_linares_de_la_sierra_planos.pdf
+  original_id: '103'
+  created_at: '2012-02-07 15:01:09'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '730'
+  type: PanFile
+  card_id: '49'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '374540'
+  width: 
+  height: 
+  file: do008_porche_mairena_planos.pdf
+  original_id: '104'
+  created_at: '2012-02-07 15:01:18'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '731'
+  type: PanFile
+  card_id: '12'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '245486'
+  width: 
+  height: 
+  file: do009_maria_zambrano_planos.pdf
+  original_id: '106'
+  created_at: '2012-02-07 15:01:24'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '732'
+  type: PanFile
+  card_id: '13'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '308082'
+  width: 
+  height: 
+  file: do010_comedor_juan_xxiii_planos.pdf
+  original_id: '107'
+  created_at: '2012-02-07 15:01:28'
+  updated_at: '2012-02-07 15:13:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '733'
+  type: PanFile
+  card_id: '50'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '430147'
+  width: 
+  height: 
+  file: vu11_casa_javier_planos.pdf
+  original_id: '108'
+  created_at: '2012-02-07 15:01:33'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '734'
+  type: PanFile
+  card_id: '56'
+  text: textos
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1509525'
+  width: 
+  height: 
+  file: 027_ficha_textos.pdf
+  original_id: '112'
+  created_at: '2012-02-07 15:01:40'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '735'
+  type: PanFile
+  card_id: '17'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1354701'
+  width: 
+  height: 
+  file: vu009_casa_cuberta_planos.pdf
+  original_id: '113'
+  created_at: '2012-02-07 15:02:04'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '736'
+  type: PanFile
+  card_id: '54'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '559895'
+  width: 
+  height: 
+  file: vu014_ficha_A3_planos.pdf
+  original_id: '114'
+  created_at: '2012-02-07 15:02:25'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '737'
+  type: PanFile
+  card_id: '8'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '441771'
+  width: 
+  height: 
+  file: do003_juan_de_mairena_planos.pdf
+  original_id: '115'
+  created_at: '2012-02-07 15:02:34'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '738'
+  type: PanFile
+  card_id: '9'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '357529'
+  width: 
+  height: 
+  file: do004_comedor_guadalquivir_planos.pdf
+  original_id: '116'
+  created_at: '2012-02-07 15:02:42'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '739'
+  type: PanFile
+  card_id: '10'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '298470'
+  width: 
+  height: 
+  file: do005_comedor_hispalis_planos.pdf
+  original_id: '118'
+  created_at: '2012-02-07 15:02:47'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '740'
+  type: PanFile
+  card_id: '55'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '220136'
+  width: 
+  height: 
+  file: vp005_jesus_gran_poder_planos.pdf
+  original_id: '119'
+  created_at: '2012-02-07 15:02:52'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '741'
+  type: PanFile
+  card_id: '30'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '127211'
+  width: 
+  height: 
+  file: vu005_marseille_planos.pdf
+  original_id: '121'
+  created_at: '2012-02-07 15:02:56'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '742'
+  type: PanFile
+  card_id: '27'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '459594'
+  width: 
+  height: 
+  file: vp003_n3rja_planos.pdf
+  original_id: '122'
+  created_at: '2012-02-07 15:02:59'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '743'
+  type: PanFile
+  card_id: '41'
+  text: planos A3
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '750902'
+  width: 
+  height: 
+  file: vu008_marta___isra_planos.pdf
+  original_id: '123'
+  created_at: '2012-02-07 15:03:06'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '744'
+  type: PanFile
+  card_id: '15'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/x-unknown
+  size: '996834'
+  width: 
+  height: 
+  file: vp002_alcala_casa_mas_o_menos_planos.pdf
+  original_id: '124'
+  created_at: '2012-02-07 15:03:23'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '745'
+  type: PanFile
+  card_id: '11'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '608931'
+  width: 
+  height: 
+  file: do006_colegio_jaen_planos.pdf
+  original_id: '125'
+  created_at: '2012-02-07 15:03:42'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '746'
+  type: PanFile
+  card_id: '52'
+  text: dossier elemetos diseño
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '6808961'
+  width: 
+  height: 
+  file: feSt_imagen_y_comunicacion.pdf
+  original_id: '127'
+  created_at: '2012-02-07 15:03:53'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '747'
+  type: PanFile
+  card_id: '48'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3131917'
+  width: 
+  height: 
+  file: c016_vp_la_florida_paneles.pdf
+  original_id: '128'
+  created_at: '2012-02-07 15:05:47'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '748'
+  type: PanFile
+  card_id: '51'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3149776'
+  width: 
+  height: 
+  file: c016_vp_aracena_paneles.pdf
+  original_id: '129'
+  created_at: '2012-02-07 15:06:37'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '749'
+  type: PanFile
+  card_id: '24'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1488499'
+  width: 
+  height: 
+  file: vp_mollina_paneles.pdf
+  original_id: '130'
+  created_at: '2012-02-07 15:07:28'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '750'
+  type: PanFile
+  card_id: '40'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2055506'
+  width: 
+  height: 
+  file: c015_vp_almargen_paneles.pdf
+  original_id: '131'
+  created_at: '2012-02-07 15:07:54'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '751'
+  type: PanFile
+  card_id: '42'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1821753'
+  width: 
+  height: 
+  file: c005_j5_cuevas_paneles.pdf
+  original_id: '132'
+  created_at: '2012-02-07 15:08:29'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '752'
+  type: PanFile
+  card_id: '36'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2823679'
+  width: 
+  height: 
+  file: c004_colegio_aguadulce_paneles.pdf
+  original_id: '133'
+  created_at: '2012-02-07 15:08:57'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '753'
+  type: PanFile
+  card_id: '37'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1522759'
+  width: 
+  height: 
+  file: c009_vp_montoro_paneles.pdf
+  original_id: '134'
+  created_at: '2012-02-07 15:09:49'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '754'
+  type: PanFile
+  card_id: '38'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1645211'
+  width: 
+  height: 
+  file: c010_vp_almeria_paneles.pdf
+  original_id: '135'
+  created_at: '2012-02-07 15:10:15'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '755'
+  type: PanFile
+  card_id: '16'
+  text: planos A3
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '818342'
+  width: 
+  height: 
+  file: vu004_casa_local_planos.pdf
+  original_id: '140'
+  created_at: '2012-02-07 15:10:44'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '757'
+  type: PanFile
+  card_id: '57'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2422582'
+  width: 
+  height: 
+  file: c019_vp_luque_paneles.pdf
+  original_id: '142'
+  created_at: '2012-02-07 15:13:43'
+  updated_at: '2012-02-07 15:13:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '758'
+  type: PanFile
+  card_id: '58'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2689830'
+  width: 
+  height: 
+  file: c018_vp_bujalance_paneles.pdf
+  original_id: '144'
+  created_at: '2012-02-07 15:14:21'
+  updated_at: '2012-02-07 15:14:21'
+  settings: 
+- !ruby/struct:PanFile
+  id: '759'
+  type: PanFile
+  card_id: '58'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1981472'
+  width: 
+  height: 
+  file: c018_vp_bujalance.pdf
+  original_id: '145'
+  created_at: '2012-02-07 15:15:09'
+  updated_at: '2012-02-07 15:15:09'
+  settings: 
+- !ruby/struct:PanFile
+  id: '760'
+  type: PanFile
+  card_id: '57'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1768478'
+  width: 
+  height: 
+  file: c019_vp_luque.pdf
+  original_id: '146'
+  created_at: '2012-02-07 15:15:42'
+  updated_at: '2012-02-07 15:15:42'
+  settings: 
+- !ruby/struct:PanFile
+  id: '761'
+  type: PanFile
+  card_id: '55'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1537911'
+  width: 
+  height: 
+  file: vp005_jesus_gran_poder.pdf
+  original_id: '147'
+  created_at: '2012-02-07 15:16:10'
+  updated_at: '2012-02-07 15:16:10'
+  settings: 
+- !ruby/struct:PanFile
+  id: '762'
+  type: PanFile
+  card_id: '53'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1764618'
+  width: 
+  height: 
+  file: ar011_geografia_affettiva_sevillascan.pdf
+  original_id: '149'
+  created_at: '2012-02-07 15:16:38'
+  updated_at: '2012-02-07 15:16:38'
+  settings: 
+- !ruby/struct:PanFile
+  id: '763'
+  type: PanFile
+  card_id: '52'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1820576'
+  width: 
+  height: 
+  file: di002_fest.pdf
+  original_id: '150'
+  created_at: '2012-02-07 15:17:06'
+  updated_at: '2012-02-07 15:17:06'
+  settings: 
+- !ruby/struct:PanFile
+  id: '764'
+  type: PanFile
+  card_id: '51'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1614510'
+  width: 
+  height: 
+  file: c017_vp_aracena.pdf
+  original_id: '151'
+  created_at: '2012-02-07 15:17:35'
+  updated_at: '2012-02-07 15:17:35'
+  settings: 
+- !ruby/struct:PanFile
+  id: '765'
+  type: PanFile
+  card_id: '48'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1412339'
+  width: 
+  height: 
+  file: c016_vp_la_florida.pdf
+  original_id: '154'
+  created_at: '2012-02-07 15:18:01'
+  updated_at: '2012-02-07 15:18:01'
+  settings: 
+- !ruby/struct:PanFile
+  id: '766'
+  type: PanFile
+  card_id: '42'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1702677'
+  width: 
+  height: 
+  file: c005_j5_cuevas.pdf
+  original_id: '155'
+  created_at: '2012-02-07 15:18:24'
+  updated_at: '2012-02-07 15:18:24'
+  settings: 
+- !ruby/struct:PanFile
+  id: '767'
+  type: PanFile
+  card_id: '40'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1255752'
+  width: 
+  height: 
+  file: vp009_vp_almargen.pdf
+  original_id: '156'
+  created_at: '2012-02-07 15:18:50'
+  updated_at: '2012-02-07 15:18:50'
+  settings: 
+- !ruby/struct:PanFile
+  id: '768'
+  type: PanFile
+  card_id: '39'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1475725'
+  width: 
+  height: 
+  file: c011_colegios_profesionales_osuna.pdf
+  original_id: '157'
+  created_at: '2012-02-07 15:19:10'
+  updated_at: '2012-02-07 15:19:10'
+  settings: 
+- !ruby/struct:PanFile
+  id: '769'
+  type: PanFile
+  card_id: '38'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1340826'
+  width: 
+  height: 
+  file: c010_vp_almeria.pdf
+  original_id: '158'
+  created_at: '2012-02-07 15:19:33'
+  updated_at: '2012-02-07 15:19:33'
+  settings: 
+- !ruby/struct:PanFile
+  id: '770'
+  type: PanFile
+  card_id: '37'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1456959'
+  width: 
+  height: 
+  file: c009_montoro.pdf
+  original_id: '159'
+  created_at: '2012-02-07 15:20:29'
+  updated_at: '2012-02-07 15:20:29'
+  settings: 
+- !ruby/struct:PanFile
+  id: '771'
+  type: PanFile
+  card_id: '36'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1749829'
+  width: 
+  height: 
+  file: c004_colegio_aguadulce.pdf
+  original_id: '160'
+  created_at: '2012-02-07 15:20:58'
+  updated_at: '2012-02-07 15:20:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '772'
+  type: PanFile
+  card_id: '35'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1477106'
+  width: 
+  height: 
+  file: c001_convento.pdf
+  original_id: '161'
+  created_at: '2012-02-07 15:21:32'
+  updated_at: '2012-02-07 15:21:32'
+  settings: 
+- !ruby/struct:PanFile
+  id: '773'
+  type: PanFile
+  card_id: '34'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1400985'
+  width: 
+  height: 
+  file: art010_fabulalienigena.pdf
+  original_id: '162'
+  created_at: '2012-02-07 15:22:00'
+  updated_at: '2012-02-07 15:22:00'
+  settings: 
+- !ruby/struct:PanFile
+  id: '774'
+  type: PanFile
+  card_id: '33'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1800663'
+  width: 
+  height: 
+  file: art009_web-cam-ping.pdf
+  original_id: '163'
+  created_at: '2012-02-07 15:22:22'
+  updated_at: '2012-02-07 15:22:22'
+  settings: 
+- !ruby/struct:PanFile
+  id: '775'
+  type: PanFile
+  card_id: '32'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1504748'
+  width: 
+  height: 
+  file: art003_patterns.pdf
+  original_id: '164'
+  created_at: '2012-02-07 15:22:50'
+  updated_at: '2012-02-07 15:22:50'
+  settings: 
+- !ruby/struct:PanFile
+  id: '776'
+  type: PanFile
+  card_id: '31'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1902954'
+  width: 
+  height: 
+  file: art001_paisajes_mrgnt.pdf
+  original_id: '165'
+  created_at: '2012-02-07 15:23:26'
+  updated_at: '2012-02-07 15:23:26'
+  settings: 
+- !ruby/struct:PanFile
+  id: '777'
+  type: PanFile
+  card_id: '30'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1492564'
+  width: 
+  height: 
+  file: vu005_marseille.pdf
+  original_id: '166'
+  created_at: '2012-02-07 15:23:58'
+  updated_at: '2012-02-07 15:23:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '778'
+  type: PanFile
+  card_id: '29'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1286819'
+  width: 
+  height: 
+  file: vu002_casa_manolo.pdf
+  original_id: '167'
+  created_at: '2012-02-07 15:24:23'
+  updated_at: '2012-02-07 15:24:23'
+  settings: 
+- !ruby/struct:PanFile
+  id: '779'
+  type: PanFile
+  card_id: '28'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1156444'
+  width: 
+  height: 
+  file: vu001_3en1.pdf
+  original_id: '168'
+  created_at: '2012-02-07 15:24:44'
+  updated_at: '2012-02-07 15:24:44'
+  settings: 
+- !ruby/struct:PanFile
+  id: '780'
+  type: PanFile
+  card_id: '27'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1446457'
+  width: 
+  height: 
+  file: vp003_n3rja.pdf
+  original_id: '169'
+  created_at: '2012-02-07 15:25:03'
+  updated_at: '2012-02-07 15:25:03'
+  settings: 
+- !ruby/struct:PanFile
+  id: '781'
+  type: PanFile
+  card_id: '26'
+  text: ficha resumen
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1470478'
+  width: 
+  height: 
+  file: vp001_linares_de_la_sierra.pdf
+  original_id: '170'
+  created_at: '2012-02-07 15:25:28'
+  updated_at: '2012-02-07 15:25:28'
+  settings: 
+- !ruby/struct:PanFile
+  id: '782'
+  type: PanFile
+  card_id: '25'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1765606'
+  width: 
+  height: 
+  file: c007_mairena.pdf
+  original_id: '171'
+  created_at: '2012-02-07 15:25:54'
+  updated_at: '2012-02-07 15:25:54'
+  settings: 
+- !ruby/struct:PanFile
+  id: '783'
+  type: PanFile
+  card_id: '24'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1654694'
+  width: 
+  height: 
+  file: c006_vp_mollina.pdf
+  original_id: '172'
+  created_at: '2012-02-07 15:26:28'
+  updated_at: '2012-02-07 15:26:28'
+  settings: 
+- !ruby/struct:PanFile
+  id: '784'
+  type: PanFile
+  card_id: '23'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1751318'
+  width: 
+  height: 
+  file: c003_alquife.pdf
+  original_id: '173'
+  created_at: '2012-02-07 15:26:55'
+  updated_at: '2012-02-07 15:26:55'
+  settings: 
+- !ruby/struct:PanFile
+  id: '785'
+  type: PanFile
+  card_id: '22'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1476088'
+  width: 
+  height: 
+  file: c002_muro_utrera.pdf
+  original_id: '174'
+  created_at: '2012-02-07 15:27:23'
+  updated_at: '2012-02-07 15:27:23'
+  settings: 
+- !ruby/struct:PanFile
+  id: '786'
+  type: PanFile
+  card_id: '21'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2724104'
+  width: 
+  height: 
+  file: art006_camouflage_autovia_minera.pdf
+  original_id: '175'
+  created_at: '2012-02-07 15:27:47'
+  updated_at: '2012-02-07 15:27:47'
+  settings: 
+- !ruby/struct:PanFile
+  id: '787'
+  type: PanFile
+  card_id: '20'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1262259'
+  width: 
+  height: 
+  file: art005_todas_direcciones_autovia_minera.pdf
+  original_id: '176'
+  created_at: '2012-02-07 15:28:38'
+  updated_at: '2012-02-07 15:28:38'
+  settings: 
+- !ruby/struct:PanFile
+  id: '788'
+  type: PanFile
+  card_id: '19'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1275175'
+  width: 
+  height: 
+  file: art004_piazza_verticale.pdf
+  original_id: '177'
+  created_at: '2012-02-07 15:28:59'
+  updated_at: '2012-02-07 15:28:59'
+  settings: 
+- !ruby/struct:PanFile
+  id: '789'
+  type: PanFile
+  card_id: '18'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1522905'
+  width: 
+  height: 
+  file: art002_usted_esta_aqui_MRGNT.pdf
+  original_id: '178'
+  created_at: '2012-02-07 15:29:20'
+  updated_at: '2012-02-07 15:29:20'
+  settings: 
+- !ruby/struct:PanFile
+  id: '790'
+  type: PanFile
+  card_id: '17'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1566500'
+  width: 
+  height: 
+  file: vu008_casa_cuberta.pdf
+  original_id: '179'
+  created_at: '2012-02-07 15:29:44'
+  updated_at: '2012-02-07 15:29:44'
+  settings: 
+- !ruby/struct:PanFile
+  id: '791'
+  type: PanFile
+  card_id: '16'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1618397'
+  width: 
+  height: 
+  file: vu004_casa_local.pdf
+  original_id: '180'
+  created_at: '2012-02-07 15:30:11'
+  updated_at: '2012-02-07 15:30:11'
+  settings: 
+- !ruby/struct:PanFile
+  id: '792'
+  type: PanFile
+  card_id: '15'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1976513'
+  width: 
+  height: 
+  file: vp002_casa_mas_o_menos.pdf
+  original_id: '181'
+  created_at: '2012-02-07 15:30:36'
+  updated_at: '2012-02-07 15:30:36'
+  settings: 
+- !ruby/struct:PanFile
+  id: '793'
+  type: PanFile
+  card_id: '14'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1910198'
+  width: 
+  height: 
+  file: of001_vivero.pdf
+  original_id: '182'
+  created_at: '2012-02-07 15:31:10'
+  updated_at: '2012-02-07 15:31:10'
+  settings: 
+- !ruby/struct:PanFile
+  id: '794'
+  type: PanFile
+  card_id: '11'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1738966'
+  width: 
+  height: 
+  file: do006_c3_jaen.pdf
+  original_id: '185'
+  created_at: '2012-02-07 15:31:41'
+  updated_at: '2012-02-07 15:31:41'
+  settings: 
+- !ruby/struct:PanFile
+  id: '795'
+  type: PanFile
+  card_id: '10'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1664284'
+  width: 
+  height: 
+  file: do005_hispalis.pdf
+  original_id: '186'
+  created_at: '2012-02-07 15:32:08'
+  updated_at: '2012-02-07 15:32:08'
+  settings: 
+- !ruby/struct:PanFile
+  id: '796'
+  type: PanFile
+  card_id: '9'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1739790'
+  width: 
+  height: 
+  file: do004_guadalquivir.pdf
+  original_id: '187'
+  created_at: '2012-02-07 15:32:35'
+  updated_at: '2012-02-07 15:32:35'
+  settings: 
+- !ruby/struct:PanFile
+  id: '797'
+  type: PanFile
+  card_id: '8'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1290495'
+  width: 
+  height: 
+  file: do003_castilleja.pdf
+  original_id: '188'
+  created_at: '2012-02-07 15:33:08'
+  updated_at: '2012-02-07 15:33:08'
+  settings: 
+- !ruby/struct:PanFile
+  id: '798'
+  type: PanFile
+  card_id: '7'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1806576'
+  width: 
+  height: 
+  file: co003_stand_interoliva.pdf
+  original_id: '189'
+  created_at: '2012-02-07 15:33:30'
+  updated_at: '2012-02-07 15:33:30'
+  settings: 
+- !ruby/struct:PanFile
+  id: '799'
+  type: PanFile
+  card_id: '5'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1396086'
+  width: 
+  height: 
+  file: co002_cOntenedOr.pdf
+  original_id: '190'
+  created_at: '2012-02-07 15:34:07'
+  updated_at: '2012-02-07 15:34:07'
+  settings: 
+- !ruby/struct:PanFile
+  id: '800'
+  type: PanFile
+  card_id: '49'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1893346'
+  width: 
+  height: 
+  file: do008_porche_mairena.pdf
+  original_id: '192'
+  created_at: '2012-02-07 15:34:39'
+  updated_at: '2012-02-07 15:34:39'
+  settings: 
+- !ruby/struct:PanFile
+  id: '801'
+  type: PanFile
+  card_id: '60'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3665969'
+  width: 
+  height: 
+  file: paneles_c023_vp_cerro_muriano.pdf
+  original_id: '193'
+  created_at: '2012-02-07 15:35:15'
+  updated_at: '2012-02-07 15:35:15'
+  settings: 
+- !ruby/struct:PanFile
+  id: '802'
+  type: PanFile
+  card_id: '60'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1666809'
+  width: 
+  height: 
+  file: c023_vp_cerro_muriano.pdf
+  original_id: '194'
+  created_at: '2012-02-07 15:36:16'
+  updated_at: '2012-02-07 15:36:16'
+  settings: 
+- !ruby/struct:PanFile
+  id: '803'
+  type: PanFile
+  card_id: '61'
+  text: paneles
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1268503'
+  width: 
+  height: 
+  file: c022_cdd_el_cerro_paneles.pdf
+  original_id: '195'
+  created_at: '2012-02-07 15:36:47'
+  updated_at: '2012-02-07 15:36:47'
+  settings: 
+- !ruby/struct:PanFile
+  id: '804'
+  type: PanFile
+  card_id: '61'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1406483'
+  width: 
+  height: 
+  file: c022_cdd_el_cerro.pdf
+  original_id: '196'
+  created_at: '2012-02-07 15:37:17'
+  updated_at: '2012-02-07 15:37:17'
+  settings: 
+- !ruby/struct:PanFile
+  id: '805'
+  type: PanFile
+  card_id: '50'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1551509'
+  width: 
+  height: 
+  file: vu011_casa_javier.pdf
+  original_id: '198'
+  created_at: '2012-02-07 15:37:41'
+  updated_at: '2012-02-07 15:37:41'
+  settings: 
+- !ruby/struct:PanFile
+  id: '806'
+  type: PanFile
+  card_id: '14'
+  text: publicacion conarquitectura nº26
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '3169204'
+  width: 
+  height: 
+  file: conarquitectura_n26_oficinas_turbepal.pdf
+  original_id: '201'
+  created_at: '2012-02-07 15:38:07'
+  updated_at: '2012-02-07 15:38:07'
+  settings: 
+- !ruby/struct:PanFile
+  id: '807'
+  type: PanFile
+  card_id: '15'
+  text: publicacion on diseño nº295
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '5390956'
+  width: 
+  height: 
+  file: on_diseno_n295_casa_mas_menos.pdf
+  original_id: '204'
+  created_at: '2012-02-07 15:38:58'
+  updated_at: '2012-02-07 15:38:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '808'
+  type: PanFile
+  card_id: '17'
+  text: publicaciones:conarquitectura n26/neutra n16
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '6676361'
+  width: 
+  height: 
+  file: publicaciones_-_conarquitectura_n_26_-_neutra_n_16.pdf
+  original_id: '205'
+  created_at: '2012-02-07 15:40:26'
+  updated_at: '2012-02-07 15:40:26'
+  settings: 
+- !ruby/struct:PanFile
+  id: '809'
+  type: PanFile
+  card_id: '62'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1737485'
+  width: 
+  height: 
+  file: c026_hospederia_sanjuandedios.pdf
+  original_id: '206'
+  created_at: '2012-02-07 15:42:16'
+  updated_at: '2012-02-07 15:42:16'
+  settings: 
+- !ruby/struct:PanFile
+  id: '810'
+  type: PanFile
+  card_id: '62'
+  text: paneles
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2498965'
+  width: 
+  height: 
+  file: hospederia_sanjuandedios_paneles.pdf
+  original_id: '207'
+  created_at: '2012-02-07 15:42:45'
+  updated_at: '2012-02-07 15:42:45'
+  settings: 
+- !ruby/struct:PanFile
+  id: '811'
+  type: PanFile
+  card_id: '63'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1794030'
+  width: 
+  height: 
+  file: c027_centro_social_ASPREATO.pdf
+  original_id: '208'
+  created_at: '2012-02-07 15:43:24'
+  updated_at: '2012-02-07 15:43:24'
+  settings: 
+- !ruby/struct:PanFile
+  id: '812'
+  type: PanFile
+  card_id: '63'
+  text: paneles
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '2103503'
+  width: 
+  height: 
+  file: paneles.pdf
+  original_id: '209'
+  created_at: '2012-02-07 15:43:54'
+  updated_at: '2012-02-07 15:43:54'
+  settings: 
+- !ruby/struct:PanFile
+  id: '813'
+  type: PanFile
+  card_id: '54'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1697870'
+  width: 
+  height: 
+  file: vu014_la_pa_oleta.pdf
+  original_id: '210'
+  created_at: '2012-02-07 15:44:26'
+  updated_at: '2012-02-07 15:44:26'
+  settings: 
+- !ruby/struct:PanFile
+  id: '814'
+  type: PanFile
+  card_id: '64'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1553150'
+  width: 
+  height: 
+  file: c025_centro_salud_archidona.pdf
+  original_id: '211'
+  created_at: '2012-02-07 15:44:53'
+  updated_at: '2012-02-07 15:44:53'
+  settings: 
+- !ruby/struct:PanFile
+  id: '815'
+  type: PanFile
+  card_id: '64'
+  text: paneles
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1112566'
+  width: 
+  height: 
+  file: centro_salud_archidona_paneles.pdf
+  original_id: '212'
+  created_at: '2012-02-07 15:45:17'
+  updated_at: '2012-02-07 15:45:17'
+  settings: 
+- !ruby/struct:PanFile
+  id: '816'
+  type: PanFile
+  card_id: '65'
+  text: ficha resumen
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1700220'
+  width: 
+  height: 
+  file: c028_concurso_J5_velezrubio_investigacion.pdf
+  original_id: '213'
+  created_at: '2012-02-07 15:45:34'
+  updated_at: '2012-02-07 15:45:34'
+  settings: 
+- !ruby/struct:PanFile
+  id: '817'
+  type: PanFile
+  card_id: '65'
+  text: paneles
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1519728'
+  width: 
+  height: 
+  file: J5_velezrubio.pdf
+  original_id: '214'
+  created_at: '2012-02-07 15:46:00'
+  updated_at: '2012-02-07 15:46:00'
+  settings: 
+- !ruby/struct:PanFile
+  id: '818'
+  type: PanFile
+  card_id: '12'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '1606407'
+  width: 
+  height: 
+  file: do009_maria_zambrano.pdf
+  original_id: '215'
+  created_at: '2012-02-07 15:46:26'
+  updated_at: '2012-02-07 15:46:26'
+  settings: 
+- !ruby/struct:PanFile
+  id: '819'
+  type: PanFile
+  card_id: '13'
+  text: ficha resumen
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '567716'
+  width: 
+  height: 
+  file: do010_comedor_juan_xxiii.pdf
+  original_id: '219'
+  created_at: '2012-02-07 15:46:51'
+  updated_at: '2012-02-07 15:46:51'
+  settings: 
+- !ruby/struct:PanFile
+  id: '824'
+  type: PanFile
+  card_id: '86'
+  text: 'rEactua documento completo '
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '4341752'
+  width: 
+  height: 
+  file: rEActua_Documento_completo.pdf
+  original_id: '226'
+  created_at: '2012-02-07 15:48:43'
+  updated_at: '2012-02-07 15:48:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '825'
+  type: PanFile
+  card_id: '86'
+  text: rEactua presentación
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '250795'
+  width: 
+  height: 
+  file: rEactua_presentacion.pdf
+  original_id: '227'
+  created_at: '2012-02-07 15:49:54'
+  updated_at: '2012-02-07 15:49:54'
+  settings: 
+- !ruby/struct:PanFile
+  id: '826'
+  type: PanFile
+  card_id: '89'
+  text: 'programa talleres '
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '409090'
+  width: 
+  height: 
+  file: programa_talleres_Huevar_lapanaderia.pdf
+  original_id: '228'
+  created_at: '2012-02-07 15:49:58'
+  updated_at: '2012-02-07 15:49:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '828'
+  type: PanFile
+  card_id: '94'
+  text: pdf con ponencia Taller
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: application/pdf
+  size: '7093258'
+  width: 
+  height: 
+  file: presentacion_taller_masoveria_lapanaderia.pdf
+  original_id: '232'
+  created_at: '2012-02-07 15:50:11'
+  updated_at: '2012-02-15 13:14:24'
+  settings: 
+- !ruby/struct:PanFile
+  id: '885'
+  type: PanFile
+  card_id: '95'
+  text: talleres casamasomenos
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '3508'
+  height: '2480'
+  file: diptico_talleres_web.jpg
+  original_id: 
+  created_at: '2012-02-15 10:53:39'
+  updated_at: '2012-02-15 10:53:39'
+  settings: 
+- !ruby/struct:PanFile
+  id: '904'
+  type: PanFile
+  card_id: '95'
+  text: 4 comedores
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '842'
+  height: '1191'
+  file: 4comedores.pdf
+  original_id: 
+  created_at: '2012-02-16 11:51:07'
+  updated_at: '2012-02-16 11:51:07'
+  settings: 
+- !ruby/struct:PanFile
+  id: '905'
+  type: PanFile
+  card_id: '95'
+  text: articulo anuario FAD2008
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '1244'
+  height: '16731303'
+  file: 11-fad-articulo.pdf
+  original_id: 
+  created_at: '2012-02-16 11:51:58'
+  updated_at: '2012-02-16 11:51:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '915'
+  type: PanFile
+  card_id: '96'
+  text: panel 1
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '2000'
+  height: '2828'
+  file: SP012_B1.jpg
+  original_id: 
+  created_at: '2012-02-16 18:33:57'
+  updated_at: '2012-02-16 18:33:57'
+  settings: 
+- !ruby/struct:PanFile
+  id: '916'
+  type: PanFile
+  card_id: '96'
+  text: panel 2
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '2000'
+  height: '2828'
+  file: SP012_B2.jpg
+  original_id: 
+  created_at: '2012-02-16 18:34:30'
+  updated_at: '2012-02-16 18:34:30'
+  settings: 
+- !ruby/struct:PanFile
+  id: '917'
+  type: PanFile
+  card_id: '96'
+  text: panel 3
+  position: '3'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '2000'
+  height: '2828'
+  file: SP012_B3.jpg
+  original_id: 
+  created_at: '2012-02-16 18:35:01'
+  updated_at: '2012-02-16 18:35:01'
+  settings: 
+- !ruby/struct:PanFile
+  id: '929'
+  type: PanFile
+  card_id: '95'
+  text: logo ciudad viva
+  position: '4'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '171'
+  height: '26'
+  file: ciudadviva-small.jpg
+  original_id: 
+  created_at: '2012-03-01 10:40:29'
+  updated_at: '2012-03-01 11:01:32'
+  settings: 
+- !ruby/struct:PanFile
+  id: '931'
+  type: PanFile
+  card_id: '95'
+  text: logo eam
+  position: '5'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '178'
+  height: '109'
+  file: logo-eam.jpg
+  original_id: 
+  created_at: '2012-03-01 11:32:34'
+  updated_at: '2012-03-01 11:32:34'
+  settings: 
+- !ruby/struct:PanFile
+  id: '961'
+  type: PanFile
+  card_id: '1'
+  text: breve dossier lapanaderia
+  position: '1'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '842'
+  height: '595842'
+  file: lapanaderia_dossier_feb_2012.pdf
+  original_id: 
+  created_at: '2012-03-02 09:09:23'
+  updated_at: '2012-03-02 09:12:17'
+  settings: 
+- !ruby/struct:PanFile
+  id: '962'
+  type: PanFile
+  card_id: '1'
+  text: curriculum lapanaderia
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '595'
+  height: '842595'
+  file: lapanaderia_cv_feb_2012.pdf
+  original_id: 
+  created_at: '2012-03-02 09:09:58'
+  updated_at: '2012-03-02 09:09:58'
+  settings: 
+- !ruby/struct:PanFile
+  id: '963'
+  type: PanFile
+  card_id: '95'
+  text: logo convive
+  position: '6'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '150'
+  height: '88'
+  file: logo-convive.png
+  original_id: 
+  created_at: '2012-03-02 09:16:15'
+  updated_at: '2012-03-02 09:21:35'
+  settings: 
+- !ruby/struct:PanFile
+  id: '964'
+  type: PanFile
+  card_id: '95'
+  text: logo cultura
+  position: '7'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '165'
+  height: '56'
+  file: logo-cultura.png
+  original_id: 
+  created_at: '2012-03-02 09:40:37'
+  updated_at: '2012-03-02 09:56:08'
+  settings: 
+- !ruby/struct:PanFile
+  id: '982'
+  type: PanFile
+  card_id: '95'
+  text: PAN MAS O MENOS
+  position: '8'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '172'
+  height: '162'
+  file: PAN.jpg
+  original_id: 
+  created_at: '2012-03-08 15:47:12'
+  updated_at: '2012-03-08 15:47:12'
+  settings: 
+- !ruby/struct:PanFile
+  id: '987'
+  type: PanFile
+  card_id: '95'
+  text: ''
+  position: '9'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '892'
+  height: '1262892'
+  file: contenidos_seminarioACS_coop.viviendas_cesion_de_uso.pdf
+  original_id: 
+  created_at: '2012-05-09 11:25:32'
+  updated_at: '2012-05-15 08:42:05'
+  settings: 
+- !ruby/struct:PanFile
+  id: '990'
+  type: PanFile
+  card_id: '95'
+  text: articulo la vanguardia
+  position: '10'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '758'
+  height: '948758'
+  file: La_panaderia_Culturas.PDF
+  original_id: 
+  created_at: '2012-05-24 09:37:51'
+  updated_at: '2012-05-24 10:21:51'
+  settings: 
+- !ruby/struct:PanFile
+  id: '1001'
+  type: PanFile
+  card_id: '95'
+  text: la organizacion espacial de la heterosexualidad
+  position: '11'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: 
+  height: 
+  file: 
+  original_id: 
+  created_at: '2012-07-02 18:15:43'
+  updated_at: '2012-07-02 18:15:43'
+  settings: 
+- !ruby/struct:PanFile
+  id: '1012'
+  type: PanFile
+  card_id: '56'
+  text: planhaus /PARQ
+  position: '2'
+  date: 
+  body: 
+  rev_date: 
+  content_type: 
+  size: 
+  width: '852'
+  height: '1284852'
+  file: planhaus_parq.pdf
+  original_id: 
+  created_at: '2013-02-07 18:47:42.533128'
+  updated_at: '2013-02-07 18:47:42.533128'
+  settings: 
