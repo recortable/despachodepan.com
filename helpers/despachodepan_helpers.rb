@@ -21,7 +21,7 @@ module DespachodepanHelpers
 
   # ====== TAGS
   def tag_ids(tag)
-    tag.cards.map(&:id).join(',')
+    tag.card_ids.join(',')
   end
 
   # ========= GRID

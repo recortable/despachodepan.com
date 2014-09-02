@@ -39,6 +39,14 @@ Tag = Struct.new(:id, :name, :position, :color_id) do
   def color
     @color ||= Repo.find('Color', color_id)
   end
+
+  def card_tags
+    @card_tags ||= Repo.all('CardTag').select {|ct| ct.tag_id == id.to_s }
+  end
+
+  def card_ids
+    @card_ids ||= card_tags.map {|ct| ct.card_id }
+  end
 end
 
 CardTag = Struct.new(:card_id, :tag_id) do

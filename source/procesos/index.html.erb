@@ -19,3 +19,17 @@ title: procesos
     </div>
   </div>
 </div>
+
+<div id="tags-bar">
+  <ul id="tags" style="">
+    <% view.tags.each do |tag| %>
+        <li class="tag" id="tag_<%= tag.id %>" data-card-ids="<%= tag_ids(tag) %>">
+            <a id="tag-<%= tag.id %>" class="tag tag-link" href="#" style="color: <%= "##{tag.color.value}" %>;"><%= tag.name %></a>
+            <label id="ind-<%= tag.id %>" class="tag-indicator tag-link"
+                   style="color: <%= "##{tag.color.value}" %>; border-color: <%= "##{tag.color.value}" %>">
+              <%= tag.name %>
+            </label>
+        </li>
+    <% end %>
+  </ul>
+</div>

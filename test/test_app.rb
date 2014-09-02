@@ -16,5 +16,9 @@ raise "Timeline position should 14 #{slide.timeline_position}" unless slide.time
 card = Repo.find('Card', 98)
 image = Repo.all('MainImage').find {|i| i.card_id == '98'}
 raise "Main Slide should be present" unless card.main_image == image
-puts card.main_slide
+
+tag = Repo.all('Tag').first
+puts tag.card_tags
+puts tag.card_ids
+
 puts "All tests passed"
