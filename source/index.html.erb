@@ -3,9 +3,9 @@ title: noticias
 ---
 
 <% posts = Repo.all('Post') %>
-<div id="wrapper" class="autoscroll">
+<div id="wrapper" class="">
   <div id="time-panel" style="width: <%= blog_width(posts) %>px;">
-    <div class="line" style="display: none;">
+    <div class="line" style="">
       <%= partial 'post', collection: posts %>
     </div>
   </div>

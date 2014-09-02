@@ -31,7 +31,7 @@ module Despachodepan
 
   def self.load
     MODELS.each {|name| Repo.load(name) }
-    Repo.all('Post').sort_by! {|post| "#{post.rev_date}" }
+    Repo.all('Post').sort_by! {|post| "#{post.rev_date}" }.reverse!
     Repo.all('Selection').sort_by! {|selection| selection.rev_date }
     Repo.all('Tag').sort_by! {|post| post.position }
     puts "Despachodepan loaded."
