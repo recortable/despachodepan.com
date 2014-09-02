@@ -5,6 +5,7 @@ source 'http://rubygems.org'
 gem "middleman", "~>3.3.5"
 
 gem 'redcarpet', "~> 2.2.0"
+gem "middleman-deploy", "~> 0.3.0"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
