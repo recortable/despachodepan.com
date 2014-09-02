@@ -13,6 +13,11 @@ Repo.all('Card').each do |card|
     locals: { card: card}, ignore: true
 end
 
+Repo.all('SlideImage').each do |slide|
+  proxy "/thumb/#{slide.id}", "/thumb.html",
+    locals: { slide: slide}, ignore: true
+end
+
 
 set :css_dir, 'stylesheets'
 

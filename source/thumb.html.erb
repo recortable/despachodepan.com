@@ -1,0 +1,13 @@
+---
+layout: empty
+---
+<div class="mini_slide" style="border-color: <%= "##{slide.card.color.value}" %>;">
+  <div class="mini_image">
+    <%= image_tag(slide.upfile.url(:thumb), :id => 'preview_image') %>
+  </div>
+  <% if slide.body.present? %>
+      <div class="mini_text" style="color: <%= "##{slide.card.color.value}" %>;">
+        <%= render_body(slide) %>
+      </div>
+  <% end -%>
+</div>

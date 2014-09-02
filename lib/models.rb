@@ -46,8 +46,9 @@ end
 
 
 AmazonFile = Struct.new(:name, :prefix, :id) do
-  def url
-    "https://depan.s3.amazonaws.com/#{prefix.downcase}/file/#{id}/#{name}"
+  def url(type = '')
+    filename = type == '' ? name : "#{type}_#{name}"
+    "https://depan.s3.amazonaws.com/#{prefix.downcase}/file/#{id}/#{filename}"
   end
 end
 
