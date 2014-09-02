@@ -1,0 +1,94 @@
+---
+layout: card_layout
+---
+<style type="text/css">
+    #slide_controls a.selected {
+        color: <%= "##{card.color.value}" %>;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid <%= "##{card.color.value}" %>;
+    }
+</style>
+
+
+<% if card.id != 1 and card.id != NAMED[:casamasomenos] %>
+<div id="title" style=" <%= border_tab card.color.value %>">
+  <span style="color: <%= "##{card.color.value}" %>;"><%= card.title %></span>
+</div>
+<% end %>
+
+<div id="card" style="border: 1px solid <%= "##{card.color.value}" %>;"
+ data-card-id="<%= card.id %>" data-card-slug="<%= card.slug %>">
+<div id="properties" class="card_element"
+   style="background-color: <%= "##{card.color.high_value}" %>; color: <%= "##{card.color.value}" %>;">
+
+<div id="files" style="top: <%= 237 - card.pan_files.length * 23 %>px;">
+  <% card.pan_files.each do |file| %>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <%= image_tag '/images/file.gif' %>
+        <div><%= link_to file.text, file.upfile.url, :popup => ['_blank'], :style => "color: ##{card.color.value};" %>    </div>
+      </div>
+  <% end -%>
+</div>
+
+
+
+<% for prop in card_properties(card) %>
+    <div class="prop_name"><%= prop[0] %></div>
+    <div class="prop_value"><%= markdown prop[1] %></div>
+    <div class="prop_separator">&nbsp;</div>
+<% end -%>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<% if card.id == 1 %>
+    <div id="license">
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/es/" target="_blank">
+        <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/es/80x15.png"/>
+      </a>
+    </div>
+<%- end %>
+<%= image_tag card.main_image.upfile.url if card.main_image.present? %>
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <%= markdown card.text %>
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+<% if card.slide_images.size > 0 %>
+  <div id="slides" class="card_element"
+       data-firstId="<%= card.slide_images.first.id %>"
+       data-lastId="<%= card.slide_images.last.id %>">
+    <% card.slide_images.each do |slide| %>
+        <div id="slideImage<%= slide.position %>" class="slide" style="display: none">
+          <%= image_tag slide.upfile.url,
+                        :alt => slide.body.strip,
+                        :size => "#{slide.width}x#{slide.height}" if slide.file.present? %>
+          <div class="slide_text" style="text-align: <%= slide_text_align(slide) %>">
+            <%= markdown slide.body %>
+          </div>
+          <div id="slideNumber<%= slide.position %>" style="display: none;"><%= slide.position %></div>
+        </div>
+    <% end %>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <%= link_to image_tag('arrowleft1.gif', alt: 'primera'), '#', id: 'slideFirst', class: 'arrow' %>
+    <%= link_to image_tag('arrowleft2.gif', alt: 'anterior'), '#', id: 'slidePrev', class: 'arrow' %>
+    &nbsp;<span id="number_control"></span> / <span><%= card.slide_images.length %></span>&nbsp;
+    <%= link_to image_tag('arrowright1.gif', alt: 'siguiente'), '#', id: 'slideNext', class: 'arrow' %>
+    <%= link_to image_tag('arrowright2.gif', alt: 'última'), '#', id: 'slideLast', class: 'arrow' %>
+  </div>
+<% end %>
+</div>

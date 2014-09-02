@@ -8,6 +8,11 @@ Despachodepan.load
 # require "lib/helpers/despachodepan_helpers"
 # helpers DespachodepanHelpers
 
+Repo.all('Card').each do |card|
+  proxy "/#{card.title.parameterize}", "/card.html",
+    locals: { card: card}, ignore: true
+end
+
 
 set :css_dir, 'stylesheets'
 

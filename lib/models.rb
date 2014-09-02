@@ -3,16 +3,31 @@ Card = Struct.new(:id, :title, :text, :properties, :main_image_id, :vposition,
  :created_at, :updated_at, :url, :slides_count, :selected, :selection_image_id,
  :selection_body, :selection_position, :slug) do
 
+  NAMED = {lapanaderia: 1, casamasomenos: 72}
+
+  def ids
+    @ids ||= id.to_s
+  end
+
    def color
      @color ||= Repo.find('Color', color_id)
    end
 
    def main_slide
-     Repo.find('MainImage', main_slide_id)
+     @main_slide ||= Repo.all('SlideImage').find {|i| i.card_id == ids}
+   end
+
+   def main_image
+     @main_image ||= Repo.all('MainImage').find {|i| i.card_id == ids}
    end
 
    def slide_images
-     @slide_images ||= Repo.all('SlideImage').select {|image| image.card_id == id}
+     # TODO: order
+     @slide_images ||= Repo.all('SlideImage').select {|image| image.card_id == ids}
+   end
+
+   def pan_files
+     @pan_files ||= Repo.all('PanFile').select {|file| file.card_id == ids }
    end
 end
 
@@ -45,7 +60,7 @@ Pan = Struct.new(:id, :type, :card_id, :text, :position,
     end
 
     def upfile
-      @file ||= AmazonFile.new(file, self.class.to_s, id)
+      @file ||= AmazonFile.new(file, self.class.to_s.underscore, id)
     end
 end
 
@@ -63,12 +78,16 @@ end
 
 class SlideImage < Pan
   def timeline_position
-    load_settings
-    @settings[:timeline_position]
+    get_setting :timeline_position
   end
 
-  def load_settings
-    @settings = YAML.load(settings)
+  def text_align
+    get_setting :text_align
+  end
+
+  def get_setting(name)
+    @settings ||= YAML.load(settings)
+    @settings[name]
   end
 end
 

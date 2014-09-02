@@ -3,7 +3,15 @@ module CardHelpers
   BLOCS_PER_YEAR = 16
   DAYS_PER_BLOC = 365 / 16
 
-
+  def card_properties(card)
+    properties = []
+    card.properties.each_line do |line|
+      splitted = line.split(%r{:\s})
+      splitted[0], splitted[1] = '', splitted[0] if splitted.length == 1
+      properties << splitted
+    end
+    properties
+  end
 
   def visible_card?(card)
     card.visible == true
